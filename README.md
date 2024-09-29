@@ -103,3 +103,57 @@ The project outputs:
 
 - Enhance recommendation credibility by matching company names and work terms
 - Implement continuous learning to improve fraud detection accuracy
+
+# Application/UI for Satya
+
+## Features
+- Candidate database browsing with pagination
+- Skill-based filtering
+- Detailed candidate profile view
+- AI-generated resume summaries
+- Visual representation of candidate scores
+- Chatbot for asking questions about candidates
+
+## Prerequisites
+- Python 3.7+
+- Streamlit
+- Pandas
+- Groq API key
+- Plotly
+- LangChain
+
+## Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-repo/hiring-with-satya.git
+   cd hiring-with-satya
+   ```
+
+2. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Set up your Groq API key:
+   - Create a `.env` file in the project root
+   - Add your Groq API key: `GROQ_API_KEY=your_api_key_here`
+
+## Usage
+1. Ensure you have the necessary CSV files in the project directory:
+   - `streamlit_table.csv`
+   - `resume_text.csv`
+
+2. Run the Streamlit app:
+   ```
+   streamlit run app.py
+   ```
+
+3. Open your web browser and navigate to the provided local URL (usually `http://localhost:8501`)
+
+## How It Works
+1. **Candidate Database**: Browse through candidate profiles with pagination.
+2. **Skill Filtering**: Use the multiselect feature to filter candidates based on skills.
+3. **Profile View**: Click on "View Profile" to see detailed information about a candidate.
+4. **Resume Summary**: AI-generated summary of the candidate's resume.
+5. **Score Visualization**: Circular bar charts display various scores for the candidate.
+6. **Chatbot**: Ask questions about the candidate and receive AI-powered responses.
