@@ -123,18 +123,12 @@ The project outputs:
 - LangChain
 
 ## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-repo/hiring-with-satya.git
-   cd hiring-with-satya
-   ```
-
-2. Install the required packages:
+1. Install the required packages:
    ```
    pip install -r requirements.txt
    ```
 
-3. Set up your Groq API key:
+2. Set up your Groq API key:
    - Create a `.env` file in the project root
    - Add your Groq API key: `GROQ_API_KEY=your_api_key_here`
 
