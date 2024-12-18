@@ -1,0 +1,131 @@
+MANAGER, ADVISORY, PERFORMANCE IMPROVEMENT
+Career Overview
+Experienced Solution Architect and System z Mainframe Technology Evangelist with over 12 years of IT industry experience focusing on large
+Banking & Financial Services and Government clients across ASEAN region. Proven record of constantly delivering high performance and result
+oriented professional with exceptional management and consultative selling skills. Demonstrated ability to work independently or as a team player
+in various projects.
+Fast Learner â€“ Good Analytical - Innovative - Goal-Oriented - Flexible
+Recent Accomplishments
+Over-achieving the ASEAN sales goals for IBM software every year by closing high values deals e.g. Core system modernization,
+integrations and new workload for banking and government clients and awarded the IBM Hundred Percent Achievement Club.
+Awarded the Sales Eminence Award for being the top high performer by demonstrating technical leadership in delivering new and complex
+high quality solution to clients in response to varying business requirements to many large customers in ASEAN resulting in various high
+value deals closure and growing IBM solution footprint in ASEAN.
+Consistent Top High Performance rating every year in IBM.
+Awarded the Outstanding Technical Achievement Award for outstanding competitive wins with IBM solution including competitive takeout
+in various accounts ASEAN.
+Achieved the IBM Certified IT Specialist certification in 2012.
+Able to build long term client relationship and became trusted adviser to clients and has engaged with IT and C-level leaders to influence
+clients to adopt IBM solutions leading to improved and successful client in meeting business needs. Successful projects including new Core
+system modernization and integration, replacement and revamp in addition to various banking and government new business initiatives.
+Work Experience
+10/2014
+ 
+to 
+Current
+Manager, Advisory, Performance Improvement
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+GST implementation project in RHB Group in Malaysia
+05/2008
+ 
+to 
+10/2014
+Client Solution Architect, IBM Software Group, ASEAN
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Focus on driving new solution/workload in key account for sales closure by working with clients to understand their business requirements and
+propose IT solutions to address them as well as oversee the delivery of the proposed solution. Provides overall technical responsibilities for the
+success of the solution design and construction specializing in enterprise modernization and integration of legacy systems and middleware solutions
+like ESB, BPM, Cloud Computing and Mobility for Financial Services and Government customers across the ASEAN region. Proven record of
+closing high value deals in large accounts with consistent year-to-year revenue growth for IBM Software.
+Experience in working with clients to run presentations/demos/POCs and workshops including performance assessment, system healthcheck,
+integration architecture workshops by analyzing and developing standards/recommendations and architectural governance and best practices for
+customers to improve their core system availability and optimization for cost savings resulting in many large deals closure.
+Specialties: SOA, Enterprise Application Integration (EAI), BPM, Cloud, Mobility, 
+WebSphere, Rational Enterprise Modernization, DevOps,
+Core Banking, Capacity Planning and System z upgrade, 
+System z (Mainframe) OS - z/OS, Linux, CICS and Solutions Architecture
+05/2007
+ 
+to 
+05/2008
+Core Banking Consultant
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Provided technical leadership on Core Banking business processes and requirement for success of the development, maintenance and
+implementation of ICBA for banking customers. ICBA is a full fledged web-based core banking systems utilizing open systems technologies like
+J2E and Oracle and IBM solutions.
+Designed enhancement and prepared functional requirements specification and ensured solution delivery based on banking systems' best practices
+and provide support to banking customers in area of 
+Deposit/ Trade Finance/ Treasury/ Remittances/ GL modules of ICBA06/2003
+ 
+to 
+01/2007
+System Analyst
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Responsible for developing and application design of new projects and maintenance of Core Banking system running on the mainframe system.
+Specialized in Core Payment Systems â€“ SWIFT, RENTAS, Interbank GIRO, and Inward and Outward Cheque Clearing. Implemented new
+major projects include Foreign Bills Collection / Mobile Banking. Team lead for new Auto Payments System project. Worked on projects and
+service modification for both online and batch applications. Tasks involved were analysis, research, estimation, coding, testing and documentation
+with strict adherence to system standards.
+Part of the New Core Banking Replacement project team. Constantly evaluates different vendors system and functionality. Knowledgeable in new
+technologies i.e. SOA, integration of multiplatform systems, best practices in banking systems. Involved in gathering requirements and evaluation in
+RFI and RFP process of New Core Banking replacement project involving proposal from i-Flex / Infosys / TATA / Temenos and Silverlake.
+Worked closely with user departments, troubleshooting problems and designing new or improved applications and initiated problem determination
+analysis model to identify problems and provide solutions on Core system.
+Constantly reviewed users specifications, analyzed and responded to their business requirements by preparing solutions. Constantly performing
+study and research and providing innovative ideas and new technology advances to improve payment systems in area of flexibility, scalability and
+connectivity, process flow of systems and for system and application tuning. My knowledge and experience of various IBM and CA tools and
+MVS Utilities-DFSORT/ICETOOL, DFSMS) allowed me to be a major contributor toward the success of Maybank IT initiatives to improve
+time to market for new product implementation.
+Organized and coordinate trainings for Maybank Technical staffs and managed focus groups to perform study and research core banking
+applications. Staff productivity, exposure and learning have been improved.
+Skills
+11 
+years of experience in System z and distributed applications development on z/OS, Programming languages : COBOL, PL/I, 
+PL/SQL , EGL,
+Databases - DB2, Oracle, IDMS/ADSO, MQ and Enterprise Connectivity - ESB, Message Broker, Business rules and events, Business Process
+Management, Mobile and Cloud, Middleware - WAS, CICS
+Specialize in IBM software focusing on IBM Rational and WebSphere solutions â€“ RDz, RAA, RBD-EGL, RTCz, Quality Management and
+skilled in area of CICS Modernization , Web 2.0, SOA, Mobility, BPM, Business Rules Management
+Education and Training
+2003
+Bachelor of Science in Computer Science
+ 
+: 
+Majoring in Software Engineering
+ 
+University of Malaya
+ 
+ï¼​ 
+State
+ 
+, 
+Malaysia
+Graduated with CGPA of 3.43 of 4.00 with Dean's List

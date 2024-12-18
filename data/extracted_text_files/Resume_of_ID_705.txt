@@ -1,0 +1,164 @@
+SENIOR VICE-PRESIDENT AND CHIEF INFORMATION OFFICER
+Core Accomplishments
+Strategized with various areas of business to develop a proof of concept with an international financial company headed by a world-renowned
+Nobel Peace Prize winner to establish the principle of micro-lending for low income, immigrant families
+Professional Experience
+Senior Vice-President and Chief Information Officer
+ 
+, 
+01/2009
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Industry expert in a wide variety of technology systems, business applications and IT service management. Primary focus: Network Security
+and IT Operational Management using the fundamentals of scalar design/architecture and business process improvement. Create "living"
+technology that supports strategic vision and goals, as well as growing customer needs.
+Instituted a technology roadmap to guide the IT department with proper business alignment to create measurable, efficient and sustainable
+technology for Goodwill's various business verticals - Retail and eCommerce, Employment and Contracts, Mission Services.
+Outsourced selected portions of the IT process to facilitate the development of additional operational efficiencies to improve the technology
+infrastructure.
+Designed and collaborated with architects, engineers, and industry technology leaders in the build and operation of Second Generation Data
+Centers and collocated sites.
+Designed a Business Continuity strategy that incorporates all critical aspects of the business to ensure the business remains solvent in the
+event of service interruption or significant business disruption.
+Improved IT spend through proper fulfillment and procurement process provisioning - CapEx and OpEx improvements realized to ease the
+associated costs of technology growth.
+Proper sourcing of selected areas of the IT business process through staff augmentation, outsourcing, in-sourcing and near-shore
+opportunities to improve IT effectiveness and service delivery.
+Provided guidance and expertise on various panels, as well as interviewed by various media outlets and corporations for case-studies and
+dialogues around strategic IT - CIO magazine, Fierce CIO, CIO Zone, Enterprise Mobility, Enterprise CIO Forums, CIO Summit, CDW,
+CDM, Cisco, Splashtop, VEEAM, Airwatch, Quantum Technologies, ZDNet.
+Vice-President, Information Technology
+ 
+, 
+01/2005
+ 
+to 
+01/2009
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Designed a system to overhaul the entire information gathering and distribution process through the use of portal technology. Streamlined
+operations and in doing so foster an atmosphere of empowerment and accountability using the principles of Enterprise Resource Planning.
+Outsourced selected portions of the IT process to facilitate the development of additional operational efficiencies to improve the technology
+infrastructure, reduce costs, improve effectiveness and sharpen internal focus on development activities.
+Developed a Managed Print Service (MPS) program with a Multi-Function printer network to produce copy, print, email, e-file and scan at
+stations within key departments as part of a preliminary Document Management System. The MPS significantly reduced costs for
+developing print materials over traditional copy machine equipment as the ROI was seen within months versus years.
+Strategized with various areas of business to develop a proof of concept with an international financial company headed by a world-
+renowned Nobel Peace Prize winner to establish the principle of micro-lending for low income, immigrant families.
+Authored a case study to review non-profit technologies. This study was based on a review of industry leading technologies in comparison
+to Goodwill's Retention Policy as it related to the Disaster Recovery Policy/Business Continuity Plan. Realized a 43% savings over the cost
+of the equipment.
+Technology Visionary - Developed the ROI, gained approval and then guided the development and subsequent re-development of a
+homegrown case management application to improve the future state of Mission Service and Employment business verticals. This
+application has been a proven leader among competitors.
+Technology Visionary - Engineered the platform to support Goodwill's first Blade Server and Data De-duplication technology, as well as
+server virtualization, to increase performance and availability while reducing management overhead - the fore-runner to some of the
+technologies widely used by Fortune 100 companies from that time until now.
+Manager/Senior Network Engineer, Information Technology
+ 
+, 
+01/2001
+ 
+to 
+01/2005
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Challenged to secure and improve reliability of wide area network and all future business expansions sites.
+Chief Architect - Designed and implemented corporate-wide, platform-independent, Personal Information Manager (PIM) with Microsoft
+Exchange\Outlook to replace Novell based Pegasus email system.
+Strategic Visionary - Chief Architect - Designed and Implemented the process of a tiered in-place migration from Novell NetWare to MS
+Windows: transitioned from Netware Directory Service to Microsoft Active Directory Service, migrated user and group accounts,
+transitioned from Novell based WAN to an Active Directory Domain Forest, migrated file and print services, redesigned proprietary
+databases.
+Responsible for overall performance and availability of all aspects of the network.
+Analyze network and design upgrades/changes as needed.
+Assess the company's current and future network needs using scalable systems.
+Responsible for all aspects of E-mail group.
+Oversee the design, development, release, and maintenance of e-mail application systems.
+Responsible for all aspects (software and hardware) of organization's network systems.
+Recommend, implement, and maintain network architectures (LAN and WAN).
+Assist in the development and maintenance of network communications.
+Use knowledge of LAN/WAN systems to help plan and install internal and external networks.
+Test and evaluate network systems to eliminate problems and make improvements.Network Administrator
+ 
+, 
+01/1997
+ 
+to 
+01/2001
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Network Administration
+Install, configure and maintain organization's network.
+Build networks and maintain external and internal web presence; administer the networks.
+Perform system backups on its internal and external web network servers.
+Design and support server systems and supporting software.
+Support, monitor, test and troubleshoot hardware and software problems pertaining to LAN.
+Install, configure and repair workstations.
+Provide end users support for all LAN-based applications.
+Education
+Bachelor of Arts
+ 
+:
+ 
+Geography
+ 
+State University of New York at Stony Brook
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+, 
+US
+ 
+, CERTIFICATIONS & AFFILIATIONS
+Bachelor of Arts - Sociology Bachelor of Science - Biochemistry Associates - Geography State University of New York at Stony Brook, Stony
+Brook, New York
+Certifications
+Microsoft Certified Systems Engineer
+Certified Information Systems Security Professional
+CISSP
+Certified Ethical Hacker (CEH) v8
+Information Technology Infrastructure Library Foundations
+Goodwill Industries International, Executive Development Program Graduate
+Mobile Enterprise Executive Panelist
+Gartner Summit Panelist
+Enterprise CIO Forum Contributor
+Wall Street Journal CIO Contributor (Candidate)
+Skills
+Business Continuity, Technology Infrastructure, File, Lan, Architecture, Business Process Improvement, Cdm, Cisco, Contracts, Ecommerce,
+Fulfillment, Network Security, Opex, Process Improvement, Procurement, Provisioning, Retail, Retail Marketing, Security, Case Management,
+Copy Machine, Disaster Recovery, Document Management, Enterprise Resource Planning, Increase, Lending, Operations, Roi, Server
+Virtualization, Virtualization, Active Directory, Databases, Directory Service, Engineer, Exchange, Lan/wan, Maintenance, Microsoft Exchange,
+Netware, Novell, Outlook, Backups, Its, Network Administration, Workstations, Certified Information Systems Security Professional, Cissp,
+Information Technology Infrastructure Library, Itil, Journal, Systems Engineer, Systems Security, Biochemistry

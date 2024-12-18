@@ -1,0 +1,193 @@
+INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER)
+Summary
+Over 3 yearsÂ of experience serving as a key contributor across all software development life cycleÂ phases includingÂ analysis,
+architectural design, prototyping, development, and testing of applicationÂ using Java/J2EE technologies in various domains.
+Very good understanding of Object Oriented Programming, Data Structure, Algorithms, Design Patterns and Distributed Systems.
+Excellent working experience in backendÂ development using different Spring modules like Spring Core ContainerÂ Module, AOP, MVC,
+Security, Data, Transaction Management etc.
+Experienced in developing Microservices with Spring Boot, Spring REST, Spring Cloud, etc.
+Extensive experience in developing Web interfaces using HTML5, CSS3, Bootstrap, SASS, LESS, JavaScript, jQuery, AngularJS,
+ReactJS and BackboneJS.
+Experienced in working with SQL databases like MySQL, PostgreSQL, Oracle and have some knowledge of NoSQL databases like
+MongoDB.
+Expertise working in Agile methodology environments like Scrum.
+Experienced in working with Version Control Tools like SVN and Git.
+Experienced in performing automation using Selenium, Java and performing Behavioral driven testing using Cucumber.
+Experienced in build tools like Ant, Maven, Gradle and using them with continuous integration tools like Jenkins.
+A proactive learner with exceptional analytical, design and problem-solving capabilities.
+Excellent communication skills including formal presentations and technical documentation.
+Productive in both team-based and self-managed projects.
+Skills
+Programming Languages: Java/J2EE, JavaScript, Android, HTML, CSS, SQL, C, C
+Frameworks and Libraries: Spring, Restful-Web Services, Hibernate, AngularJS, ReactJS, jQuery, Bootstrap,Â Selenium WebDriver,
+Cucumber
+Databases: MySQL, PostgreSQL, Oracle, MongoDB, H2
+Build Tools: Gradle, Maven, Ant
+Practices: Agile/Scrum, Waterfall, TDD, Clean Coding, Continuous Delivery
+Architectures: Microservices, Single Page Application, REST, Client/Server
+Version Control: SVN, Git
+Cloud Application Platform: AWS
+Others: Bower, Grunt, Npm, Node, JSON, XML, Jenkins
+IDE: Eclipse, IntelliJ, Android Studio
+Operating Systems: Linux, Windows
+Experience
+Information Technology Intern (Test Automation Engineer)
+ 
+05/2017
+ 
+to 
+08/2017
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Created nicely baked â€˜Test Automation Framework' to provide an execution environment for the automation test scripts. The framework
+allowed automated regression testing of â€˜WebTix', frontend/web interface that ExtremeTix's (Ticketing Solution Company) clients use to
+access web services.
+Extensively used Selenium WebDriver and Spring Boot combined to write automation scripts for dynamic pages of â€˜WebTix' written on
+AngularJS Framework. Modularized web components as Java objects following Page Object Model i.e created Object repository for all
+locators which can be easily automated.
+Leveraged the benefits of both data-driven and behavior-driven approaches and built the framework that is maintainable and reusable.
+Integrated automated tests with Cucumber (behavior-driven testing framework) to allow Quality Assurance team write high-level use cases
+in plain text.
+Leveraged Jenkins to build automated tests project and use Selenium Grid to run parallel tests across multiple browsers and platforms.
+Automated reports generation and distribution.
+Interpreted and converted manual test cases into automation smoke and regression suites.
+Trained and supported the QA team with automation framework and script issues.
+Collaborated with the QA team and went through an evolutionary approach in writing concise documentation to help configure the
+framework and add new automated tests as required.
+Worked on JIRA tool to create and track new project/issue.
+Java Full Stack Developer
+ 
+05/2014
+ 
+to 
+06/2016
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Worked on varied aspects of application development including requirement analysis, design, implementation, and testing.
+Coded and debugged multi-tiered Java-based applications to provide enterprise and embedded solutions using Java and Spring framework
+APIs like MVC, AOP, DAO, JDBC, Transaction, Validation, Annotation, JSON, XML, Maven and JUnit Test.
+Involved in implementation of applications using conventional design practices (SOA - Service Oriented Architecture).
+Developed database access layers using Spring Data JPA and Hibernate.
+Developed REST web services for external application integration.
+Developed a Java-based SDK and driver software for making the card reader, PUA-310V-0/M2U2/Y4 to work on Linux environment.
+Did extensive research on smart card technology (NFC, Mifare, DESFire, etc.) for projects like VMS (Visitor Management System) andSCBTIMS (Smart Card Based Trekkers' Information Management System).
+Was responsible for writing core software logic for QMS (Queue Management System) in Java, developing plugin architecture and
+implementing RS485, TCP & HTTP channels as plugins for interfacing QMS hardware devices.
+Worked as a development coordinator for projects like VMS (Visitors Management System), QMS (Queue Management System),
+SCBTIMS (Smart Card Based Trekkers' Information Management System).
+Worked with JS, JSP, HTML, CSS, Bootstrap, AngularJS and ReactJS to design and develop interactive user interfaces and HMI (Human
+Machine Interface) for real-time data monitoring and interactions.
+Built multiple mobile applications (Android and iOS) for real-time monitoring of hydrologic parameters and alert dissemination during floods
+and glacial lake outburst risks.
+Gained experience in multi-platform mobile application development technologies like PhoneGap and Titanium.
+Fixed bugs and implemented improvement features using Java and J2EE on large scale projects through reviews of codes and test cases,
+analysis of change requests and enhancements, investing alternate configurations and implementing better solutions.
+Leveraged an array of tools to optimize efficiency, including OpenERP for project management, Git for source control and versioning,
+sophisticated IDEs such as IntelliJ and many other.
+Was responsible for client interactions and handling technical aspects in a sales pitch.
+Java Developer Intern
+ 
+03/2014
+ 
+to 
+05/2014
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Core Java programming with Multithreading Exception Handling, File Handling, IO, Generics, and Java Collections.Â 
+Developed the entire MRP (Machine Readable Passport) Reading Module both backend and frontend by utilizing Java 1.7 and Java Swing.
+Used JDBC for database connectivity to SQL Server.
+Involved in backend development and optimizing the search engine for Nepal Tourism Board (NTB)'s website.
+Involved in bug fixing, code enhancements, and maintenance activities.
+Prepared test plans for unit testing and implemented test cases using JUnit.
+Software Developer Intern
+ 
+01/2013
+ 
+to 
+10/2013
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Designed and developed applications using Scrum, an iterative and incremental Agile Software Development methodology.
+Performed back-end development using PHP (CodeIgniter MVC Framework).
+Developed CMS like system majorly based on PHP and MYSQL.
+Built a file-crawler app in CodeIgniter for sorting and removing duplicates and redundant files.
+Created data entry forms in HTML embedded with PHP.
+Trained in effectively utilizing agile methodologies and Object Oriented Programming practices.
+Maintained project documentation.
+Trained in utilizing version control system like Git and managing project timeline by use of OpenERP, a comprehensive suite of business
+applications.
+Responsible for writing User and Administrator Modules of PHP MySQL applications as per the technical specifications.
+Responsible for implementing and hosting of prototype systems on test servers.
+Attended seminars and workshops about SQL (Structured Query Language) and Database Design.
+Education
+Master of Science
+ 
+: 
+Computer Science
+ 
+2017
+ 
+Lamar University
+ 
+City
+ 
+, 
+State
+ 
+, 
+United States of America
+ 
+GPA: 4.0/4.0
+Bachelor of Engineering
+ 
+: 
+Electronics and Communication Engineering
+ 
+2013
+ 
+Tribhuvan University
+ 
+City
+ 
+, 
+State
+ 
+, 
+Nepal
+ 
+GPA: 3.94/4.0
+Honours and Distinction
+Winner of National Robotics Competition, 'Yantra 1.0' organized by Robotics Association of Nepal (RAN): July 2012
+Outstanding Student Award, Lamar University: Fall 2017Â 
+Extra-Curricular Activities
+Resource Manager in Robotics Club, Kathmandu Engineering College, Tribhuvan University (2013 - 2013).
+Twice the winner of National Robotics Competition organized by Robotics Association of Nepal (RAN).
+Conducted and mentored 'Microcontroller Workshop (13th January 2013)', and 'Circuit Synthesis Training Program (14th June 2013)' at
+Kathmandu Engineering College.
+Presented ideas and project based on Android controlled robot in Locus 2013, Annual Technological Festival, Nepal
+Gave a presentation to Nepal Army Club on the application of robotics in safety and security (during Tech Exhibition 2013).
+Treasurer and Event Organizer in Nepalese Student Association (NSA) at Lamar University (2016 - 2017).
+Website and Links
+Website: www.sagunpandey.com
+LinkedIn: www.linkedin.com/in/sagunpandey
+GitHub: www.github.com/sagunpandey

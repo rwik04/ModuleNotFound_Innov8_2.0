@@ -1,0 +1,162 @@
+INFORMATION TECHNOLOGY MANAGER
+Professional Summary
+Possesses an extensive background in Information Technology Management, along with a Masters of Science degree and multiple certifications.
+Excels in planning, implementing, and evaluating the systems, infrastructure, and staffing necessary to execute complex initiatives and meet
+deadlines in dynamic, fast-paced environments; adept at overseeing and participating in the installation, configuration, maintenance, and upgrade of
+networks, hardware, servers, and peripherals. 
+Detail-oriented and decisive; applies communication and leadership skills to interface effectively with
+all levels of an organization. 
+Expertise spans: 
+Network Engineering, Helpdesk Administration, Software Licensing, Disaster Recovery,
+Backup/Restore 
+Operations/Project Management, Strategic Planning/Analysis, Budgeting, TeamBuilding/Training, Vendor Relations
+Policy/Procedure Development, Quality Assurance, Troubleshooting, Problem Solving, Process Improvement.
+Experience
+04/2013
+ 
+to 
+Current
+Information Technology Manager
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+A bankruptcy Trustee office handling Chapter 13 and Chapter 12 cases for the Northern District of Georgia Manages application
+database/hardware systems used to track Chapter 13 bankruptcy cases, all office technologies,, information systems, and anti-spam/anti-
+virus servers.
+Evaluates, recommends, implements, supports, and troubleshoots hardware and software.
+Maintains LAN/WAN infrastructure, connectivity, and security as well as LAN user documentation.
+Performs disaster recovery planning.
+Administers licenses and service contracts; schedules service visits from vendors and suppliers.
+Defines, documents, assesses, and updates IT-related procedures as needed.
+Creates and maintains user accounts, including email.
+Inspects all employees' computers quarterly to ensure compliance of configuration and settings with office policies.
+Coordinates special projects.
+Designed and implemented network infrastructure enhancements to improve performance, security, remote access, and connectivity.
+Standardized hardware, peripherals, and software.
+Established a helpdesk support system for monitoring, prioritizing, and scheduling requests.
+Spearheaded the deployment of a new tracking system that provided performance metrics used to identify where additional training and
+resources were required.
+Researched, installed, and configured an enterprise backup solution for disaster recovery that included features to allow users to recover
+deleted items without the need to recover from DR backups.
+Doubled WAN bandwidth and propelled LAN and WLAN performance to 100% or higher through WAN, LAN, and WLAN
+reconfiguration.
+Improved accuracy, more than doubled efficiency from 35% to 87%, and increased cost savings from $250/quarter to $2,500/quarter by
+developing an automated script for retrieving data from an outside server.
+Automated asset tracking by employing a hand scanner and database system to improve efficiency and accuracy.
+08/1987
+ 
+to 
+06/2012
+Network Analyst
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+A $1B+ global manufacturer of equipment for precision material dispensing, testing, inspection, surface preparation, and curing Fueled a
+1,000% improvement in LAN performance by replacing the existing network, which entailed changing software and LAN cabling for 20
+existing switches, including reconfiguring the core switch with remote wiring closets with multiple stack units.
+Led a team of five network and equipment support specialists.Configured, maintained, analyzed, and troubleshot Nortel and Juniper
+networks, systems, and equipment (WAN/LAN/WLAN infrastructure, servers, PCs, notebooks, thin clients, printers, and other
+peripherals) used by 600 workers in Georgia.Supported 200 units configured for operation through client servers.Advanced global
+company objectives through participation in IT and telecom design and implementation.Advanced to this role through promotions from
+Mechanical Drafter, Engineering Checker, Mechanical Designer, and Network Administrator.Slashed support requests 75%, cut equipment
+costs 50%, and boosted work productivity 30% by applying near-zero configuration to develop, install, and implement a thin client solution
+for 90 plant manufacturing cells.
+Reduced standard company imaging and system deployment time 60% before station-specific customization by replacing and/or refreshing
+40 PCs each quarter, 100% on schedule.
+Planned, designed, installed, configured, and tested wireless networks (WLAN from Cisco, Nortel, and Meraki) in multiple facilities;
+documented standards for US operations; trained users; and monitored performance.
+Replaced 125 field and service laptops by programming standard images and custom configurations on each machine, completing the six-
+week project on schedule despite disruption of parts availability due to a tsunami.
+Championed the use of computers in manufacturing cells to provide drawings and also facilitate order tracking in conjunction with the ERP
+system; designed and implemented automated pick list and shipping documents as well as real-time tracking for distribution.
+Trained and mentored 15 new department staff members and contractors.
+02/1753
+Designer/Drafter 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Plant Manager/Quality Control Manager
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Drafter
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Accomplishments
+Microsoft Word/Excel/Access/Outlook/PowerPoint/Visio/Publisher/Project, Apple Pages, Numbers, Keynote, Autodesk, AutoCAD,Microsoft Word/Excel/Access/Outlook/PowerPoint/Visio/Publisher/Project, Apple Pages, Numbers, Keynote, Autodesk, AutoCAD,
+SolidWorks, SAP r3 Operating Systems: Microsoft SQL, Microsoft Exchange, SCCM, DOS 6.22, Windows 3.1-Windows 10, Windows
+NT 3.5 Server, Windows Server 2012, OSX 10.2-10.11, IOS Hardware and WLAN: Nortel, Mitel, Shortel, Cisco, Meraki, Apple
+AirPort, Palo Alto-Firewall, Sonicwall Firewall Peripherals: Barracuda Web Filter, Barracuda Message Archiver, Riverbed-WAN
+Accelerator, Dell ISCSI SAN Installation and Configuration: Dell PowerVault, Adtran Routers, Cisco Routers, Catalyst Switches, HP
+Procurve Switches, ICC Patch Panels, Cross Connects, Cat3-6A (Phone and Data)
+Education
+Master of Science
+ 
+: 
+Leadership
+ 
+Walden University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+2015
+Master of Science
+ 
+: 
+Information Systems Management Project Management
+ 
+Walden University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+2013
+Bachelor of Science
+ 
+: 
+Information Systems Management Mechanical Engineering
+ 
+Walden University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Certifications
+MCP, Â CompTIA Network+, CompTIA A+
+Skills
+anti-virus, backup, cabling, Cisco, hardware, contracts, client, clients, database, disaster recovery planning, disaster recovery, email, ERP,
+features, imaging, information systems, inspection, Inspects, LAN, notebooks, laptops, Mechanical, access, office, enterprise, Network
+Administrator, network, networks, Nortel, peripherals, pick, policies, printers, programming, real-time, scanner, scheduling, servers, script,
+shipping, switches, switch, user documentation, telecom, WAN, wiring

@@ -1,0 +1,91 @@
+SOFTWARE ENGINEER
+Profile
+Experienced Software Engineer generalist with a strong interest in Game Play, and AI programming.
+Professional Experience
+Software Engineer
+ 
+08/2010
+ 
+to 
+Current
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Star Wars: Galaxy of Heroes (IOS/Android, fall 2015) Worked with product managers to implement in game telemetry Implemented
+various features and fixed bugs required for soft launch Unannounced Mobile Strategy Title (IOS/Android, unreleased) Established first
+playable prototype in Unity 3D, with player-controlled units that utilized a navigation mesh while obeying rotational and movement
+constraints Created custom code to drive vehicle-tread animation based on vehicle velocity Unannounced Mobile Role Playing Title
+(IOS/Android, Unreleased) Worked with artists to develop player animation and movement code using Unity 3Ds legacy animation and
+navigation mesh agent Lead the evaluation and eventual adoption of Unity's Mecanim Animation System to drive character animation Wrote
+code to support player interaction with in-world game objects Created procedural loot animation system using physics to animate loot drops
+Prototyped player exploration game mode with multiple control schemes and UI Dawngate (PC, Open beta release) Extended the
+developer cheat system to allow in-game cheats to be used on production servers by entitled user accounts to facilitate QA testing and
+debugging of live builds Worked with a team to develop AI bots from a single rough prototype to a full roster of 5 bots released as part of
+first time user experience Developed AI behaviors, and a system that used dynamic navigation mesh obstacles allowing bots to avoid
+incoming enemy fire and move away from fire at current location Profiled and optimized server-side (Lua/C++) code to improve
+performance added new AI editor and in-game functionality to support game design requirements Command & Conquer (PC, Limited live
+alpha release) Enhanced and debugged (C#) server-side skirmish AI unit production and base defense, and developed code to allow the
+skirmish AI Generals to use taunts against opponents Established localization pipeline and workflow using EA shared technology database
+and tools Integrated an EA shared technology UI system (C++) into the Frostbite game client codebase Implemented HUD features such as
+objective system, and contextual unit information display Designed and implemented (C++) client, and (C#) server code for queued player
+command system, and commands including moving, attacking, changing stance, and selecting units Developed code to handle assigning units
+and structures to control groups Refactored hotkey system to allow hotkeys to trigger different actions based on context Star Wars: The
+Old Republic (PC, Shipped December 2011) Refactored server logging system initialization to improve log coverage at startup.
+Trion Worlds, Software Engineer
+ 
+09/2008
+ 
+to 
+08/2010
+ 
+City
+ 
+, 
+State
+Rift (PC, Shipped March 2011) Developed automated load test scenarios that included report generation for historical analysis
+Implemented UI features for the Game Remote Administration Tool for customer service agents Platform Engineering Team Performed
+feature development and maintenance of platform products, including the crash service, real-time metrics visualization system, and the data
+collection and transformation service Designed and developed Distributed Testing Service, a client-server based system designed to run
+functional, load, and scalability tests, and store results in a database Reclaimed and updated code from game team code base, and released
+it as part of the Trion Platform Foundation code base.
+Midway, Software Engineer
+ 
+08/2006
+ 
+to 
+08/2008
+ 
+City
+ 
+, 
+State
+Unannounced Third Person Action Title (PS3/Xbox 360, Unreleased) Worked in an interrupt-driven environment to implement features, fix
+bugs and create tools designed to improve the workflow for content creators during daily development, utilizing C++ Unreal Script,
+UnrealEd, and MAXScript.
+Core Technology Group TNA iMPACT! (PS3/XBox 360, Shipped Sep 2008), Wheelman (PS3/XBox 360, Shipped Mar 2009),
+BlackSite Area 51 (PS3/XBox 360, Shipped Nov 2007) Contributed to the Unreal Engine 3 based Core Technology Platform code used
+across all of Midway's next generation PC, Xbox 360, and PS3 titles by fixing bugs, performing integrations, and reclaiming code from
+game development teams.
+Education and Training
+Bachelors of Science
+ 
+: 
+Computer Science
+ 
+May 2006
+ 
+Georgia State University
+ 
+City
+ 
+, 
+State
+ 
+Computer Science
+Skills
+3D, alpha, animation, AI, C++, client-server, codebase, content, client, customer service, data collection, database, debugging, editor, features,
+functional, game design, logging, C#, navigation, next, developer, physics, QA, real-time, servers, Script, Strategy, telemetry, workflow

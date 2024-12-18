@@ -1,0 +1,207 @@
+CONSULTANT
+Experience
+Consultant
+ 
+, 
+05/2017
+ 
+to 
+Current
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Managed project schedule and local and remote staff to collect Water Main data and update GIS system.
+Develop business process and productivity reports to manage field book scanning project and Water Main data collection project.
+Provide Application support for CIS, Infor CMMS, and Neptune AMR applications.
+Maintained SharePoint site for I/T department.
+Assist Desktop support team with desktop and application user issues.
+Developed secure FTP scripts during implementation of CIS and AMR applications after Ransomware attack.
+Utility Solutions Consultant
+ 
+, 
+02/2006
+ 
+to 
+04/2017
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Install and configured Cityworks CMMS application, including XML modifications.
+Led configuration requirements gathering effort for Cityworks application implementation.
+Prepared and provided training for CIS, Meter Reading software, and CMMS applications.
+Provided Application support for CIS, CMMS, and AMR applications.
+Developed data import file layouts and Crystal Reports for Lucity CMMS application.
+Performed system configuration for Lucity CMMS application.
+Installed and configured Infor Enterprise Asset Management 11.1 application and SQL Server database.
+Led System Administration team to design and configure user security for Infor Public Sector application.
+Led configuration requirements gathering effort for Infor Public Sector application upgrade.
+Provide Application support for CIS, CMMS, and AMR applications.
+Assisted the City of Cleveland with the installation of their AMI Fixed Network.
+Developed the Residential AMI Meter Deployment schedule for City of Cleveland AMI Project.
+Led team to manage data interfaces between City of Atlanta and Contractor systems during the AMR replacement program.
+Develop business process and reports to manage Automated Meter Reading meter replacement program for City of Atlanta, Bureau of
+Drinking Water.
+CEO/Consultant
+ 
+, 
+02/2000
+ 
+to 
+02/2006
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Managed Griffin Technology Group budget, taxes, expenses and contracts Hired and managed employees, including scheduling client
+appointments for on-site PC support service.
+Developed Crystal Reports for client management team to manage business within the Customer Information System.
+Installed and configured Crystal Info Server 7.
+Developed PL/SQL views to handle difficult data issues in reporting.
+Gathered requirements for management reports, application changes, and tracking software.
+Developed new applications using Access and Visual basic for Application for clients to track new projects.
+Provided Application Support for Maximo, Maintenance Management Software and CSTAR, Customer Information System.
+Assisted System Administrators in infrastructure upgrades and daily administration of HP-UX Servers.
+Information Technology Consultant
+ 
+, 
+10/1999
+ 
+to 
+12/1999
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Developed new PL/SQL Stored Procedures and Functions to build financial summary data.
+Developed SQL queries against Oracle 8 database.
+Information Technology Consultant
+ 
+, 
+08/1999
+ 
+to 
+10/1999
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Created a new system functionality using Pro C code.
+Modified existing program to fix errors with other processes.
+Worked with DBA to build Oracle triggers and procedures and test programs.
+Information Technology Consultant
+ 
+, 
+05/1998
+ 
+to 
+07/1999
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Maintained and Enhanced C and Uniface program code and Unix Shell scripts.
+Developed new application development environment for future MMI software development.
+Developed new process to replace outdated or broken processes.
+Information Technology Specialist
+ 
+, 
+04/1996
+ 
+to 
+04/1998
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Provided development services to client at client's site.Developed management reports using GQL\User and Sybase SQL Server database in OS/2 environment.
+Developed reports database using Lotus Approach 96 in Windows 95 environment.
+Modified and maintained Uniface 6.1 Code in the Windows NT environment, during migration from Uniface 5.2 in OS/2 environment.
+Senior Programmer
+ 
+, 
+03/1994
+ 
+to 
+04/1996
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Develop and maintain application using Uniface 5.2, Oracle 7.3, and image software PowerImage.
+Maintained an Oracle database, including creating new tables and triggers and Application Support.
+Led sessions with users to collect requirements, develop new features and improve current features of application.
+Education
+Bachelor of Science
+ 
+: 
+Computer Science
+ 
+, 
+December 1993
+ 
+GEORGIA INTITUTE OF TECHNOLOGY
+ 
+- 
+City
+ 
+, 
+State
+ 
+Computer Science
+Summary
+Information Technology professional with 20+ years of experience working in various roles. Possesses written and verbal communication skills and
+excellent interpersonal and leadership skills.
+Highlights
+Proficient in Software Development Life Cycle, Project Management, Oracle and SQL Server databases. Proficient in Crystal Reports,
+Windows and UNIX environments, and Automated Meter Reading and Utility Billing systems, Shell Scripting and SharePoint. Programming
+Languages: C/C++, PL/SQL, Visual Basic, Uniface, PHP, HTML, XML.
+Skills
+application development, Lotus Approach, Asset Management, Billing systems, book, budget, Develop business, Business Process Analysis, C,
+C++, client management, contracts, Crystal, Crystal Reports, Client, clients, data collection, DBA, databases, database, XML, features, financial,
+FTP, GIS, HP-UX, HTML, PHP, image, ITIL v, Access, SharePoint, Windows, Windows 95, Windows NT, migration, Enterprise, Network,
+Oracle 7.3, Oracle, Oracle database, PL/SQL, Oracle and SQL, Oracle 8, OS/2, PC support, Pro C, processes, Programming, Project
+Management, Reading, reporting, requirements gathering, scanning, scheduling, Servers, scripts, Shell Scripting, Software Development, SQL,
+SQL Server, Sybase SQL Server, System Administration, system configuration, tables, taxes, Desktop support, Uniface 6.1, Uniface, Uniface
+5.2, UNIX, Unix Shell scripts, upgrades, upgrade, Visual Basic

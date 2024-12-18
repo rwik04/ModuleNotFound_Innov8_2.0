@@ -1,0 +1,93 @@
+SOFTWARE ENGINEERING CO-OP
+Summary
+Highly skilled 
+and Accomplished computer software specialist with more than 7+ years of technical experience in programming development
+across multiple platforms, software design, development and integration. 
+Advanced knowledge of MySQL, CSS, C++ with expertise in all aspects
+of the software development life cycle, including requirements analysis, design, development and production support. 
+Experienced Software
+Developer dedicated to constantly improving tools and infrastructure to maximize productivity, minimize system downtime and quickly respond to
+the changing needs of the business which does not exclude an intensive background in develop, testing, and debugging code, designing interfaces,
+and administrating systems and networks. Tenacious hard worker, self-directed and motivated, great leadership skills, able to work as a team, and
+adaptable to a quick changing technical environment.
+Highlights
+MySQL, PostgreSQL, SQLite, NoSQL, LevelDB
+Programming Languages: C, C++, Perl, PHP, Python, Go, JavaScript, Bash, SQL, Visual Basic, 
+.NET
+Other Languages: CSS, HTML, XML, Markdown, Regular expression, SASS
+Operating Systems: Linux, Unix
+Tools: Netbeans, Vim, Visual Studio, MS Visio, MS Access, Wordpress, Git, Google Analytics, Docker, Microsoft Office package
+Strengths include:
+Full life software life cycle development expert
+Programming and designing
+Software testing / Troubleshooting / Advance critical thinking
+Database 
+& Object oriented development
+Website design & development & software engineering
+Object oriented development
+Work History_______________________________________________________
+Full Stack Engineer
+LogonTutor LLC - Cincinnati, OH
+Design and implement an ecommerce website (in PHP) using MVC and OOP
+Integrate 3rd party tools in PHP using XML API such as Authorized.net (for charging credit cards), an online whiteboard, and Paypal
+Create an admin page (in PHP) that tracks user's browsing history, incomplete registrations, user's clicks from custom links, and user's
+communication exchange
+Write command line scripts in Bash to automate system administration tasks such as database backup and website deployment
+Mar. 2012 - Present
+Project Manager
+Seeketh.org Senior Project - Cincinnati, OH
+Managed a team of students in the implementation of an information retrieval system (in PHP) that searched the bible using natural
+language processing
+Experience
+Software Engineering Co-op
+ 
+03/2010
+ 
+to 
+12/2010
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Wrote a Perl script that scanned a file directory tree and converted every file (proprietary file format) into an Excel compatible CSV format.
+Designed an algorithm in Visual Basic to identify and make changes to the bad sectors in the data.
+Education
+Bachelor of Science
+ 
+: 
+Electrical Engineering
+ 
+Jun. 2013
+ 
+University of Cincinnati
+ 
+City
+ 
+, 
+State
+ 
+Electrical Engineering 3.1/4.0
+Present
+ 
+Affiliations___________________________________________ 
+_______ *Treasurer, Young People Union
+ 
+City
+ 
+, 
+State
+ 
+Member,
+Emerging Ethnic Engineering Program
+Certifications
+Awarded by University of Cincinnati School of Electronic and Computing Systems the "Outstanding Senior Design Project Award" Sep. 2012 -
+Jun. 2013 Component Engineering Co-op L3 Communications CE - Mason, OH Parsed and manipulated data relating to electrical components
+Updated the company's intranet pages Mar. 2011 - Jun. 2011
+Skills
+.NET, API, automate, backup, Bash, C, C++, credit, critical thinking, CSS, Database, designing, ecommerce, Engineer, XML, Google Analytics,
+HTML, PHP, JavaScript, Linux, MS Access, Excel, exchange, Microsoft Office package, MVC, MySQL, natural language processing, NoSQL,
+Object oriented, OOP, Operating Systems, page, Perl, PostgreSQL, Programming, Python, scripts, script, software engineering, Software testing,
+SQL, system administration, Troubleshooting, Unix, Visio, Visual Basic, Visual Studio, Website design & development, website

@@ -1,0 +1,272 @@
+SOFTWARE QUALITY ASSURANCE ANALYST II
+Career Overview
+12 years of experience in Software Quality Assurance requirements analysis, test planning, creating test cases, and 
+test process coordination
+Experienced with functional, end to end, regression and user acceptance testing of Web based and Client Server interfaces Familiar with the
+Waterfall and Agile SDLC 7 years experience in customer support/service and handling escalated issues 5 years of running formal training and
+development programs for system users Advanced Windows OS and MS Office applications user/troubleshooting skills Ability to learn new
+software very quickly Able to handle multiple projects Take ownership attitude Flexible team player
+Qualifications
+Microsoft Excel/Word/Outlook/Access/Powerpoint/Frontpage, Windows 7/XP/2k, 
+DOS, setting up/troubleshooting hardware/software, Mac,
+Internet, Test Director/Quality Center, Ontime, Zendesk, SharePoint, and basic office equipment
+Work Experience
+Software Quality Assurance Analyst II
+ 
+Jan 2012
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Work Environment: Agile, 
+Windows based, Acuity Electronic Health Record System suite testing and administration, Ontime.com used for
+incident/bug reporting.
+T-SQL used to query/insert/update SQL DB to verify 
+input/output of test scenarios.
+WinAutomation and TestComplete used for automated testing.
+Application software testing from local machines and Cloud Share environments.
+Excel and Word extensively used for creation of project documentation Responsible for 
+analyzing the requirements and testing all modules
+of the Electronic Health Record (EHR) System including Patient, Company, Provider, Referrals, Collaborators, Utilization
+Management\Authorizations, Care Plans, Assessments, Tasks, Notes and any other modules that require testing.
+Testing of the Implementation process from one version of an EHR to another appropriately mapping data from the source database to the
+destination database.
+Creating , maintaining and testing user and group profiles confirming the appropriate access to the medical system Updating application
+software by defining/coding existing field properties or creating special user fields to fit the appropriate workflow to be tested based on
+customer needs.
+Document test cases, procedures and automation scripts and keeping them updated for each system release Effectively track testing
+progress using Ontime.com for tracking and assigning defects Responsible for Database loads, test environment set-up, FTP of application
+files and workstation preparation on Cloud Share environments Work with application programmer with system defects or analysis of
+project features Perform functional, 
+regression, and ad-hoc 
+testing on all assigned EHR projects.
+User Support Specialist II, Payments Specialist
+ 
+Jan 2011
+ 
+to 
+Jan 2012
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Call Center, Macintosh based, ZenDesk ticketing software used to track user incidents Troubleshoot user issues with Airbnb.com website
+navigation and services, such as user account maintenance, payment processing and billing analysis, as well as very complex financial and
+non financial disputes between users including customer safety issues Respond professionally to any escalated calls and support level I
+agents with urgent calls Take effective notes on user accounts through a ticketing system Thorough follow through of each call ensuring
+customer/user satisfaction.
+Test Execution Manager
+ 
+Jan 2006
+ 
+to 
+Jan 2010
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Work Environment: Matrix team structure/Team Lead, Windows based, Quality Center used for test case and bug/incident reporting.
+Excel and Word extensively used for project document creation and SharePoint used for document management/sharing, PowerPoint used
+for meeting facilitation, 
+Managed PC lab for testers including ordering and completing hardware/software set up and hands on
+troubleshooting of systems test environment.
+Responsible for managing a team of onshore and offshore testers during the System Integration Test phase of the software development life
+cycle for the CA Banking Center New Accounts and Teller Platforms.
+Provided work estimates and ensured each project is efficiently staffed with testers to complete the project on time and on budget.
+Review, provide feedback and approve all test plans and scripts submitted by Test Analysts Work as a team member to accurately define
+the business requirements for new products for 
+customers or system changes before the product or system change rollout.
+Identify all system functions and processes that may be affected by each project Provide meeting representation on all banking center
+platform projects.
+Manage end to end, user acceptance and production certification testing Represent the end user in design, development, testing and
+implementation of changes to existing systems environments for CA Banking Centers.
+In charge of the training and development of new test analysts brought on board to test the CA banking center new accounts system.
+Created and lead training classes in a formal setting in the test lab or virtually over the web for users.
+Responsible for ordering the appropriate hardware and software for the test lab for the test analysts and production lab for the
+implementation team.
+Software Test Analyst
+ 
+Jan 2000
+ 
+to 
+Jan 2006
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Work Environment: Matrix team structure, Windows based, Quality Center used for test case and bug/incident reporting, 
+Excel and Wordextensively used for project document creation, Visio used for workflow charting and use cases.
+Managed PC lab for testers including ordering and completing hardware/software set up and hands on troubleshooting of systems test
+environment Responsible for identifying test scenarios from business requirements and creating test plans, scripts, executing scripts, and
+documenting test results based on the requirements Effectively track testing progress using Quality Center for tracking scripts and assigning
+defects Work with technical staff ensuring proper tests are being run, data is conditioned and resolving issues Perform Black Box functional,
+regression, and ad-hoc 
+testing on assigned projects Maintained the test lab ensured appropriate software and hardware were up to date
+with department units we tested for Created and kept track of user access to test and production servers creating the appropriate access
+levels for contracted and non contracted staff Owner of production data including reconciling account balances of all production level bank
+accounts lent out for implementation testing.
+Internal Operations Analyst
+ 
+Jan 1999
+ 
+to 
+Jan 2000
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Call Center, Windows based, high call volume, used proprietary software to query databases for common user issues.
+Research and respond to telephone inquiries regarding bank policy and procedures from banking centers and various other units.
+Identify and resolve operational, software application, new account, sales, and service related issues.
+Sr. Operations Officer
+ 
+Jan 1998
+ 
+to 
+Jan 1999
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Work Environment: Office setting, Windows based, extensive account reconciliation tasks and record keeping of dollars coming in and out
+of the department, PC maintenance and user account troubleshooting.
+Controller of incoming Bank of America misdirected wire account for corporate clients.
+Properly identify funds in the amounts of billions of dollars which were directed to this account in order to reconcile the account.
+Also kept accurate logs of all wires that passed through the section.
+Worked as on-site desktop support for the department during upgrade to Windows 98.
+Helped IT 
+team with hardware and software installations, password creation/resets and conducted user training sessions for peers.
+Money Transfer Customer Liaison
+ 
+Jan 1997
+ 
+to 
+Jan 1998
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Call Center, Windows based, high call volume from the general public and other internal units, basic record keeping of tasks to track
+transactions.
+Responsible for taking customer wire transfer requests over the telephone.
+Ensured to properly identify the customer and account relationship in order to transmit funds and collect fees.
+Amended or canceled wire transfers when necessary.
+Provided excellent customer service.
+Customer Service Representative
+ 
+Jan 1995
+ 
+to 
+Jan 1997
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Work Environment: Retail Banking Center, Windows based, general public interaction.
+Processed deposits for various accounts.
+Cashed checks, sold cashier's checks, traveler's checks, and savings bonds.
+Balanced daily.
+Sold checking, savings, time deposit and other bank products.
+Education and Training
+BS
+ 
+, 
+Computer Information Systems
+ 
+2004
+ 
+Golden Gate University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Computer Information Systems
+AAS
+ 
+, 
+Computer Technology
+ 
+2002
+ 
+Heald College
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Computer Technology
+AAS
+ 
+, 
+Electronics Technology
+ 
+2001
+ 
+Heald College
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Electronics Technology
+Certificate Health Care Information Technology
+ 
+2013
+ 
+Cosumnes River College
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Skills
+account reconciliation, ad, Agile, automation, banking, basic, billing, bonds, budget, Call Center, cashier, com, CA, hardware, Controller, clients,
+excellent customer service, databases, Database, document management, documentation, DOS, features, financial, Frontpage, FTP, functional,
+funds, Information Technology, Team Lead, Notes, Mac, Macintosh, managing, meeting facilitation, Access, Microsoft Excel, Excel, Office,
+Outlook, PowerPoint, SharePoint, Windows, 2k, Windows 98, Windows 7/XP, Word, navigation, office equipment, DB, payment processing,
+PC maintenance, processes, coding, programmer, progress, Quality, reconciling, record keeping, reporting, Research, Retail, safety, sales,
+servers, scripts, software development, software testing, SQL, System Integration, desktop support, user training, telephone, Test Director, T-
+SQL, Troubleshoot, troubleshooting, upgrade, Visio, website, workflow

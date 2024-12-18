@@ -1,0 +1,168 @@
+QA TEST ANALYST
+Profile
+Seeking a position as Manual Software Quality Assurance Analyst 4+ years experience as a Quality Assurance Analyst dealing with various levels
+of testing such as 
+Functional, Regression, System, User Acceptance, Performance testing and Smoke testing. Experience testing applications
+based on different architectural platform such as Client/Server, Web Based and SAAS Industry experience in Finance, Banking, Retail and Health
+Care Well Versed with Agile, Agile Scrum, Waterfall, and V-Model 
+methodologies Experience communicating 
+and dealing with different
+stakeholders to meet the deliverable Experience with creating Test Plan, developing Test Scenarios and executing Test Cases and logging Defects.
+Well Versed in Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Management Life Cycle (DMLC).
+Experience working with QA teams both offshore and onsite while communicating the client's requirements and expectations to execute the QA
+process smoothly on various projects. Able to effectively communicate, both verbally and in writing, using English, Hindi and Urdu. Experience
+doing Root cause analysis (RCA) on issues and identified defects to improve Product Quality. Experience in backend database testing by writing
+SQL queries to extract data for validation. Developed and maintained appropriate metrics to maintain quality control in the development process.
+Quick learner and can easily adapt to different responsibilities and technologies. Team player as well as ability to work independently and a self-
+starter. Strong analytical skills, combined with effective communication, organizational skills and planning ability. Able to handle multiple tasks
+simultaneously in a dynamic environment.
+Core Qualifications
+Operating Systems: Windows 95/ 98/2000-2007/NT, WIN 7 and XP
+Bug Tracking Tools: 
+Quality Center, JIRA
+Databases: 
+Oracle, SQL Server 2005/2008
+Browsers: 
+Internet Explorer, Firefox, Chrome, Safari
+Test Management Tools: Mercury Interactive Tools (HP): Test Director, Quality Center , ALM
+Mobile Operating Systems: Apple-IOS, Android, Windows
+Professional Experience
+QA Test Analyst
+ 
+, 
+09/2014
+ 
+ï¼​ 
+Current
+ 
+Company Name
+Kohl's is one of the nation's largest and leading department store retail of apparel, accessories and home goods, based in Plano, Texas.
+I was working on Inventory Management Application that provides status and tracking on inventory.
+The Inventory Management Tools Interact with POS (Point of Sale) System, Vendor Management and Shipment tracking System.
+This Tool helps Kohl's to track & monitor the entire Inventory.
+My role as a tester was to test Kohl's Mobile app on different OS Platforms IOS and Android devices.
+Responsibilities: Participated in all phases of the development lifecycle that pertain to software quality assurance Reviewed and analyzed
+Business Requirement Documents (BRD), Functional Specification Documents (FSD) for completeness and testability to meet acceptance
+criteria.
+Actively participated and work with team to create Test Plan, Test Data and Test Cases document Tracked bug discrepancies by using
+"Quality Center" to store the details of bug discrepancies for enhanced regression testing.
+Continuously worked with the team to improve testing process.
+Provided feedback, clarification and training support as necessary to different stakeholders Tested Kohl's apps on different OS Platforms
+IOS, Android, Using physical devices like IPad, IPhone, Android, Windows Performed back-end testing using SQL queries to extract data
+and validate customers' Accounts, Points and Rewards history.
+Environment: 
+Windows 7, Windows XP, Apple Mac book Pro Software: 
+Quality Center, .Net, SQL Server.
+Microsoft Office, XML.
+Quality Analyst Assurance
+ 
+, 
+10/2013
+ 
+ï¼​ 
+07/2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Humana is one of the nation's leading diversified health service company, serving members with information and 
+resources to help them
+make better informed decisions about their health care and dedicated to helping people improve their health.
+Responsibilities: Actively participated in all the phases of the development lifecycle that associate with software quality assurance.
+Analyzed requirement document for completeness and testability to accommodate acceptance criteria.
+Performed testing to ensure the quality of products for business and ensure proper operation without defects Ascertained and identified test
+data based on pre-determined requirements to mitigate risk.
+Write SQL Queries to retrieve data and validate content against XML log files.
+Prepared Test strategies, Test Scenario and Test Cases and execute Test Cases to cover both Verifying and Validating.
+Implemented Regression Testing methodology for every new build release.
+Track the bug by using "Quality Center" and store the details of bug's discrepancies for enhanced regression testing.
+Continuously review and improve testing process.
+Worked in Agile environment and attended daily scrum meetings to provide daily status updates on project Provided feedback, clarification
+and training support as necessary Tested mobile apps on different OS Platforms IOS, Android, using physical devices like Blackberry,
+IPad, IPhone, Android Environment: 
+Windows 7, Windows XP, Apple Mac book Pro.
+Software: 
+Quality Center, .Net, SQL Server.
+Microsoft Office, XML.
+Manual Tester
+ 
+, 
+06/2010
+ 
+ï¼​ 
+06/2013
+ 
+Company Name
+Bank M is a fast growing community bank, highly profitable financial holding company.
+The company provides a complete range of banking and other financial services to the customers through its basic business.The Banking Maintenance System (BMS) application provides the accounts lists, accounts summary and accounts transactions for the
+various accounts and the ability to transfer funds between the various accounts using fund transfers.
+My role as a tester was to test the application for cross browser compatibility, which involved Functional and Regression Testing.
+Create test cases for clients to manage different Finance/Account modules and benefits package.
+Establish and verify large volume of data by Manage accounts, Pay bills and Transfer funds.
+Responsibilities: Reviewed Business Requirement Documents (BRD), Functional Specification Documents (FSD) and Use Cases.
+Representing QA in all stages of SDLC and responsible for QA deliverables.
+Prepare Test Plan, Test Scenarios and create Test cases with the help of Use Case Documents and Functional documentation for new POS
+application.
+Part of an Agile team participated in daily scrum meetings, Sprint/iteration planning meeting, Retrospective, reviews and developed test
+scenarios.
+Designed test cases for various Finance/ Accounts modules to manage new and existing clients and their various benefits package.
+Created and validated large volume of data via Manage accounts, Transfer funds, and Pay bills.
+Co-ordinate with the Dev Team to bring defects to closure.
+Participated in test design and execution of test cases to improve the quality of the software.
+Manually tested different credit/debit cards on POS device for bank certification.
+Involved in mobile testing process for the first launch of the application Prepared defect summary reports for management using Quality
+Center Continuously review and improve testing process.
+Performed Back-End testing by executing SQL Statements to extract data and verify output against the UI.
+Involved in the analysis, modifications for existing test plans and test cases.
+Environment: 
+Windows XP, Safari, Windows 7 Software: 
+MS Excel, Quality Center.Net, SQL Server.
+Microsoft Office, XML Qatar Airways, Tanzania.
+Jr. Quality Assurance Analyst
+ 
+, 
+07/2009
+ 
+ï¼​ 
+05/2010
+Worked as QA for Qatar Airways IT's several web based applications for different projects such as tracking System Wide upgrades.
+Qatar Airways offers frequent flyer program to its members.
+They also use Sky Miles, Within Sky Miles.
+They started to ask their members for a pin number which when entered, goes to members' info table and gets saved.
+This option was implemented for security reasons.
+Responsibilities: Involved in the full Testing Life-Cycle from analyzing Business Requirements to testing phase.
+Prepared test scripts for testing GUI and Security (PCI Compliance).
+Responsibilities included meeting with team and preparing test strategies and testing approach.
+Wrote test cases and execute them manually using Test Director in Test Lab.
+Conducted Regression testing, identified Bugs/Defects and logged the issues in Defect management in Test Director Conducted Mapping to
+easily identify results in Requirements from Test Director Write 
+SQL queries to retrieve data from the database Environment: 
+Windows XP,
+Quality Center.
+Education
+Jun 1999
+ 
+University of North Alabama
+ 
+Bachelors
+ 
+Marketing
+ 
+Marketing
+Graduated
+ 
+Yes
+ 
+Yes
+Additional Information
+STATUS: Permanent Residence Card (Green Card)
+Skills
+.Net, Agile, Apple, approach, ask, banking, basic, benefits, book, Browsers, content, credit, clients, Databases, database, debit, documentation,
+XML, fast, Finance, financial, Functional, funds, GUI, HP, Internet Explorer, Inventory, Inventory Management, Apple Mac, meetings, Mercury
+Interactive, MS Excel, Microsoft Office, Windows 7, Windows, WIN 7, 2000, Windows 95, 98, NT, Windows XP, Operating Systems, OS,
+Oracle, PCI, POS, Quality, quality assurance, QA, Requirement, retail, scrum, SDLC, scripts, Specification, SQL, SQL Server, Test Director,
+upgrades, Vendor Management

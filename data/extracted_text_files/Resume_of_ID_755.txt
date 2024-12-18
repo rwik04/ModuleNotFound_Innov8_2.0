@@ -1,0 +1,143 @@
+TERADATA SENIOR ASSOCIATE CONSULTANT
+Summary
+Highly dependable Teradata Database Engineer successful at troubleshooting and debugging. Supportive and enthusiastic team player dedicated to
+streamlining processes and efficiently resolving project issues.
+Highlights
+Teradata BTEQ,Fast Load,PL/SQL
+Oracle
+Basic Unix
+Autosys Job Scheduler using JIL
+SQL Query writing
+SQL Performance Tuning
+BTEQ
+Accomplishments
+Developed custom database designs which is used for strong and fast analytical report for wider audience across the organization.
+Experience
+Teradata Senior Associate Consultant
+ 
+Dec 2014
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Project Description :
+iOS Mobile Application for Business Analytics Reporting This project aims at developing an Oracle and Teradata layers for pushing the data to
+iOS Mobile Application.
+Responsibilities:
+Performed data analysis and gathered columns metadata of source systems for understanding requirement feasibility analysis.
+Worked on optimizing and tuning the Teradata and Oracle views and SQL's to improve the performance of batch and response time of data
+for users
+Implement the code changes through change management tools.
+Worked closely with business users to come up with detailed solution approach design documents.
+Used Teradata utilities like Bteq to build Teradata procedures.
+Provided initial capacity and growth forecast in terms of Space, CPU for the applications by gathering the details of volumes expected from
+Business.
+Prepared low level technical design document and participated in build/ review of the BTEQ Scripts.
+Provided support during the system test, Product Integration Testing and UAT.
+Coordination of all the offshore development from onsite from assigning the job till code delivery and signoff.
+Verified if implementation is done as expected.
+Done the impact assessment in terms of schedule changes, dependency impact, code changes for various change requests on the existing
+Data Warehouse applications that running in Production environment.
+Provided quick production fixes and proactively involved in fixing production support issues.
+Liaised between different implementation groups (Both source and target systems) and monitored the implementation activities.
+Analyze business requirements, designs and write technical specifications to design/ redesign solutions.
+Coordinate with Configuration management team in code deployments. Environment: Teradata14, Oracle PL/SQL, BTEQ, Basic Unix
+Senior Associate Consultant
+ 
+Mar 2012
+ 
+to 
+Dec 2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Project Description :
+Development and maintenance of semantic/downstream layer in a data warehouse for Business user reporting. This project aims at building and
+maintaining a data mart on Enterprise Data warehouse, in order to increase the efficiency of the reporting, support business users in performing,
+more robust analytical reporting and decision making capability.
+Responsibilities :Performed data analysis and gathered columns meta data of source systems for understanding requirement feasibility analysis.
+Worked on optimizing and tuning the Teradata views and SQL's to improve the performance of batch and response time of data for users
+Implement the code changes through change management tools.
+Worked closely with subject matter experts to come up with detailed solution approach design documents.
+Used Teradata utilities like Bteq export/import and Fast Load to load data into/out of Teradata database.
+Provided initial capacity and growth forecast in terms of Space, CPU for the applications by gathering the details of volumes expected from
+Business.
+Prepared low level technical design document and participated in build/ review of the BTEQ Scripts, Reviewed Unit Test Plans & System
+Test cases.
+Provided support during the system test, Product Integration Testing and UAT.
+Coordination of all the offshore development from onsite from assigning the job till code delivery and signoff.
+Verified if implementation is done as expected.
+Done the impact assessment in terms of schedule changes, dependency impact, code changes for various change requests on the existing
+Data Warehouse applications that running in Production environment.
+Provided quick production fixes and pro-actively involved in fixing production support issues.
+Liaised between different implementation groups (Both source and target systems) and monitored the implementation activities.
+Analyze business requirements, designs and write technical specifications to design/ redesign solutions.
+Involved in complete software development lifeÂ​cycle(SDLC) including requirements gathering, analysis, design, development, testing,
+implementation and deployment.
+Developed technical design documents (HLD and LLD) based on the functional requirements
+Coordinate with Configuration management team in code deployments.
+Implemented AGILE methodology for our formal delivery. Environment: Teradata14, BTEQ, Basic Unix, Oracle. Â​
+Software Engineer
+ 
+Jan 2009
+ 
+to 
+Mar 2012
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Project Description :
+Data Warehousing Services. Description: Data Warehousing Services (DWS) manages the platform infrastructure hosting data from the Group's
+operational systems providing the capability for users or operational systems to query and extract this information as required. DWS manages the
+whole end to end change and service lifecycle including build, schedule and infrastructure support, service desk, risk and compliance and service
+and finance management. The goals of the Warehouse are to: Â​ Provide a single version of the truth Â​ Empower users to find out new information
+about their business for themselves Â​ Provide an integrated database model with common definitions regardless of the source of the data. Data
+from various source systems is fed into the EDW (Enterprise Data Warehouse).
+Responsibilities:
+Actively involved in enhancing the Data Warehousing Application wherein all small, Teradata,
+Prepared high level design document for developers and participated in review / build of the BTEQ, Scripts, Fast loads, Multi load and
+JCLs, Prepared/Reviewed Unit Test Plans & System Test cases
+Worked closely with Business Users and analysts.
+Worked on BTEQ, Fast load, and Fast export for loading data from Oracle to Teradata.
+Responsible for overseeing the Quality procedures related to the project
+Involved in code reviews and strictly followed best practices.
+Design, develop, and test complex Teradata BTEQ Scripts
+Involved in complete software development lifeÂ​cycle(SDLC) Performed unit testing on the source code.
+Used to interact with testing team to ensure appropriate testing is performed and with Configuration team for code deployments and with
+technical writers to ensure manuals are in Synch with the developed software Environment: Teradata, Main Frame, BTEQ, Fast Load, Fast
+Export.
+Education
+Bachelor of Technology
+ 
+, 
+Computer and Science Engineering
+ 
+JNTU
+ 
+Bachelor of Technology in Computer and Science Engineering, India JNTU
+Percentage: 71.68
+Skills
+Data Warehouse knowledge, Database design, Oracle SQL, SDLC, Teradata,SQL Testing, Unit Testing, Business Requirements Gathering,
+Change Management planning, Configuration Management planning, Data Analysis, Data Mart Development, Code Deployment, Feasibility
+Analysis, Integration Testing, Application Maintenance,Meta data Analysis,Teradata PL/SQL,Teradata BTEQ,Teradata Fastload,Requirements
+Gathering, Semantic database design, Technical Design, Technical Specifications documents, UAT,Basic UNIX

@@ -1,0 +1,188 @@
+TECHNICAL IT HEALTHCARE CONSULTANT
+Professional Summary
+Experience Technical Consultant building enterprise-class IT systems for a range of industries such as: financial businesses, health-care industry,
+telecommunication, distribution, manufacturing, transportation and pharmaceutical.
+Skills
+Project Management
+ 
+ 
+Data Center Migration
+System Intergration
+ 
+Cloud Computing Services
+Application Integration & Support
+Account Management
+Work History
+Technical IT Healthcare Consultant
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+ 
+04/2014
+ 
+- 
+Current
+ 
+Design,Build, Test, and Deploy base upon technical requirements of vendor.
+System installations and maintenance (Window 8 Professional server, desktop, network).
+Implementation of Medisoft V20 Healthcare Application for Clinical Healthcare Facility.
+Provided Data conversion from existing system to Medisoft V20.
+performance tuning and troubleshooting of server, network, desktop.
+Automation of Backup/Restore.
+Participate in on-call rotation 24x7.
+Linux System Administrator
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+ 
+10/2012
+ 
+- 
+01/2014
+ 
+Linux Red Hat - configuration, installations, administration, and monitoring twenty IBM Blades with fault tolerant, snapshot, LVM, and
+selinux.
+Manage and troubleshoot Linux servers, network, and application issues (Apache, Oracle, Java) System Administration, bash scripting,
+security, satellite patching, auditing, Unix automation Managing and Administrating automation process utilizing Puppet Automation Tool to
+implement applications, packages, and upgrades on window and linux environment.
+TCP/IP networking and troubleshooting and maintain Level 2 and 3 support (24x7).
+UNIX/LINUX System Administrator
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+ 
+04/2010
+ 
+- 
+08/2012
+ 
+Managed, administered, and provided remote troubleshooting and analysis for server/client configuration, TCP/IP networking hardware,
+protocols, LAN and WAN technologies for over 500 servers running Red Hat version 5.6 and Solaris 9.0 Veritas Cluster Server -
+maintenance on are group applications in the VCS environment Apache, Tomcat, Web Logic - primary support of all applications using
+Apache and web logic VMware - Administrator primary support of all applications running VM Oracle Middleware/Database - system
+administrative support Data Center Migration and Consolidation onto Cloud platform and enables.
+Open System Technology diverted from IBM mainframe Tools - NetScout, Bib Brother, NGROSS, etc.
+LVM - crated file systems to match the specifications for UNIX servers System administration, scripting, security, patching, auditing, Unix
+automation PCI Compliance Patching - primary support of all system and application patching for UNIX, Linus, Windows, Solaris System
+monitoring and alerting tools; Maintain Level 2 and 3 support (24x7) DNS, NIS, NFS, Good Documentation skills Entry level experience
+with Puppet Automation Tool Jumpstart, kickstart , Manage a highly distributed global network of server.
+HP-System Administrator
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+ 
+02/2007
+ 
+- 
+03/2010
+ 
+This position requires the maintenance and support of over 900 servers running HP-UX 9, 10, 11i, and linux servers.
+MC/Service Guard - configuration and maintenance on the exiting service guard clusters for the Oracle databases Ignite-UX - configuration,
+install and support for DR and build HP-UX Linux Red Hat - configuration and installations of Red Hat version 5.3 on IBM Blades, HP
+Blades and Dell Blades Superdome - created new Vpar partitions and maintenance on the existing Scripting - write shell scripts to perform
+monitoring and daily maintenance of the applications and operating systems Disaster Recovery - planning, implementing and documenting
+LVM - manage physical disks, luns, file systems and volume groups Analyze technical and business requirements/Engineering design and
+layout Application maintenance and support for Highly Critical Application.
+HP-UX System Administrator
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+ 
+01/1995
+ 
+- 
+02/2007
+ 
+This position required the maintenance and support of over 1000 HP-UX servers running HP-UX versions 10.20 and 11.X.
+Performed all system administration functions on the HP-UX server for the crisis management team Superdome - SM, maintenance, patches
+and upgrades HP_UX System Performance - provided technical solutions to customers and high level support organizations within Hewlett
+Packard to increase system performance Veritas Clustering - primary support and implemented VCS Clustering Disaster Recovery -
+perform, document and maintain DR procedure and guideline for Off-site DR drills KVM -created file systems to match the specifications
+for UNIX servers Korn Shell scripting, security, auditing, UNIX Automation PCI Compliance Patching - primary support of all systems.
+Education
+Bachelor of Science
+ 
+: 
+Accounting and Computer Science
+ 
+Georgia State University
+ 
+- 
+City
+ 
+, 
+State
+ 
+1987
+ 
+Hewlett Packard Corporation 
+HP-Unix Training and Support IBM Corporation 
+Disaster Recover Certification
+ 
+:Recipient of MathematicÂ Scholarship to Texas Southern University
+Technical Certification in IT Technology - Sponsor by Ford Motor Aerospace and Technology Division
+ 
+: 
+Programming and Computer Science
+Georgia Tech Institute
+ 
+- 
+City
+ 
+, 
+State
+ 
+1990
+ 
+Technical IT Certification
+ 
+: 
+Programming and Technology
+ 
+Georgia Tech Institute
+ 
+- 
+City
+ 
+, 
+State
+ 
+1992
+ 
+Certifications
+Deploy Hadoop Cluster 
+. Configuration and Performance Tuning Load Data and Run Application . Monitoring and Troubleshooting Provide
+Technical Assistance in Administration and Automation Hardware: IBM Blade Technology, HP Blade, Cisco UCS Blade Technology, Dell
+Technology, HP Servers,
+Skills
+administrative support, Apache, auditing, Automation, Backup, bash, Cisco, Clustering, Hardware, Consultant, crisis management, client, Data
+conversion, databases, Database, Dell, DHCP, Disaster Recovery, Disaster Recovery - planning, DNS, Documentation, FTP, Hewlett Packard,
+HP, HP-UX, HP-UX 9, UX, HP Servers, IBM, IBM mainframe, Java, Korn Shell, LAN, layout, Linux, Logic, Managing, Medisoft, mail,
+Windows, window, Window 8, Middleware, Migration, network, NFS, NIS, operating systems, Oracle, PCI, protocols, Red Hat, servers,
+scripting, shell scripts, SNMP, Solaris 9.0, Solaris, System Administration, TCP/IP networking, Technical Assistance, Tomcat, troubleshoot,
+Troubleshooting, HP-Unix, UNIX, UNIX servers, upgrades, Veritas Cluster Server, Veritas Clustering, VM, WAN

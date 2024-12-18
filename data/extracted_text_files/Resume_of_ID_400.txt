@@ -1,0 +1,217 @@
+INFORMATION TECHNOLOGY PROVISIONING TECHNICIAN
+Career Overview
+Process driven, goal oriented, Information Security Leader with 5 
+years of IT and security experience. A self-motivated 
+Governance manager that
+is adept at analyzing and remediating threat vectors on an enterprise level. Bolsters corporate strategy, enhances daily security operations and
+delivers improved and optimized business protection, while leading a geographically diverse team adept at problem solving and risk analysis. 
+Audit
+and Control Establishment 
+Immediate Value Offered 
+Technical Acumen 
+Maximize technology investment, effectively implement IT business
+strategy, 
+drive innovation, improve business processes, expand service & technical 
+STRATEGIC PLANNING & ENABLEMENT 
+capabilities
+and maximize multi-million dollar cost savings
+Qualifications
+BUSINESS PROCESS IMPROVEMENTS 
+Partner with teams to create efficient cross-functional processes by eliminating 
+CONTRACT
+NEGOTIATIONS 
+COST SAVINGS INITIATIVES AD, DNS, TCP/IP, Microsoft Exchange, Rapid7 Vulnerability Assessment Platform,
+Firewall, IDS/IPS, Web Filter/Proxy, Mail
+Accomplishments
+Influential change agent focused on renewing quality initiatives for complex IT 
+IT SOX GOVERNANCE & COMPLIANCE 
+Outstanding
+Mentoring skills, adept at coaching junior and senior personnel, 
+portfolios while collaborating cross-functionally and interdepartmentally
+increasing growth and confidence among team members 
+FINANCIAL POLICIES & FORECASTING 
+PROJECT Deployment &
+REPORTING 
+PROJECT SCOPE AND SCHEDULING 
+Provide ongoing management of Information Security practices, specifications,
+and architecture design facilitating continuous organizational improvement 
+Security INFRASTRUCTURE 
+IT ANALYTICS &
+ORIENTATION 
+Progressive experience with managing enterprise security initiatives and 
+culture and the development of appropriate audit
+procedures, policies, 
+managing IT SOX governance & compliance to build a risk-based security 
+escalation paths, tracking, documentation,
+and a highly trained team proficient 
+Management 
+Experience 
+in enforcing key SOX requirements throughout the enterprise 
+PROGRAM
+MANAGEMENT 
+CROSS FUNCTIONAL COLLABORATION 
+coupled with enterprise policy creation and negotiation acumen
+Possess comprehensive technical background and management experience 
+RESOURCES UTILIZATION 
+TRAINING &
+DEVELOPMENT 
+Ensure business continuity and manage technology risks through information 
+CHANGE MANAGEMENT 
+assurance
+scoping, raising security awareness, bolstering systems, deploying.
+Work Experience
+08/2013
+ 
+to 
+11/2013
+ 
+Company Name
+ 
+ï¼​ 
+State
+McAfee EEPC).
+Worked with multiple departments and executive teams to ensure a timely and complete roll-out of product.
+Served as a technical lead and a tier 2 escalation resource for multiple applications and operating systems.
+Support included 
+Windows (XP and 7), Linux (Red Hat), and Mac (OSX).
+Administration, troubleshooting, reclamation, and issuance of RSA soft and hard tokens.
+Served as main escalation point 
+for de-synchronization issues and hardware-based troubles.
+Led the executive support team which provided "white-glove" support for director level and above 
+Active Directory administration ranging
+from SSO integration to forest creation, to simple user administration.
+Identified,.
+Information Technology Provisioning Technician
+ 
+, 
+10/2012
+ 
+to 
+08/2013
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+researched and resolved AD issues relating to advanced administration and GPO creation.
+Provided remote and local support to an employee base of over 7000 employees, contractors, and consultants.
+Resolved 
+complex hardware and software issues, and served as tier 2 and 3 support when needed.
+Utilized multiple ticketing systems to track customer issues, including Numara Footprints and Kayako 
+Provisioned, troubleshot, and
+repaired laptops, desktops, MiFi's, and corporate cellular phones 
+Managed the network operations center, which serviced upwards of 100
+clients over multiple geographic locations with.
+Information Technology Consultant
+ 
+, 
+12/2011
+ 
+to 
+02/2013
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+varying degrees of service contracts, in significantly diverse environments.
+Utilization of N-Central monitoring and patch management platform to audit and report on customer compliance and 
+software usage
+statistics to prepare and present recommendations to increase security and productivity of the business 
+Architected, implemented, and
+documented various Exchange and Active Directory deployments within each customer's 
+individual ecosystem, and tracked utilization
+statistics to increase revenue for the operations center.
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Responsible for Enterprise Information Security and Architecture, Risk Management and Compliance, understanding business Information
+Security & Compliance Manager 
+SolarCity, SAN MATEO, CA 
+November 2013 - PRESENT issues and concerns, determining business
+and security requirements, designing architecture and applying Security Technologies to mitigate risk and ensure compliance with SolarCity
+policies and standards.
+Implementation and administration of forensic imaging enterprise solution.
+Utilized to conduct covert and overt collection and analysis of at-risk employees 
+Creation and maintenance of IT SOX 
+identified by our
+Legal team.Governance and Compliance program 
+Outstanding mentoring skills, adept at coaching junior and senior personnel, 
+increasing growth and
+confidence among team members.
+deployment of Vulnerability Assessment 
+Concept-to-completion driver for the 
+platform 
+Interdepartmental mediator focused on converting
+identified risks, divergent - 
+programming and non-compliant applications and software into enterprise- 
+level solutions complete with policy
+guidance and remediation measures 
+Vendor assessment, negotiation and then 
+implementation of an upgraded security 
+Managed Information
+Security projects, including planning and development of 
+platform including firewall, proxy, 
+new processes and technologies in areas of
+intrusion detection and response, 
+category-based filter and VPN 
+management of vulnerability assessment practices, and vpn authentication.
+Reduced the total cost of ownership for our 
+Anti-Virus system by streamlining the 
+Identified technical/mobility improvements to physical
+security designs, 
+Author and maintain all Information 
+deployment and administration processes 
+providing a risk-based methodology,
+increased incident management landscape 
+Technology, and Information Security 
+and reduced operational expenditure 
+policies for the
+enterprise Administered and coordinated the conversion of existing whole disk encryption platform (Symantec PGP) to new platform.
+Education and Training
+Associates of Arts and Sciences (AAS)
+ 
+:
+ 
+Business Administration Software Technology
+ 
+Business Administration Software Technology
+Associates of Arts (AA)
+ 
+:
+ 
+Information Technology
+ 
+Heald College
+ 
+Information Technology
+Associate of Applied Sciences (AAS)
+ 
+:
+ 
+Network Security
+ 
+Heald College
+ 
+Network Security
+Comptia A 
+Certification Comptia Security 
+Certification
+Skills
+A 
+Certification, Active Directory, AD, Anti-Virus, BUSINESS PROCESS, coaching, Compliance Manager, CA, hardware, Concept,
+CONTRACT NEGOTIATIONS, contracts, conversion, encryption, clients, designing, desktops, Disaster Recovery, DNS, Firewall, functional,
+Gateway, IDS, imaging, Information Security, laptops, Legal, Linux, Mac, director, McAfee, mediator, mentoring, Exchange, Microsoft Exchange,
+Mail, Windows (XP, negotiation, Enterprise, network, Networking, operating systems, personnel, policies, processes, programming, Proxy, Red
+Hat, RELATIONSHIP BUILDING, Risk Management, SAN, statistics, Symantec, TCP/IP, Technical Trainer, phones, troubleshooting, VPN,
+Author

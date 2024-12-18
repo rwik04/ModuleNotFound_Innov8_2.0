@@ -1,0 +1,86 @@
+INFORMATION TECHNOLOGY SPECIALIST I
+Professional Summary
+Skills
+account management, cables, cabling, Help Desk, Linux, MS Exchange server, Sharepoint, network security, desktop support, Unix, HP Unix,
+VBscript, Visual Basic Programming, Windows Server
+Active Directory account management, Help Desk, Linux, MS Exchange server 2010, network/server security, desktop support, Unix, Windows
+Server, Geographic Information system, group policy SCOM & SCCM, vbscripts and Powershell, SANs,
+Active Directory account management and troubleshooting, Help Desk, Linux, MS Exchange server 2010, network/server security, desktop
+support, Unix, Windows Server, Geographic Information system, group policy SCOM & SCCM, vbscripts and Powershell, SANs,
+Work History
+Information Technology Specialist I
+Summary of Skills and Qualifications:.
+07/2008
+ 
+to 
+Current
+Computer Network Specialist
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+I serve as the Lan Administrator.
+I installed and maintain over 100 servers.
+I installed and maintain a Hyper V cluster of 9 nodes.
+I administer several systems including Exchange 2010, Lync 2013, Active Directory 2012 including user accounts & group policy,
+Microsoft System Center and Operations Manager 2012, Proofpoint spam filter and iBoss web filter, ArcGIS.
+I manage Active Directory user accounts and troubleshoot Active Directory replication issues when necessary.
+I maintain 3 SANs including Nimble, Dell Equallogic and StorSimple.
+I assisted with selecting Alertus desktop alerting system by watching vendor demonstrations and recommending the best alerting system for
+our environment.
+I work with users on high level technical issues to analyze issue sand then take corrective action.
+I perform new employee technology orientations and cellphone training in groups or individually.
+I write or modify scripts such as Powershell, VBscript.
+I administer a Vsphere server.
+06/2001
+ 
+to 
+07/2008
+Technology Specialist III
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Install and configure HP network switches, program switch ports and assign vlans, connect network wall ports and terminate network
+cables when necessary, troubleshoot network port communication errors and take appropriate action to correct problems, utilize TCP/IP
+utilities such as ping, tracert and ipconfig to diagnose network problems, installed and maintain Whats up network device connectivity
+monitoring software and configured the program to send sms messages when a device or service goes down, installed and maintained
+Blackberry Enterprise server for MS Exchange server, Fedora Core Linux with Multi Router Traffic Grapher, 2 Windows 2003 domain
+controllers, Renaissance Learning and Read 180 servers, Xiotech SAN and TNT network security appliance, written a number of dos and
+vbscript scripts to automate many functions, including student user account creation by exporting data from the student information system
+formatting the export file and to create approximately 5000 student user accounts, create home folders and set permissions, utilized group
+policy to secure workstations or install new software, implemented the district Geographic Information system by recommending ArcGIS
+software to my manager and worked with city and county agencies to acquire base layers and created additional layers such as school sites
+and attendance areas, communicated with teachers, managers and students, installed and supported a variety of software including anti virus,
+Office, Fortress desktop security, Rosetta Stone, Escape financial system and other education software, I used Ghost software to image
+computers when necessary.
+LAN Administrator
+Install and manage Hyper V and other servers Manage 3 SANS - Dell Equallogic, Nimble & Storsimple Troubleshooting server and client
+issues Administer Exchange 2010, Proofpoint Spam filter, iBoss web filter, System Center Operations manager and Operation manager.
+EMC Networker backup Installed and maintain Active Directory, group policy, user account management Analyzing technical issues to
+improve functio9nality Software/Operating Systems: Windows Server 2016, 2012, 2003, 2000, Windows xp, 7, 10, Linux HP Unix,
+Microsoft Office 2007, 2010, 2013, 2016, Skype for Business, Track It work orders, Escape Financial System, Aeries student information
+system, Alertus Desktop alerting, , Laserfiche, Sharepoint 2013, Lync 2013 iBOSS web filter, Proofpoint Spam filter, Exchange 2010
+DAG and Client Access Array, Informacast Speaker System,Microsoft System Center and Operations Manager, EMC Networker backup
+software, ArcGIS desktop and server, Maas360 mobile phone management, Azure Hardware: Install components such as network
+interface cards, ram, video cards, hard drives, Raid controllers, network cabling, motherboards, power supplies also troubleshooting
+components.
+Education
+2013
+I have attended several college Computer Science courses. 
+This includes Visual Basic Programming, Unix, several networking courses Exchange
+ 
+: week long course EMC Networker week long course ArcGIS week long course Windows 2012 - Powershell week long course
+ 
+:
+Skills

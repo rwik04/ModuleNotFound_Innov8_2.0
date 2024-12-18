@@ -1,0 +1,75 @@
+{
+    "unique_hard_skills": [
+        "C++",
+        "Git",
+        "Machine Learning",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Docker",
+        "Java"
+    ],
+    "unique_soft_skills": [
+        "Critical Thinking",
+        "Teamwork",
+        "Adaptability",
+        "Communication",
+        "Leadership"
+    ],
+    "top_40_hard_skills": [
+        [
+            "SQL",
+            74
+        ],
+        [
+            "Git",
+            63
+        ],
+        [
+            "Java",
+            27
+        ],
+        [
+            "C++",
+            18
+        ],
+        [
+            "JavaScript",
+            13
+        ],
+        [
+            "Python",
+            12
+        ],
+        [
+            "Machine Learning",
+            1
+        ],
+        [
+            "Docker",
+            1
+        ]
+    ],
+    "top_15_soft_skills": [
+        [
+            "Communication",
+            600
+        ],
+        [
+            "Leadership",
+            420
+        ],
+        [
+            "Critical Thinking",
+            61
+        ],
+        [
+            "Teamwork",
+            42
+        ],
+        [
+            "Adaptability",
+            11
+        ]
+    ]
+}

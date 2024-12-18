@@ -1,0 +1,113 @@
+INFORMATION TECHNOLOGY COORDINATOR
+Professional Profile
+B.S. graduate with a record of success implementing IT solutions. Demonstrated commitment to quality and customer service, detail oriented,
+strong team player, self motivated, demonstrated exceptional analytical skills, proven ability to work effectively and cross functionally with all levels
+of management with responsibilities increasing in scope. 9+ years of experience as Client/Server developer using Transact SQL, PL\SQL, Classic
+ASP, ASP.net, HTML, DHTML, XML, JavaScript, using CSS layout and design principles. 7+ years of managing project timeliness, accuracy,
+approving high-level and detail designs, as well as managing successful test plans. Directed all stages of software development including
+requirements, design, coding, testing and implementation of several company wide Intranet initiatives like Ovations! - An associate rewards and
+recognition program used by over 30,000 employees; Kronos TM Workforce Central - a time and attendance program for 13,000 non-exempts
+employees. Several projects included the management of offsite vendor resources. Experience using the following database management tools MS
+SQL Server 6.5,7, 2000 and 2005, My SQL, and Oracle 9i. Proficient with MS Windows, MS Office, Minitab, Business Objects, Adobe CS3
+Web Edition, Visual Studio, Frontpage, PaintShop Pro.
+Experience
+Information Technology Coordinator
+ 
+Nov 2003
+ 
+to 
+Current
+ 
+Company Name
+ 
+Provide technical support throughout the office from building and managing the web presence, networking computers and other
+office equipment as well as researching grant opportunities for the implementation of a technology component for the Leadership SOAR program.
+Responsible for building capacity for the foundation within the area of information technology by helping them move closer to a paperless
+environment. The scope of my role is to streamline IT operations, implement an effective online marketing and media strategy, automate the work
+processes for employees, and centralize the activities of GivingBack Foundation, Inc. by using the internet and other media.
+Web Developer
+ 
+Jun 2003
+ 
+to 
+Current
+ 
+Company Name
+ 
+As webmaster I was responsible for the wing-to-wing implementation of online solutions for small businesses using the full System
+Development Life Cycle. All projects were delivered 100% on time, within budget by correctly assessing needs upfront, and gathering detailed
+design specifications that prevent scope creep. I was directly involved in the design/develop/testing phases, the implementing of database systems
+using Classic ASP/ASP.net 2.0 and MS SQL Server 2000/2005 in the Windows Hosting environment, PHP 4.0 - 5.0 and MySQL 4 in the Linux
+Hosting environment as well as providing support operations, and evaluating the overall system performance after project launch. A few key
+ASP.Net/MS SQL 2005 solutions implemented during this period were vendor developed ad tracking and e-mail newsletter marketing software.
+Clients relied upon the research and cost benefit analysis provided to determine the best solution that met their needs and budget.
+Intranet Application Support Analyst
+ 
+Jan 2003
+ 
+to 
+Jul 2007
+ 
+Company Name
+ 
+Key responsibilities were to manage the timeliness and accuracy of system parameter setups and data migration of files for private
+label and bank card projects. Worked with functional areas such as Marketing, Risk, Fraud, Operations, and Collections to ensure that
+parameters implemented met project requirements by serving as the IT lead responsible for overcoming any organizational and technical barriers
+that arose. During this period I was able to successfully multi-task and manage several projects concurrently making my role key in the successful
+implementation of 14 new portfolios that had a combined growth of $1.26B in new receivables. Implemented successful business-wide initiatives
+such as: Ovations! - An associates rewards and recognition system. Primary responsibility was to enhance the system's Graphical User Interface
+and make it more intuitive for the users. The completed project resulted in a 50% increase in system productivity while remaining stable during
+peak usage periods. This was accomplished by managing the wing-to-wing project implementation with the selected outside vendor and internal IT
+teams involved. Kronos TM Workforce Central - Key responsibility was to stabilize the application within the Windows 2k/Oracle 9i
+infrastructure by leveraging a test server for validating patches, and major version updates by the vendor. Once moved to the live production
+environment, load balancing between 3 application and 1 database server was implemented to better support peak usage times. This allowed the
+system to always be available for users to accurately record their time and ensured the Human Resource department they were within 99%
+compliance in handling employee payroll. Managed Offshore Resources during several key Intranet initiatives by assisting in the review and
+approval of high-level and detail design of business requirements for the enhancements/maintenance of other miscellaneous web applications within
+the scope of the Consumer Finance IT build team. After the testing phase was complete I assured the hand off from the build to the production run
+team was a seamless transition that did not interrupt any existing production processes. Initiated the role of a technical support contact providing
+maintenance and enhancements for three integrated business tracking systems built with classic ASP and MS SQL used to manage the work flow
+for a Portfolio Services department of 120 associates. Phases of the application were being built by members of the Information Management
+Leadership Program (IMLP), each with specific requirements to implement within their six month rotation. These rotations left a support gap which
+I filled to address any system issues as they rose. This resulted in a smoother transition between the IMLP members by allowing them time to focus
+on and fulfilling their requirements of the program instead of immediately coming into a new rotation addressing issues left by a previous colleague.
+Implemented a database migration plan from MS SQL Server 6.5 to 2000, which included maintenance schedules and archiving. By the structure
+of the two versions MS SQL server being completely different, it had to be a two phased approach. Phase one required a migration from 6.5 to
+7.0. Phase two was to migrate from 7.0 to 2000. Since support was going to be dropped for MS SQL Server 6.5 the entire project had to be
+completed within 30 days. This migration allow me to implement a regularly scheduled maintenance plan that reduced end-user downtime from 10
+- 20 hours per month to zero The Subject Matter Expert for the Mid-Range Application group in Stamford responsible for conducting a transfer of
+knowledge from the Atlanta data management personnel back to the Mid-Range team for ongoing support. Due to the elimination of curtain
+business functions this process had to be successfully completed within 60 days to prevent the possible impact of production systems there after.
+Education
+Bachelor's
+ 
+, 
+Computer Information Systems
+ 
+DeVry University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+, 
+US
+ 
+9/2000 - 6/2004 DeVry University, Alpharetta, Georgia
+Bachelor's Degree, Computer Information Systems Academic Honors: Dean's List, Hope Scholarship GPA 3.46 while working and attending
+school full-time
+Affiliations
+GivingBack Foundation, Inc
+Certifications
+Six Sigma Green Belt Certified
+SkillsMarketing, Operations, Database, Asp, Ms Sql Server, Sql, Sql Server, Technical Support, Testing, Asp.net, Budget, Clients, Database Systems,
+Life Cycle, Linux, Ms Asp, Ms Sql Server 2000, Mysql, Online Solutions, Php, Project Launch, Solutions, Sql Server 2000, System
+Development, Closer, Media Strategy, Networking, Online Marketing, Bank Card, Collections, Credit, Data Migration, Receivables, Intranet,
+Maintenance, Application Support, Archiving, Data Management, Subject Matter Expert, Work Flow, Business Requirements, Engineer, Finance,
+Graphical User Interface, Increase, Kronos, Load Balancing, Offshore, Oracle, Payroll, Production Environment, User Interface, Belt Certified,
+Black Belt, Six Sigma, Six-sigma, .net, Associate, Client/server, Coding, Css, Customer Service, Database Management, Detail Oriented, Dhtml,
+Flash, Frontpage, Html, Javascript, Microsoft Sql Server, Microsoft Sql Server 2000, Minitab, Ms Office, Photoshop, Project Management,
+Receptionist, Retail Sales, Self Motivated, Software Development, Structured Software, Team Player, Test Plans, Time & Attendance, Time And
+Attendance, Visual Studio, Xml

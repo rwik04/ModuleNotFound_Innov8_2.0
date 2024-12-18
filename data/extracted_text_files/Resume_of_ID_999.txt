@@ -1,0 +1,217 @@
+INFORMATION TECHNOLOGY AND AWS ADMIN INTERN
+Experience
+Information Technology and AWS Admin Intern
+ 
+, 
+04/2019
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration 
+for company's
+financial department.
+Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud.
+Reduced the company's infrastructure cost by 10 times.
+Implemented secure off-site backups through scheduled weekly SSH dumps to remote server.
+Configured and troubleshot switches, routers and firewalls using TCP/IP protocols.
+Network Engineer Intern
+ 
+, 
+10/2015
+ 
+Company Name
+ 
+Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
+AWS Certified Solutions Architect- Associate
+ 
+, 
+10/2018
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+ID-J007G7C1MFE41RSQ) Aug 2019 Cisco Certified Network Associate - CCNA 200-125 (ID-CSCO13264710.
+04/2019
+ 
+Company Name
+ 
+Set up a VPC network on Amazon and created public and private subnets, security groups, elastic IP and NAT gateway.
+Created an EC2 instance with Windows AMI to host an application on virtual machine WAN network deployment for a multinational
+organization using Cisco Packet Tracer Fall 2018.
+Configured routers, switches and implemented IP addressing, subnetting for a multi-location enterprise network using DHCP, 
+OSPF,
+HSRP, RSTP for routing and redundancy.
+Solved security threats by providing network security using ACL and port security Linux Based Integrated Ad-Hoc Network for IT
+infrastructure (Linux, Ubuntu) Fall 2018.
+Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.
+Work History
+Information Technology and AWS Admin Intern
+ 
+, 
+04/2019
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration 
+for company's
+financial department.
+Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud.
+Reduced the company's infrastructure cost by 10 times.
+Implemented secure off-site backups through scheduled weekly SSH dumps to remote server.
+Configured and troubleshot switches, routers and firewalls using TCP/IP protocols.
+Network Engineer Intern
+ 
+, 
+10/2015
+ 
+Company Name
+ 
+Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN.
+AWS Certified Solutions Architect- Associate
+ 
+, 
+10/2018
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+ID-J007G7C1MFE41RSQ) Aug 2019 Cisco Certified Network Associate - CCNA 200-125 (ID-CSCO13264710.
+04/2019
+ 
+Company Name
+ 
+Set up a VPC network on Amazon and created public and private subnets, security groups, elastic IP and NAT gateway.
+Created an EC2 instance with Windows AMI to host an application on virtual machine WAN network deployment for a multinational
+organization using Cisco Packet Tracer Fall 2018.
+Configured routers, switches and implemented IP addressing, subnetting for a multi-location enterprise network using DHCP, 
+OSPF,
+HSRP, RSTP for routing and redundancy.
+Solved security threats by providing network security using ACL and port security Linux Based Integrated Ad-Hoc Network for IT
+infrastructure (Linux, Ubuntu) Fall 2018.
+Designed and implemented a prototype illustrating a client-server model for hosting WebServer (Apache2), master and slave.
+AccomplishmentsDNS(Bind9) server, DHCP Server and Backup server.
+Integrated the network to release dynamic IPv4 and IPv6 addresses to provide firewall protection, NFS, IPsec VPN 
+Multi-client server
+chat application Spring 2018.
+Developed a real time multi-client server chat application in Python for a chat group by implementing socket programming.
+Secured the application by providing features like AES encryption, SHA 256, MD5 and symmetric key method 
+Client server Socket
+Programming using TCP in Python Fall 2017.
+Developed a Python script for the client on Linux for performing a set of mathematical expressions sent by the server.
+Evaluated the result by receiving a flag sent by the server to the client on successful execution of the mathematical 
+expressions, indicating a
+secure and successful TCP socket client-server connection establishment 
+SDN based Load Balancer Fall 2017.
+Designed a software-defined network to provide server load distribution for a pool of HTTP servers by analyzing the incoming 
+packets and
+routing accordingly.
+Optimized congestion by performing load balancing in round robin technique for the POX controller by using Openflow Switch 
+Client -
+server application for public-key cryptography in Python Fall 2017.
+Developed a secured TCP connection for encryption and decryption of text file and matched the output at the receiver.
+Created public key cryptography to generate a set of public and private key (.pem file) by using RSA cryptosystem.
+Education
+Master of Science
+ 
+: 
+Telecommunication and Networks
+ 
+, 
+12/2019
+ 
+Northeastern University, Solapur University
+ 
+- 
+City
+ 
+, 
+State
+ 
+Bachelor of Engineering
+ 
+: 
+Electronics and Telecommunications
+ 
+, 
+06/2016
+ 
+Summary
+Actively seeking full time opportunities from December 2019
+Highlights
+IP networking protocols
+:TCP/IP,UDP,HTTP/S,DHCP,DNS,STP,HSRP,ISIS,RIP,OSPF,MPLS,FTP,SMTP,IPSec,VLAN,VPN
+Network Tools :Wireshark,VMware,Cisco Packet Tracer,VirtualBox, Oracle,Windows
+Server,AWS,Active Directory
+Operating Systems :Windows,Linux,CentOs,Ubuntu,RHEL
+Programming languages: Python,Bash Scripting
+Coursework : Data Networking,Linux for Network Engineers,Internet Protocols & Architecture,Network
+Security,
+Computer Communication Networks,Multimedia Communication
+Active Directory, Routers
+Ad, Routing
+Apache2, SSH
+Bash, Scripting
+CCNA, SMTP
+Cisco Certified
+Network Associate,
+Switches
+Cisco, TCP/IP
+Client-server, VPN
+DHCP, WAN
+DNS, Windows Server
+Financial
+Firewalls
+FTP
+Gateway
+HTTP
+Internet Protocols
+IP
+ISIS
+LAN
+Linux
+Windows
+Multimedia
+Enterprise
+Network Security
+Network
+Networking
+Networks
+Operating Systems
+Oracle
+OSPF
+Programming
+Protocols
+Python
+RIP
+Skills
+IP networking protocols :TCP/IP,UDP,HTTP/S,DHCP,DNS,STP,HSRP,ISIS,RIP,OSPF,MPLS,FTP,SMTP,IPSec,VLAN,VPN
+Network Tools :Wireshark,VMware,Cisco Packet Tracer,VirtualBox, Oracle,Windows Server,AWS,Active Directory
+Operating Systems :Windows,Linux,CentOs,Ubuntu,RHEL
+Programming languages: Python,Bash Scripting
+Coursework : Data Networking,Linux for Network Engineers,Internet Protocols & Architecture,Network Security,
+CComputer Communication Networks,Multimedia Communication,Active Directory, Ad, Apache2, Bash, CCNA, Cisco Certified Network Associate, Cisco, client-server, DHCP, DNS, financial, firewalls,
+FTP, gateway, HTTP, Internet Protocols, IP, ISIS, LAN, Linux, Windows, Multimedia, enterprise, Network Security, Network, Networking,
+Networks, Operating Systems, Oracle, OSPF, Programming, protocols, Python, RIP, routers, routing, SSH, Scripting, SMTP, switches, TCP/IP,
+VPN, WAN, Windows Server

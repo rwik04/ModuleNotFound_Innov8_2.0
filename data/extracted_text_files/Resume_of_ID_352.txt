@@ -1,0 +1,164 @@
+VP OF INFORMATION TECHNOLOGY
+Executive Profile
+A results oriented technology leader with over 18 years of IT experience, 8 years of supervisory experience. 
+Passionate about collaborating with
+key stakeholders to develop information technology vision and strategy by effectively building organization, processes, infrastructure and services in
+support of short and long-term business needs. Understands the business value of available tools and applications as to provide optimal strategic
+benefit at the appropriate cost.
+Skill Highlights
+IT Governance
+Team Leadership
+Systems Integration
+Contract Negotiations
+Disaster Recovery Plans
+IT Operations
+Core Accomplishments
+Implemented a new phone system that will immediately save the company over $100,000 a year with benefits that have increased
+productivity while lowering the need of IT support.Â  This includes vendor contract negotiation, which resulted in the cost of the new phone
+system to be covered with no out of pocket expenses.
+Managed multiple IT Projects that resulted in increased productivity, performance and revenue.
+Enhanced communications between our nationwide offices using Video Conferencing, saving over $50,000 a year in travel costs.
+Worked with Marketing to integrate our CRM and other systems with our Marketing systems, which resulted in real-time feedback to
+marketing and end users of client actions.
+Converted VMWare to Hyper-V which resulted in lower costs & quicker recovery as part of the DRP.
+Designed, Implemented and maintained a Disaster Recovery Plan that reduced recovery time from 4 days to 2 hours, potentially saving the
+company from catastrophic downtime.
+Initiated a Task management system that resulted in better communication and increased productivity from the team. Â This kept all
+stakehoders in the loop on project status.
+Using qualitative and quantitative techniques, discovered numerous ways to improve current systems, saving Bradley-Morris over $250,000
+a year.
+Mentored and coached employees resulting in a 25% increase in productivity.
+History of increasing infrastructure performance and increasing uptime to nearly 100%, saving the company over $5M a year in revenue.
+Quickly gained expertise in the company's CRM that resulted in saving the company over $600,000 in consulting fees.
+Increased sales and reduced costs by cutting manual quoting process time by 80% through design and implementation of a new automated
+quoting system.
+Spearheaded the design and build of a commissions system that resulted in recovering over $2.5M in unaccounted commissions due.
+Professional Experience
+VP of Information Technology
+ 
+07/2014
+ 
+to 
+03/2017
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Hired to transform the IT department, which was successful
+within the first few months. Â Developed an IT strategy designed to increase sales and business process efficiency, and lower costs and company
+risk. Built and managed a highly effective team of employees, vendors, and service providers. Reporting to the CEO, responsible for all information
+technology budgeting, vendor negotiations, and business intelligence. Â Responsible for the IT Budget, task management and delegation, and IT
+staff mentoring and reviews.
+VP of Information and Security Technology
+ 
+02/2009
+ 
+to 
+05/2014
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Lead all IT operations, including purchasing, budget
+and structure. Â Conduct performance reviews and record results. Prepare and deliver reports and presentations on IT issues for CEO and VP of
+Sales on Demand. Train employees on system use, workflow procedures, and technology policies. Manage employees in connection with IT
+functions.Â Manage outside vendors and consultants as needed. Served as the HIPAA compliance officer. Â Worked with marketing and the VP
+of Product Development to align new products concepts with corporate technology and corporate strategic goals.
+Director of Information Technology
+ 
+02/2006
+ 
+to 
+02/2009
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Managed all information security to follow HIPAA Compliance guidelines. Â Advise the CEO and other executives on advanced technology
+solutions. Â Began serving on the Executive Management Team. Met with client executives to determine client needs, project requirements, and
+feasibility; translate the needs into technical requirements. Â Established high functioning lean IT department to quickly respond to internal and
+external IT support requests. Â Bolstered system performance through design and development of new Electronic Data Processing system by
+leveraging expertise with Visual Studio 2010, SQL Server, and ASP.NET. Oversaw all areas of Infrastructure.
+Information Technology Manager
+ 
+02/2003
+ 
+to 
+02/2006
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Continued to improve and expand the Commissions Tracking Application. Â Gained expertise in the companies CRM and digitally integrated the
+Commissions Tracking System with the CRM. Â Increased system uptime from 80% to over 99% by implementing new Hyper-V virtual
+servers/DFS with no downtime. Â Developed and deployed corporate software and apps to employee's mobile devices for streamline corporate
+use and uniformity.
+Application Developer
+ 
+08/2002
+ 
+to 
+02/2003
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Spearheaded major, year-long initiative to plan, design, build, and implement an ETL commission database system utilizing SQL databases and
+ASP.Net, including data analysis reporting that recovered more than $2.5M in "lost" commissions. Â Provided some end-user desktop support.
+EducationInformation Systems
+ 
+2014
+ 
+Park University
+ 
+GPA: 3.5
+Bachelor of Science
+ 
+: 
+Management
+ 
+2007
+ 
+Park University
+Magna Cum Ladue
+GPA 3.82
+Skills
+ASP.Net 4.5, ASP.Net, VB.NET, Active Directory, Backup, Budget, Contract negotiation, CRM, Data Analysis, Data Processing, Databases,
+Disaster Recovery, ETL, EDI, ITIL, Training, Executive Management, Senior Management, GoldMine, Information Security, HealthCare IT, IT
+support, Leadership, Marketing, Network analysis, Performance reviews, VoIP, Presentations, Process Enhancement, Product Development,
+Servers, SQL, SQL Server, Strategy, Desktop support, Visual Studio, Workflow
+Military Experience
+Electronics Technician
+ 
+07/1997
+ 
+to 
+07/2001
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Deployed and maintained CAT5 and fiber optic cable. Directed and
+trained subordinate Technicians. Â Configured 5 stations with CAT5 and fiber optic cable. Â Conducted quarterly and annual formal performance
+reviews for all subordinates. Â Installed Windows NT system on more than 400 computers. Earned good conduct and sharpshooter awards.

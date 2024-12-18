@@ -1,0 +1,137 @@
+INFORMATION TECHNOLOGY ADMINISTRATOR
+Professional Profile
+I am a jack of all trades IT guy at one of the premier intellectual property law schools in the world, whose job description and responsibilities
+continue to evolve with the ever-changing opportunities that new technology provides. Extremely self-motivated, detail oriented, and organized, I
+thrive most when presented with opportunities to creatively solve new and interesting challenges.
+Qualifications
+Systems administration
+Strong verbal and written communication
+Vast help desk experience
+Team leadership
+Network administration
+Extensive knowledge of Apple products
+Project management
+Innovative legal experience
+Experience
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Information Technology Administrator
+ 
+09/2014
+ 
+to 
+Current
+I oversee the purchasing, management, and maintenance of all infrastructure-related hardware and software, while simultaneously overseeing
+end-user hardware and software support for a law school with roughly 85 FTE faculty/staff, and 275 students with a roughly 1:1 PC:Mac
+user ratio.
+I work closely with the Durham campus, all IT vendors, and our BSC office to develop and manage the IT budget, including all IT-related
+service and maintenance contracts, while also developing and maintaining IT policies as they relate to law school operations and academics.
+Duties include managing a 5-host, 40-server VMWare farm, help desk system, network monitoring system, campus-wide physical/building
+security system, ID card system, printing infrastructure, electronic exam system, backing up all critical data on the UNH Law network, and
+administering a plethora of fileservers, webservers and web applications, including various content management systems.
+I work with system administrators in Durham to design and maintain the entire network on the Concord campus.
+Extensive knowledge installing and supporting various server platforms, including Windows, linux, Mac OS Server.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Associate Director of Computer Services
+ 
+07/2000
+ 
+to 
+09/2014
+Primary responsibilities included the day-to-day support of end-user hardware, software, and peripherals in a mixed Microsoft Windows,
+Mac OS X, linux, and Novell environment, while also assisting with the everyday demands of maintaining a rather complex campus-wide
+network that was driven by a predominately Cisco infrastructure.
+Reported directly to, and served as the immediate backup for the Director of Computer Services.
+Designed and implemented the first ever wireless network on campus, which I administered and upgraded through three different platform
+changes over the course of thirteen years.
+Planned and administered the campus upgrade initiatives from Windows 98 to Windows XP, Windows XP to Windows 7, and numerous
+Mac OS and iOS version upgrades.
+After Franklin Pierce Law Center integrated with UNH, I developed the plan for and administered the transition from a predominately
+Novell-based infrastructure to a predominately Microsoft-based infrastructure, including transitioning our e-mail platform from Novell
+GroupWise to Microsoft Exchange.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+District Computer Technician
+ 
+08/1999
+ 
+to 
+07/2000
+I supported all end-user related hardware and software demands for the entire school district.
+Duties ranged from day-to-day troubleshooting to implementing new technologies, such as the first ever Apple Airport WiFi network and
+roaming iBook lab.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Electrician's Apprentice
+ 
+06/1990
+ 
+to 
+07/1999
+Predominately industrial electrical work, mostly in a manufacturing setting, with some residential work mixed in.
+Education
+Bachelor of Science
+ 
+:
+ 
+Exercise and Sports Sciences
+ 
+1999
+ 
+Colby-Sawyer College
+ 
+, 
+City
+ 
+, 
+State
+ 
+, 
+USA
+Skills
+Platforms and protocols: Microsoft Windows, Microsoft Windows Server, Microsoft Active Directory, Microsoft Group Policy, Microsoft Office
+for Windows and Mac, Microsoft Exchange, Mac OS X, Mac OS X Server, Apple iOS, Android, CentOS, SUSE Enterprise Server, Novell
+Netware, Novell eDirectory, Novell GroupWise, Novell Open Enterprise Server, Novell Datasync/Mobility Server, Novell Teaming, Novell
+Zenworks, Novell Zenworks Configuration Management, Adobe Acrobat, Adobe Connect Pro, Apache, OpenSSL, IIS, MYSQL, PHP,
+HTML, SSL, LDAP, DHCP, BIND, DNS, TCP/IP
+Appliances and applications: Drupal, Expression Engine, Aerohive, Bluesocket Wireless Controller, Barracuda Anti-Spam Appliance, Barracuda
+Web Filter, BarracudaWare, SonicWall NSA (including VPN), 3Com NBX, Avaya, Cisco PIX, Cisco Network Assistant, Blackberry Enterprise
+Server, VMWare ESX, VMWare Fusion, Pharos Uniprint, NTop, Nagios, NagiosQL, Icinga, Cacti, RealChat, MRBS, WebCalendar. vBulletin,
+Movable Type, WordPress, MediaWiki, Gallery2, Gallery3, SIMPLE, Joomla, Moodle, Mailman, EMS Campus, EMS Master Calendar, Virtual
+EMS, C-Cure, Remedy, TeamDynamix
+Extensive hardware knowledge and experience, especially with Apple, Micron, Lenovo, Dell, HP Laserjets, Canon MFDs, and Xerox MFDs. 
+Salary History
+University of New Hampshire School of Law, formerly Franklin Pierce Law Center
+2 White StreetConcord, NH 03301
+Associate Director of Computer Services
+07/2000-09/2014
+Starting Salary: $31,500
+Ending Salary: $54,000
+University of New Hampshire School of Law, formerly Franklin Pierce Law Center
+2 White Street
+Concord, NH 03301
+Information Technology Administrator
+09/2000-Present
+Starting Salary: $62,300
+Ending Salary: $62,300

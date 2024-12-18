@@ -1,0 +1,253 @@
+IT MANAGER
+Summary
+Ten years of management experience with a focus on team building and project management. Ten years of experience as a network engineer and
+systems administrator. The majority of my experience has been working with Microsoft, Dell, HP, IBM, Symantec, McAfee, Trend Micro and
+Cisco hardware and software business solutions. I have extensive experience with Microsoft Exchange Server. I am comfortable with Cisco
+command line IOS, VoIP, QoS tagging, layer 2, 3 and 4 switching and packet shaping. I have used Fluke OptiView, Wireshark, NetFlow
+Analyzer, Solarwinds Network Performance Monitor and SMS to assist me in the process of identifying network bottlenecks and performance
+issues. I have experience in business, education, medical and manufacturing environments. Recently, I have been working a great deal with Hyper-
+V, VMware and data loss prevention software.
+Highlights
+Software Symantec Backup Exec, System Recovery, Endpoint Protection, Trend Micro, McAfee, 
+ESET, 
+Acronis,
+ShadowProtect, GFI, Crow Canyon, DameWare, Wireshark, NetFlow Analyzer, Splunk, SMS, Fluke OptiView,
+Solarwinds NPM, Microsoft Response Point, GP, CRM and SharePoint,
+Databases SQL, MySQL
+Hardware Servers, workstations, laptops, printers, smart phones, routers, switches, firewalls, wireless access
+points, LTO autoloaders, CCTV, PBX and IP phone systems, biometric scanners and readers
+Applications Apache, IIS, Cisco ASDM, Cisco VPN Client, MAS 90, Sage Medical Manager, BrainTree
+PACS/C-Arm, VMware, Citrix, SmartFilter, Imail, Websense, iPrism Web Security, Hyper-V, SonicWall Global
+VPN Client, Adobe, Foxit Phantom PDF, JobBOSS, Made2Manage ERP, Word, Excel, Access
+Industries Business, Manufacturing, Education and Medical
+Operating Systems Windows 2000 Server, Server 2003, Server 2008, Server 2012, Exchange Server(2000,
+2003, 2007, 2010, 2013 & associated migration tools), Cisco IOS, Linux, Mac OS
+Methodologies project management, system analysis and design, business process flow
+Database
+maintenance
+System checks
+and
+troubleshooting
+Advanced
+troubleshooting
+Virus and
+spyware
+removal
+Computer
+diagnostics and
+repair
+Server
+management
+Hardware
+support and
+troubleshooting
+Highly
+motivated
+Resourceful
+Advanced
+knowledge of
+diagnostic
+techniques
+Advanced
+knowledge of
+security,
+firewalls and
+DLP
+Accomplishments
+Saved company over $
+ 50,000.00 per year
+ 
+by refurbishing used computers and technological equipment and switching Internet providers from T1
+lines to cable.
+Experience
+IT Manager
+ 
+, 
+07/2012
+ 
+- 
+Current
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+Server installations and migrations, SonicWall firewalls, VPN installation and support, wireless access points, multilayer switches, routers,
+help desk support for 3 sites, multi-mode fiber, Microsoft Exchange Server, Server 2012, Hyper-V installation and support, Windows XP
+mode, Windows 7, Windows 8, 
+SharePoint, Microsoft Dynamics GP/CRM, Project Server, SQL, Macola, CCTV, time and attendance
+hardware and software, biometric reader installation and support, Syspine IP, Microsoft Response Point, VoIP, Creo Pro/E, Windchill,
+SolidWorks, QuickBooks Enterprise, McAfee SaaS, network security, disaster recovery, infrastructure design and support, network
+hardware and software troubleshooting, administration of user accounts, responsible for developing annual IT budget, responsible for IT
+project management.
+Administration of group policy, Active Directory, help desk support, Hyper-V, DLP.
+Information Technology Engineer
+ 
+, 
+10/2008
+ 
+- 
+07/2012
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+Server installations and migrations, migration of databases, Exchange Server, SQL, MySQL.
+Cisco PIX and ASA 5505 installation and support, 
+network security, wireless hardware, installation and support of Symantec Backup Exec
+and Endpoint Protection, Mac OS, help desk support for multiple sites, phone system and VoIP support.
+Administration of group policy, Active Directory, DHCP, DNS, hardware and software troubleshooting, upgrades and migrations of legacy
+software packages.
+Senior Network Engineer
+ 
+, 
+10/2007
+ 
+- 
+06/2008
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+Server installations and migrations, databases, Exchange Server, SQL, MySQL.Server installations and migrations, databases, Exchange Server, SQL, MySQL.
+HP servers, Secure Computing Webwashers, Snapgear firewall/VPN appliances, Cisco switches, Trend Micro products, Symantec
+products, network security, wireless installation and support, virtual machines, help desk support for multiple sites, phone system and VoIP
+support.
+Administration of group policy, Active Directory, DHCP, DNS, end user support.
+Information Technology Engineer
+ 
+, 
+03/2005
+ 
+- 
+10/2007
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+Server installations and migrations, migration of databases, MAS 90, SQL, MySQL.
+Cisco 1721, 2800 and 3600 series routers, Cisco Catalyst 2900 and 3100 series switches, HP ProCurve switches, 
+Symantec products,
+network security, wireless installation, iSCSI NAS/SAN (Intel hardware), media servers, terminal server applications, BrainTree PACS and
+C-Arm, biometric readers, time and attendance installation and support, help desk and end user support for 7 sites.
+Administration of group policy, Active Directory, DHCP, DNS, VPN tunnels, ftp servers, Sage Medical Manager, VoIP, QoS, layer 3 and
+4 switching, Cisco Aironet access points, Toshiba hybrid PBX and VoIP phone system and QoS support, HIPAA compliance, media
+servers, iSCSI, fibre channel, SAN and NAS design, installation and support.
+Assistant Professor
+ 
+, 
+08/2000
+ 
+- 
+07/2005
+ 
+Company Name
+ 
+- 
+City
+ 
+, 
+State
+Program Chair for Region 2 (South Bend, Elkhart and Warsaw Server installations, teaching A+, Network+, Microsoft MCSA and Cisco
+CCNA classes, programming routers, switches and installing and configuring Windows 2000 server and Server 2003.
+Supervised all Computer Information Systems faculty, staff and adjunct instructors for all three sites in Region 2, hardware/software
+troubleshooting and support.
+Administration of group policy, Active Directory, FERPA compliance.
+Education
+Davenport University
+ 
+- 
+City
+ 
+, 
+State
+ 
+, 
+USA
+ 
+Information Technology Certification Classes
+ 
+Network Engineering
+ 
+A+, Network+, MCSA, CCNA,
+Operating Systems, Business Applications, Network Engineering
+1988
+ 
+Western Michigan University
+ 
+- 
+City
+ 
+, 
+State
+ 
+, 
+USA
+ 
+M.A
+ 
+Counselor Education and Counseling Psychology
+ 
+Administration of Student
+Personnel Services and Counseling in Post-Secondary Education
+1985
+ 
+Indiana University
+ 
+- 
+City
+ 
+, 
+State
+ 
+, 
+USA
+ 
+B.A
+ 
+Sociology
+ 
+Sociology and Psychology
+Ivy Tech Community College
+ 
+- 
+City
+ 
+, 
+State
+ 
+, 
+USA
+ 
+Information Technology Certification Classes
+ 
+Cisco CCNA
+ 
+Cisco Switching and Routing
+Certifications
+CompTIA 
+A+, Network+, Microsoft MCP (70-210 and 70-215), previously certified as Cisco CCNA
+Skills
+A+, Active Directory, Adobe, Apache, Backup Exec, budget, business process, C, CCNA, Cisco IOS, Cisco, Citrix, Hardware, CRM, Client,
+Databases, DHCP, disaster recovery, DNS, ERP, firewalls, firewall, ftp, help desk support, help desk, HP, HP servers, IIS, Information Systems,
+Intel, IP, IT project management, laptops, Linux, Mac OS, Macola, MAS 90, McAfee, Medical Manager, Access, MCP, Microsoft Dynamics,
+Excel, Exchange Server, Microsoft Exchange Server, SharePoint, Windows 7, Windows 8, 2000, Windows XP, Word, migration, MySQL,
+Enterprise, NAS, Network Engineering, network hardware, network security, Network, Operating Systems, PACS, PBX, PDF, phone system,
+phone systems, printers, programming, project management, QuickBooks, routers, Sage, SAN, scanners, Servers, SMS, software
+troubleshooting, SolidWorks, SQL, Supervising, switches, Cisco switches, Symantec, system analysis and design, teaching, user support, phones,
+terminal server, Toshiba, Trend, upgrades, VPN, VoIP, Windows 2000 Server

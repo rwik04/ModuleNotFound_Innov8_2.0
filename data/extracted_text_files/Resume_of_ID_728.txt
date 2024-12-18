@@ -1,0 +1,143 @@
+INFORMATION TECHNOLOGY
+Summary
+Dedicated 
+Information Assurance Professional
+ Â well-versed in analyzing and mitigating risk and finding cost-effective solutions. Excels at boosting
+performance and productivity by establishing realistic goals and enforcing deadlines.Â  Versatile IT professional with 37 years of Enterprise design
+and engineering methodology.
+Skills
+Enterprise platforms
+Knowledge of Product Lifecycle Management (PLM)
+Project tracking
+Hardware and software upgrade planning
+Product requirements documentation
+Self-directed
+MS Visio
+Decisive
+Collaborative
+Domain Active Directory Layout
+Data storage engineering
+Information Assurance
+Risk Management Framework (RMF)
+Active Directory design and deployment
+Workstation build and deployment
+Systems Accreditation Packages
+Red Hat Enterprise Linux installation and hardening
+Network Design & Troubleshooting
+Â High Performance Computing
+Experience
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Information Technology
+ 
+02/2011
+ 
+to 
+Current
+I was hired to manage accreditation efforts for a major department modernization project involving 3 accreditation packages each leading to
+successful Authorization To Operate decisions. 
+Responsibilities then increased to include all departmental accreditation efforts leading to another 3
+successful ATOs. 
+Now, working on 4 new accreditation including re-authorization for an existing project. 
+Succeeded in writing and implementing
+vulnerability management for existing accredited systems. 
+Success of the accreditation hinged on coordination with ONI Enterprise in critical design
+decisions and to help the program integrate smoothly into the Enterprise thru many meetings, analyzing the Enterprise business model to understand
+the best fit for the program. 
+The different projects required careful management of specific STIG compliance and hardening for the different
+configurations and services required for the specific domain to be integrated.Â Â 
+ Analyzed complex computer systems to assess vulnerability and
+risk.Â Â 
+ 
+Supervised 
+5
+ 
+external computer consultants and vendors.Â Â 
+ 
+Managed application patches, data backup, security changes and
+network configuration.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Systems Engineer
+ 
+02/2006
+ 
+to 
+02/2011
+I was Hired to initiate processing strategies in fulfilling department analyst requirements. 
+Requirements were fulfilled thru i
+ dentifying product
+problems and strengths and collected data on customer experienceÂ 
+ and review of Enterprise compliance to transition to new technology for
+supporting new processing needs thru proper processing power.Â  The next challengeÂ  came as storage requirements for better performance and
+more controlled uses. 
+After careful study of local infrastructure design, a local storage with off the shelf solutions was adopted to grow local
+storage to over 200TB. 
+In using this solution, the department saved just over a million dollars in purchasing and maintenance costs compared to the
+alternative. Next came requirements to improve processing of future big data formats fulfilled in a Red Hat Linux high compute cluster I designed,
+purchased and accredited for operation in the Enterprise.Â  Improvement on big data analytical processing reduced time from 30 hours to 30
+minutes as well as allow for more robust data thru higher selections of sensors, frequencies and range than allowed thru the traditional process.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Senior Systems Analyst
+ 
+02/1999
+ 
+to 
+02/2006
+I was hired to improve corporate and client communications and processing requirements which resulted in the design, build and deployment of 3
+Enterprise network solutions. 
+One solution resulted in expanding capabilities to supporting Washington Navy Yard, Norfolk Virginia and Hawaii
+support facilities. 
+Fulfilled requirements for detecting crucial network software/hardware weaknesses and developing preventive strategies and
+solutions for avoiding interruptions and increasing system security thru documenting system layouts, wiring diagrams and addressing schema to
+understand layouts and make informed solutions to upper management. 
+Education and Training
+Associate of Science
+ 
+:
+ 
+Electronic Engineering
+ 
+1980
+ 
+Florence Darlington Technical School
+ 
+, 
+City
+ 
+, 
+State
+Electronic Engineering.Â Â 
+Dean'sÂ list for high GPA.Â 
+Class President for second year
+Skills
+Active Directory
+Hardware Engineering
+Information Technology
+Red Hat Enterprise Linux Servers
+MS Windows Servers
+MS Windows Desktop
+Network Design & Troubleshooting
+Architectural Diagrams
+Accreditation Boundarys
+Risk Management
+Enterprise Strategies
+Vendor Relations
+Desktop Publishing Software: Photoshop, Illustrator, HTML
+Team WorkCollaboration

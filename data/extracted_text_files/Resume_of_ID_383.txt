@@ -1,0 +1,140 @@
+SENIOR NETWORK SECURITY ENGINEER
+https://www.linkedin.com/in/dilip-nr/
+Professional Summary
+Overall 7+ years of experience in Network and Security Engineering which includes strong hands-on experience with Palo Alto Firewalls, Cisco
+ASA Firewalls, Check Point Firewalls along with comprehensive working knowledge of Load Balancers, Wireless networking, VMware and Data
+center management. Areas of expertise include designing manageable networks, Threat prevention and Management, routing, switching,
+troubleshooting network performance issues and documentation. Overall 7+ years of experience in Network and Security Engineering which
+includes strong hands-on experience with Palo Alto Firewalls, Cisco ASA Firewalls, Check Point Firewalls along with comprehensive working
+knowledge of Load Balancers, Wireless networking, VMware and Data center management. Areas of expertise include designing manageable
+networks, Threat prevention and Management, routing, switching, troubleshooting network performance issues and documentation.
+Skills
+EIGRP, OSPF, BGP, Route Redistribution, ACLs, Policy based
+routing, NAT, PAT.
+Switching: HSRP, VRRP, GLBP VLANs, VTP, Link aggregation
+(LACP, PAGP), STP, PVST+.
+Firewalls: Palo Alto, Cisco ASA, Check Point.
+Routers: Cisco Routers (7600, 7200, Catalyst 6500, Nexus 7000,
+ASR 12000, ASR 9000)
+Switches: Cisco switches (Nexus 7000 series, 5000 Series,
+Catalyst 6500 series, 6800 series)
+Security Concepts: App-ID, User-ID, Wildfire, GlobalProtect,
+URL filtering, Blue Coat Proxy, PKI, SSL decryption, IKE,
+IPSec, HIP checks, Site-to-Site VPNs.
+Load Balancers: F5 BIG-IP (LTM/GTM), Citrix NetScaler.
+Wireless Networking: Cisco Meraki, Aruba, Clear-pass, Cisco
+WLAN, Wireless Aps, 802.1X a/b/g/n/ac.
+Software/Applications: Panorama, Cisco IOS, NX-OS, Smart
+Dash Board, VMware.
+Tools: SPLUNK, Solar Winds, SevOne, Wireshark, MS Visio,
+Lucid Chart, BMC Remedy.
+Routing: EIGRP, OSPF, BGP, Route Redistribution, ACLs, Policy
+based routing, NAT, PAT.
+Switching: HSRP, VRRP, GLBP VLANs, VTP, Link aggregation
+(LACP, PAGP), STP, PVST+.
+Risk management processes and analysis
+Firewalls: Palo Alto, Cisco ASA, Check Point.
+Routers: Cisco Routers (7600, 7200, Catalyst 6500, Nexus 7000,
+ASR 12000, ASR 9000)
+Switches: Cisco switches (Nexus 7000 series, 5000 Series, Catalyst
+6500 series, 6800 series)
+Security Concepts: App-ID, User-ID, Wildfire, GlobalProtect, URL
+filtering, Blue Coat Proxy, PKI, SSL decryption, IKE, IPSec, HIP
+checks, Site-to-Site VPNs.
+Load Balancers: F5 BIG-IP (LTM/GTM), Citrix NetScaler.
+Wireless Networking: Cisco Meraki, Aruba, Clear-pass, Cisco
+WLAN, Wireless Aps, 802.1X a/b/g/n/ac.
+Software/Applications: Panorama, Cisco IOS, NX-OS, Smart Dash
+Board, VMware.
+Tools: SPLUNK, Solar Winds, SevOne, Wireshark, MS Visio, Lucid
+Chart, BMC Remedy.
+Work History
+Senior Network Security Engineer
+ 
+01/2017
+ 
+to 
+Current
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Worked with layer2 switching, VLANs trunking technologies and spanning tree protocols.
+Worked on Cisco switches and routers including physical cabling, IP addressing and Wide Area Network configurations.
+Performed troubleshooting in TCP/IP related problems and connectivity issues.
+Performed troubleshooting and resolved Layer2 and Layer3 issues.
+Established the network specifications by conferring with users through analysing work flow, access information, designing router
+administration, interface configuration and routing protocols.
+Established redundancy in the network by evaluating network performance issues including availability, utilization, throughput and latency.
+Created network diagrams and documentation for design using documentation tools like MS VISIO.
+Maintained network performance by network monitoring analysis, performance tuning and escalating support to the vendors.
+Network Security Engineer
+ 
+09/2015
+ 
+to 
+12/2016
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Network Engineer
+ 
+12/2012
+ 
+to 
+07/2015
+ 
+Company Name
+ 
+Junior Network Engineer
+ 
+01/2011
+ 
+to 
+11/2012
+ 
+Company Name
+ 
+Education
+Master's Degree
+ 
+: 
+Computer Science
+ 
+Wright State University
+ 
+- 
+State
+ 
+Computer Science
+Bachelor's Degree
+ 
+: 
+Electronics and Communications
+ 
+JNTU
+ 
+- 
+Electronics and Communications
+Skills
+AD, ADS, anti-virus, Antivirus, Aps, basic, BGP, cabling, CLI, Cisco 2, Cisco 3, Cisco IOS, Cisco, Cisco Routers, Citrix, content, encryption,
+client, decryption, designing, DHCP, Disaster Recovery, documentation, EIGRP, engineering support, ethernet, event management, fast, features,Firewalls, Firewall, Frame-Relay, FTP, Gateways, gateway, GUI, IDS, inspection, IP, LAN, logging, loss prevention, MAC, managing, Access,
+Mail, Migration, enterprise, NAC, Network Access Control(NAC), Network administration, network servers, network, Networking, Networks,
+Next, OS, optimization, OSPF, PCI, policies, policy analysis, protocols, Proxy, requirement, router, Routers, Routing, servers, SNMP, SSL,
+Switches, Cisco switches, TCP/IP, technical support, technical assistance, Technical documentation, Troubleshoot, troubleshooting, upgrades,
+upgrading, View, VPN, VISIO, VM, web servers, Wide Area Network, WAN, wireless LAN
+Certifications
+CCNA
+CCNP
+Palo Alto ACE

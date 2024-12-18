@@ -1,0 +1,209 @@
+LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES
+Summary
+Forward thinking Mechanical Engineer with several years of experience in product design and development, process improvement, project
+management, and quality assurance, comprehensive understanding of design processes, manufacturing methods and sound engineering principles.
+Skilled in use of engineering tools such as FEA, UG NX, GD&T Lean Six Sigma with a strong understanding of engineering mechanics, principles,
+and materials. Demonstrated leadership skills that optimize collaboration between departments to produce high-quality aerospace hardware.
+Highlights
+Comprehensive understanding of engineering and design principles.
+Extensive experience in use of computer aided design tools such as UG NX, SolidWorks.
+Excel Â with minimum supervision.
+Experienced in GD&T and manufacturing support
+Lean Six Sigma Certified.
+Field investigation and customer support of fluid system hardware.
+Headed process improvement projects.
+Project Management experience.
+Understanding of export licence for various hardware and technology.Â 
+Writing technical requirement documents.Â 
+Experience
+Company Name
+ 
+September 2016
+ 
+to 
+Current
+ 
+LEAD ENGINEER - Fluid Systems and Thermal Accessories
+ 
+City
+ 
+, 
+State
+Design Premix Liquid Fuel delivery system for GE 9F.04 and 9HA.02Â 
+Instrument Air system design and specification for GE Gas 9F.04Â 
+Provides hazmat specification based on IBC for various gas turbine skids.
+Design water supply skids and accessories for purging and cooling of combustor nozzles.
+Conduct FMEA analysis of new products.
+Size and select various gas turbine accessories such fuel pump, filters, pressure transducers, water pump based of CFD and combustion
+requirement.
+Work with supplier design control valves and mixing valves for various fluid system.
+Company Name
+ 
+June 2015
+ 
+to 
+September 2016
+ 
+DESIGN ENGINEER - Military & Commercial Engine Fluid Systems
+ 
+City
+ 
+, 
+State
+Provide design and redesign requirements and specifications for fluid system test hardware.
+Â Review and provide engineering substantiation for Material Review Â Board documents for vendor components.Â 
+Â Investigate field related failures of military engine fluid system Â components.
+Leads component upgrades and improvement projects for fuel systems.
+Establishes test procedure for afterburner fuel components, fuel pumps, Mechanical engine control units.Â 
+Provide technical and engineering requirement for Vendor Substantiation documents.
+Review and approves Â functional and dimensional changes to fluid system component request by vendor.
+Reviews and approve component repair request from vendor of military engine fluid system hardware.
+Provides engineering support to manufacturing engineering.
+Design specification for CF34 Fuel metering unit.
+Design specification for gear and centrifugal pumps.
+Investigate field related component failures.
+Lead cost reduction and product improvement projects.
+Establish test procedure such pump ripple, vibration and compressor discharge dynamic response for new hardware.
+Support and approve vendor design changes.
+Redesigned fuel metering unit components such fuel metering valves, pressuring discharge valves, electrohydraulic servo valves.
+Design wet rig to emulate aircraft engine environment to test hardware responses for aircraft duty cycles such as start, acceleration, idle,
+take-off, burst, chop, slew, and deceleration.
+Company Name
+ 
+February 2012
+ 
+to 
+January 2015
+ 
+DESIGN ENGINEER - New Product Definition
+ 
+City
+ 
+, 
+State
+Performed preliminary and detail design of Â engine hardware.
+Performed and interprete FEA Analysis for design reviews and assessment.
+Ensured technical requirements of components are being metAssigned ITAR/Export license for both technical data and hardware.
+Signed off on engineering drawings.
+Maintained in depth knowledge of product, technical details.
+Conducted weekly reviews of configuration hardware to identify design and assembly issues for correction.
+Reviewed and approved engineering drawings for manufacturing.
+Collaborated with other GE partners to identify and resolve assembly issues.
+Reviewed Engine Assembly Drawings.
+Assigned work and supervise Contractors for Controls PDE.
+Headed Technical Document review team.
+Mentored new hires and co-ops.
+Conducted design review of hardwareÂ 
+Company Name
+ 
+June 2007
+ 
+to 
+January 2012
+ 
+DESKSIDE SUPPORT TECHNICIAN / IT SUPPORT
+ 
+City
+ 
+, 
+State
+Set up, tested and configured networks, desktops, laptops and printers.
+Performed routine Â software and hardware updates.
+Performed routing preventative maintenance on computers.
+Coordinated hardware and software repair processes with outside vendors.
+Resolved technical issues for clients in person, on the phone and
+through e-mail.
+â€‹
+Company Name
+ 
+September 2004
+ 
+to 
+June 2007
+ 
+Account Associate
+ 
+City
+ 
+, 
+State
+Set up new Xerox printers and copiers for client use.
+Identified equipment options to satisfy client needs.
+Developed new equipmentÂ training materials of Â for clients.
+Gathered usage data and generate monthly usage cost.
+Performed maintenance of equipment.Â 
+Education
+University of Dayton
+ 
+2016
+ 
+Master of Science
+ 
+: 
+Mechanical Engineering
+ 
+City
+ 
+, 
+State
+ 
+, 
+USA
+Miami University
+ 
+2012
+ 
+Bachelor of Science
+ 
+: 
+Mechanical Engineering
+ 
+City
+ 
+, 
+State
+ 
+, 
+USA
+Kwame Nkrumah University of Science and Technology
+ 
+2002
+ 
+Bachelor of Science
+ 
+: 
+Agricultural Engineering
+ 
+City
+ 
+, 
+Ghana
+Accomplishments
+Designed FADEC Cooling system for GE LEAP 1A and 1C Engines.
+Designed Booster Anti-ICE System for Passport 20 Engine.
+Designed Ignition Leads for GE Passport 20 engine.
+Improved Technical Document Cycle time.
+Redesigned, improve wear if IPV and DPRV for CF34-8
+Improved On-wing time for CF34-10 FMU by redesigning environmental seals.
+Skills
+Solid 
+Edge
+UG NX6 -NX10
+Teamcenter
+Digital Engine Visualization.
+GD&T
+FEA/ ANSYS
+Modifying designs.
+Lean Six Sigma
+Adobe Photoshop
+AUTOCAD
+Microsoft Projects
+Microsoft Visio
+Microsoft Office
+FEA/ Abacus
+LabVIEW
+Visual Basic
+C++
+Matlab
+Data Acquisition
+Solid Works

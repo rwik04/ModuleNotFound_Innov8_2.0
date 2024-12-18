@@ -1,0 +1,148 @@
+INFORMATION TECHNOLOGY SUPPORT SPECIALISTNETWORK SPECIALIST PC TECHNICIAN IT CONSULTANT
+CUSTOMER
+Work Experience
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Information Technology Support Specialist Network Specialist ~ PC Technician IT Consultant Customer Engineer
+01/2011
+ 
+to 
+Current
+With more than 10 years' experience in the IT industry; I have provided technical leadership for the design, deployment and operation of IT
+hardware and software.
+I have built, implemented and sold numerous computers systems.
+I have been instrumental in the service environment of the systems using the latest processor technologies like INTEL and AMD processors
+also have helpdesk support experience, Systems Analyst and a strong leadership in the management of IT Systems and devices including,
+but not limited to DELL, HP, IBM, MICROSOFT Software packages, setting up and maintaining networks for small businesses, setting
+CMOS and BIOS, installing Software Applications to fill customer's needs, also active directory administration in Novel and Windows and
+strong experience in data migration using Robocopy.
+PROFESSIONALEXPERIENCE.
+Apollo / SunTrust EIS Data Migration Project (Non-Branch Analyze server space and data to determine the needed space on the
+"Network Attached Storage" (NAS).
+Run TBackups on all Novel servers using eDirectory/NDS Report Generator in order to determine the users on the different groups
+throughout the network.
+Use Carbon Copy to remote into a user's computer and move their .pst files from their home (H:) drive on the server to their local computer
+and reconfigure Outlook to use file from the new location.
+Use Robocopy scripts to copy user data from their H: drive to their new folder on the NAS.
+Use Remote Desktop Connection to connect to the clusters and Robocopy their files from the old servers to the new clusters in the NAS.
+Assist in the command center conference call to verify the branch teammate's access to the (H :) drives and (S :) drives from 8:00am to
+12:00noon twice a week, Attend project meetings, Communicate and coordinate data migration and centralization activities with Non-
+Branch personnel, Work effort may be performed remotely using remote migration tools Perform pre-migration communication for migration
+of Email PST files, Perform pre-migration communication for user data migration, Initiate and manage scripts for h:\drive and shared drive
+migrations for 30 Novell and Windows servers, Manage Command Center Support for Day 1 and Day 2.
+Command Center expected to handle approximately 50+ end user calls per week, Update SharePoint with caller and incident information
+reported on Day 1 and Day 2, Daily Command Center reporting should include a summary of reason for call, solution provided, problem
+status, and number of calls by type, Perform H:\drive and Shared Drive analysis for SunTrust servers, Shared drive space up to 1000GB or
+more per server, H:\drive capacity approximately 5 GB per authorized user, Up to 50,000 or more authorized users will need to be
+migrated, Perform post-migration communication for Email PST back up instructions.
+Identify the Line of Business assignment by end user using active directory tool, Change active directory rights and permissions as needed to
+support end user access to new central data location for h:\drives, H:\drive migrations to central data storage will need to be performed for
+the following 30 Novell and Windows servers.
+Perform H:\Drive and Shared Drive data migration for approximately 1500 or more end users weekly, Perform Shared Drive and User
+Drive analysis for 30 Novell and Windows servers.
+Identify the number of volumes per server, Identify the size of the volumes per server, Use Netware Console One to discover and update
+login scripts pertinent to the data being migrated, Using NoRM -Novell Remote Management (Novell) or Tree Size (Windows), identify the
+number and size of the simple files by type (doc, xls, pdf, ppt,txt,jpg) on the Shared volumes, Using NoRM -Novell Remote Management
+(Novell) or Tree Size (Windows), identify the number and size of the complex files by type (mdb,pst,exe,bat,vb,vbs,com,cab,tif) on the
+Shared volumes, Identify the Lines of Business that are accessing the Shared folders, In charge of all cutovers, Search, and analyze servers
+that are to be decommissioned, and create and submit tickets through ITSP, Move stale data for servers that are not being migrated to a
+designated area to be analyzed by the ERIM group in order to be deleted.
+Update the migration project calendar that was designed for the purpose of having a daily idea of how the project is doing by all members
+of the team.
+Create a "Training Manual & procedures" to be utilize by the SRP project team in order for them to have an idea of what the migration
+process is.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Customer Engineer
+ 
+12/2009
+ 
+to 
+05/2010
+Prepare directory structures and applying appropriate permissions for users on the Network Attached Storage (NAS).
+Send email notifications to the branch mgr, asst mgr, ROM, and area mgr's in order for them to prepare for the centralization of the branch,
+at the same time send a separate set of notification to the non-branch users working on a branch environment.
+Use Carbon Copy to remote into a user's computer and move their .pst files from their home (H:) drive on the server to their local computer
+and reconfigure Outlook to use file from the new location.
+Use Robocopy to copy user data from their H: drive to their new folder on the NAS.
+Use Remote Desktop Connection to connect to servers and set up scheduled tasks.
+Perform cutovers at the schedule dates as needed, logging in to 20 servers nightly and verifying that the scheduled task has been running,
+verify all appropriate users on the original server have a folder on the NAS with appropriate permissions, update Active Directory to use
+new (H:) drive, break the share on the old server for the "Users" and "Shared" folders, once accomplish the folder with the batch files and
+server text files must be moved to the archive folder to keep a count of the branches done.
+Assist in the command center conference call to verify the branch teammates access to the (H:) drive and (S:) drive from 8:30am to
+10:00am daily.
+Perform the same activities for the non-branch teammates working on a branch environment, but must be perform before the secondnotification for the branch is send out.
+Company Name
+ 
+07/2009
+ 
+to 
+10/2009
+Responsible for providing technical desktop support for ATT upgrade project for 7+ ATT wireless stores.
+Duties performed include but not limited to: Installation of Ingenico SigCap devices.
+Flash peripherals with the latest updates.
+Troubleshoot tickets using the Remedy application.
+Image and configure computers for the 4QT09 rollout.
+Inventory 3QT09 equipment to be return to the vendor.
+Image and configure managers laptops.
+Provide support for the retail stores.
+Company Name
+ 
+12/2008
+ 
+to 
+05/2009
+Responsible for the network support of the recruiting team while at the Radisson Hotel, Lead the deployment of 300 PC and peripherals
+once the main building was finish.
+Document all inventory for the IT Manager.
+Shipping and receiving of IT hardware.
+Install all servers that will be utilized in the forest.
+Educational Background
+Bachelor of Science
+ 
+:
+ 
+Information Technology Information Technology Support
+ 
+2011
+ 
+University of Phoenix Oct
+ 
+Information Technology
+Information Technology Support
+Associate of Arts
+ 
+:
+ 
+Paralegal Network Engineering
+ 
+2001
+ 
+Southern College
+ 
+Paralegal Network Engineering
+Diploma
+ 
+2002
+ 
+Southern Technical Institute
+MCSE, A+, NET+, and SEC+ 
+MILITARY 1989-1998 US ARMY Missouri / Florida MOS-12B (Combat Engineer) combat ready, earned
+various awards for excellent service, participated in the relive efforts during hurricane Andrew in 1992
+Skills
+A+, Active Directory, Apollo, ARMY, com, hardware, Data Migration, DELL, Email, Engineer, Flash, HP, IBM, Image, INTEL, Inventory,
+laptops, leadership, logging, meetings, MICROSOFT Software, access, MCSE, MOS, Outlook, SharePoint, Windows, migration, NDS,
+Network Attached Storage (NAS), NAS, Network Attached Storage" (NAS), network support, network, networks, Novel, Novell, Netware,
+pdf, peripherals, personnel, processors, receiving, recruiting, reporting, retail, servers, scripts, Shipping, installing Software, Systems Analyst,
+desktop support, Troubleshoot, type, upgrade, vb

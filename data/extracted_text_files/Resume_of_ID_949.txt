@@ -1,0 +1,139 @@
+INFORMATION TECHNOLOGY SPECIALIST
+Professional Profile
+To continue work in the Information Technology field while developing my skills in Information Systems and Networking.
+Experience
+Information Technology Specialist
+ 
+April 2015
+ 
+to 
+Current
+ 
+Company Name
+Set up and maintained the network infrastructure both wired and wireless configuration.
+Setup and maintained all user's computers including hardware and software.
+Set up and assisted users with their e-mail accounts.
+I maintained security on our networks in which only company users could access the network.
+Setup and configured users android phones so they could access the company's resources.
+I maintained security on all companies' machines.
+Computer Technical Specialist
+ 
+September 2007
+ 
+to 
+January 2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+Set up and maintain all software on Faculty and Staff computers in a Windows and McIntosh environment.
+Troubleshoot all software and hardware problems on user's machines.
+Check network connectivity issues on the client side.
+Set up and maintain all printers' scanners and fax machines for staff and faculty and students.
+Configure and setup all PDA s for all faculty and staff.
+Help maintain lab computers on the windows and McIntosh environment including hardware software and printing issues.
+Assist network Administrators with setting up and maintaining the network and assisting with network issues including routers switches and
+servers.
+This included DHCP server and Domain Controllers using active directory and a layer 3 thru 5 switches.
+Captured and pushed images to and from workstations with a ghost server.
+Pushed software packages to user's machines using a KBOX server.
+Maintaining all classroom projectors which were connected to a smart board including the attached devices.
+Installing and troubleshooting all software and hardware issues for the school of Engineering and applied science.
+Serve as the primary contact with vendors to maintain licenses.
+Maintain a license server to keep software operational.
+Set up and maintain intermapper which monitored all switches servers and lab workstations in real time to see if machines were up and
+running.
+Set up virtual machines and installed all software on client machines.
+Set up and configured Polycom qdx 6000 video and Tandberg conferencing machines.
+Set up and brought down conference calls.
+Senior Computer Network Support Technician
+ 
+November 2001
+ 
+to 
+September 2007
+ 
+City
+ 
+, 
+State
+Provide statewide data telecommunications and on the-site problem analysis and resolution; consultation; hardware and software
+installations; technical guidance and support for personal computing equipment.
+Provide local and wide area networking support, which included router switch and server and router configurations, and installations and
+problem resolutions.
+Troubleshoot all network components including routers switches servers and patch panels.
+Analyzing and diagnosing the network for the correct topology protocols and configurations.
+Install and maintain video conferencing systems which included Meeting Point.
+Diagnosed and fixed any problems computers may be experiencing including network software, and hardware issues.
+Junior Network Administrator
+ 
+September 1999
+ 
+to 
+November 2001
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Performed the installation and removal of all programs on a network in a teaching and testing facility.
+Assigned rights and permissions to users and servicing them on the network.
+Troubleshoot all hardware as well as software problems on the network.
+Also configured IP addresses dynamically and statically for new machines on the network using a DHCP server.
+Maintaining compatibility of new hardware and software on our network which included routers, switches, and servers as well as
+workstations.
+Reorganized LANs to insure speed and performance.
+Installed and maintained all wiring on the network.
+Education
+Comp A+ Course, Windows 7 course, CompTIA Network+ course, CompTIA Security+ course, Windows Server 2012 class. CCNA Class.
+Certified Ethical Hacker class. CompTIA Network+ certification, CompTIA Security+ certification CompTIA A+ certification. MCSE -
+Microsoft Certified Professional Systems Engineer; 2003 CCNA (Cisco Certified Network Associate
+ 
+: 
+1988
+ 
+Northern Virginia Community
+College Virginia Commonwealth University
+ 
+GPA: 
+Dean's Lists GPA: 3.4
+ 
+Dean's Lists GPA: 3.4M.A
+ 
+: 
+Education Biology and General Science
+ 
+, 
+1982
+ 
+George Mason University 
+Fairfax City
+ 
+Education Biology and General Science
+B.S
+ 
+: 
+Biology
+ 
+, 
+15
+ 
+Biology
+NVCC 
+Alexandria 
+A.A.S 
+Networking (06-25-2001) NVCC 
+Alexandria 
+A.A.S 
+Microcomputer Specialization (06-25-2001) Virginia
+Commonwealth University 
+Richmond
+Skills
+A+, A+ certification, active directory, CCNA, Cisco Certified Network Associate, hardware, consultation, client, DHCP, e-mail, fax machines,
+ghost, IP, LANs, access, Microsoft Certified Professional, MCSE, Windows 7, Windows, Network, Networking, networks, printers, problem
+analysis and resolution, protocols, real time, router, routers, scanners, servers, switches, switch, Systems Engineer, teaching, telecommunications,
+phones, Troubleshoot, troubleshooting, video, video conferencing, Windows Server, wiring

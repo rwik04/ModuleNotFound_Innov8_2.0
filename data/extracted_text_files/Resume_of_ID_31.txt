@@ -1,0 +1,282 @@
+PLATFORM ARCHITECT, HEALTHCARE INCUBATION LAB (HIL)
+Summary
+A driven technology professional with software architecture and development background and a passion for Agile methodologies. I enjoy
+designing and developing platforms consisting of web applications and services that help businesses innovate and stay competitive.
+Accomplishments
+Over 8 years of 
+experience architecting and developing data-intensive web-based 
+applications and services with expert level proficiency in
+middle tier and 
+Service Oriented Architecture (SOA) and functional proficiency in data and 
+presentation tiers
+Experienced with 
+designing and developing horizontally scalable, secure and reliable 
+multi-tenant web applications delivered in a SaaS
+model
+Proven success in 
+working with dynamic startups as well as medium to large organizations
+Adept at navigating 
+technical and non-technical challenges through use of excellent 
+communication skills, creativity and practical knowledge
+Experience 
+collaborating on cross-functional agile teams that include Product 
+Development, Product Owners, Quality Assurance and
+DevOps
+Proven record of 
+collaborating with internal and external (e.g. customers, vendors, 
+partners and regulatory entities) team members
+Experience
+01/2015
+ 
+to 
+Current
+Platform Architect, Healthcare Incubation Lab (HIL)
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Premera Blue Cross is a not-for-profit healthcare insurance provider in the state of Washington, USA. 
+Â 
+The Healthcare Incubation Lab is an internal startup backed and funded by Premera Blue Cross. As a Center of Excellence (CoE), HIL is tasked
+with exploring and developing new opportunities at the intersection of Healthcare, Insurance & Technology. It is a very small team using LEAN
+and agile practices to focus on the businesses major pain points. 
+Â 
+My role on the team is that of a hands-on Platform / Solution / Application Architect where I regularly explore and evaluate new technologies,
+design solutions and develop proof of concepts (POCs). 
+Â 
+Led and 
+collaborated with enterprise solution delivery teams in all phases â€“ from 
+ideation to iterative delivery
+Collaborated in 
+design and development of an API platform enabling delivery teams to 
+rapidly exchange data with external EMRs
+(Electronic Medical Records) as 
+well as internal line of business applications
+Provided guidance 
+on current technology landscape and advised management on purchasing third 
+party products and engaging external
+vendors
+Architected, 
+integrated and managed Okta IDaaS (Identity and Access Management as a 
+Service) enabling all web applications and web
+services to follow 
+consistent patterns for integrating with external and internal identity 
+providers, allowing teams to rapidly build and deploy
+line of business apps
+Performed security 
+code reviews and web application security testing such as penetration 
+testing to identify and remedy possible exploits
+and vulnerabilities thus 
+strengthening the organization's security posture Â 
+Integrated open source and commercial security penetration tools such as Burp Suite and OWASP's ZAP (Zed Attack Proxy) in the
+continuous integration and delivery pipeline to automatically and systematically test all successful deployments for common web exploits
+04/2014
+ 
+to 
+01/2015
+Solution Architect, Enterprise Architecture & IT Strategy
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+The Enterprise Architecture and IT Strategy team at Premera designs the systems and solutions built and used at Premera Blue Cross and all of its
+subsidiaries. My role on the team was of a Project Architect, which is essentially a hands-on solution architect. 
+Â 
+Collaborated 
+in the design and development of a telephony and analytics solution built 
+using a complex orchestration of web services to
+target customers for 
+specialized care management, which allowed Premera to reduce healthcare 
+costs while significantly improving
+healthcare outcomes
+As 
+an internal technology consultant specializing in Service Oriented 
+Architecture (SOA), helped various teams adopt current software
+engineering industry standards and practices resulting in higher code 
+reuse and reduced delivery times
+Participated 
+in a core workgroup tasked with developing templates for high level and 
+detailed design documents that are used by the
+Architecture team as well 
+as individual delivery teams to follow a consistent standard within all of 
+Premera
+Worked 
+closely with program managers, project managers, solution architects, 
+enterprise architects and management to define milestones
+and ensure the 
+high level and low level plans are aligned throughout the entirety of the project, 
+which improved project success rate
+Assisted 
+various delivery teams with adopting Agile Scrum & Kanban practices to 
+improve customer satisfaction and reduce delivery time 
+01/2013
+ 
+to 
+04/2014
+Application Architect, Research & Development
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+PriceMetrix is a SaaS startup based in the financial district of Toronto, Ontario, Canada. PriceMetrix processes vast amounts of transaction-level
+data and provides business intelligence solutions to retail brokerages, commercial and investment banks in US & Canada. 
+Â 
+The Research & Development team at PriceMetrix designed and developed BI analytics SaaS applications that are used by financial advisors
+throughout North America on a daily basis. As the Application Architect, I was responsible for designing and developing a unified SaaS platformfor hosting all of the web applications and services. 
+Â 
+Led 
+development of a new flagship SaaS platform to deliver business 
+intelligence analytics to large North American financial institutions,
+which resulted in about 30% annual revenue increase for the organization
+Developed 
+a highly available, mission critical web application with high quality 
+user experience that is used by about 35,000 financial
+advisors on a daily 
+basis and resulted in about 30% annual revenue increase for the firm
+Designed 
+and implemented SSO (Single-Sign-On) functionality for PriceMetrix web 
+applications platform, using SAML 2.0 (Security
+Assertion Markup Language) 
+protocol and tokens, Microsoft ADFS 2.0 (Active Directory Federation 
+Services), WIF (Windows Identity
+Foundation) and STS (Secure Token 
+Services) to support multitude of clients with disparate authentication 
+systems
+Conducted 
+daily standups with technology and business teams of large retail 
+wealth-management brokerages to customize and integrate
+PriceMetrix 
+analytics applications within their proprietary order management systems 
+and dashboards 
+04/2010
+ 
+to 
+01/2013
+Software Developer, Research & Development
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Developed 
+data services for core platform to replace stored procedures and functions, 
+which enabled the customer facing web applications
+and services to 
+orchestrate complex functionality without rewriting business logic 
+reducing solution development times by 100% (an average
+of 4 months vs 8 
+months prior)
+Built 
+custom solutions to interface existing legacy systems with new applications 
+to provide a seamless and rich experience for the clients
+while minimizing 
+pains of using legacy systems
+Ported a data 
+warehouse and various data marts into database projects, enabling the 
+development team to fully automate deployment of
+databases and use source 
+control to manage database schema, reducing build and deployment times by 
+85% 
+09/2009
+ 
+to 
+04/2010
+Enterprise Application Developer, Information Systems
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+OACCAC is a not-for-profit shared technology services organization that supports Ontario's Community Care Access Centres (CCACs) located
+in Toronto, Ontario, Canada. 
+Â 
+Created 
+and delivered high quality software while in IT services group, which 
+resulted in a promotion to Enterprise Applications Group
+within 1st 
+year of joining the company
+Developed 
+complex AJAX web-parts, user & custom controls for large healthcare 
+applications: CHRIS (Client Health Related Information
+System) & HPG 
+(Health Partner Gateway)
+Helped 
+setup and deploy CruiseControl (a continuous integration/deployment tool) 
+to reduce build and deploy times by 70% 
+09/2008
+ 
+to 
+09/2009
+Software Developer, IT Services
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Developed and improved applications used by the IT Services team by working closely with network and server specialists.
+Assisted with design and development of OACCAC's public website (www.ccac-ont.ca), websites for 14 client CCACs, and a complex
+content management system for non-technical users.
+Developed 
+and improved applications used by the IT Services team by working closely 
+with network and server specialists 
+Assisted 
+with
+design and development of OACCAC's public website (www.ccac-ont.ca), 
+websites for 14 client CCACs, and a complex content
+management system for 
+non-technical users 
+Integrated Operations Configuration Management Database (CMDB) with Windows
+Management Instrumentation (WMI) to poll critical performance indicators from servers; whenever a certain indicator reached the
+predetermined threshold, an automated alert was generated and sent to Infrastructure operations teams via email and instant messaging,
+allowing them to pre-empt system failures and outages
+Education
+Jun. 2009
+Bachelor of Engineering
+ 
+: 
+Systems & Computer Engineering (B.Eng), Honours Program
+ 
+University of Guelph
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+, 
+Canada
+Information Technology Infrastructure Library (ITIL) v3 Training 
+Jan. 2010 The Open Group Architecture Framework - TOGAF 9 Level 1
+Training 
+Oct. 2014
+Skills
+.NET, ASP.NET, Active Directory, Agile, AJAX, API, Architect, automate, BI, business intelligence, Cascading Style Sheets, excellent
+communication, ca, Computer Engineering, Configuration Management, consultant, content management, creativity, CSS, Client, clients, customer
+satisfaction, data warehouse, databases, Database, delivery, designing, Eclipse, Electronic Medical Records, email, financial, focus, Forms,
+functional, Gateway, HTML, IIS, Information Systems, Information Technology, Insurance, IT Strategy, ITIL, Java, Javascript, Linux, logic, Mac,
+messaging, Access, C#, exchange, Windows, Modeling, MVC, Enterprise, network, Object Oriented Programming, Oct, Operating Systems,
+order management, processes, Product Development, profit, promotion, Proxy, purchasing, quality, Quality Assurance, Research, retail, Scrum,
+servers, Scripting, software engineering, SQL, SQL Server, telephony, T-SQL, UML, Visual Studio, wealth-management, web applications,
+website, websites

@@ -1,0 +1,150 @@
+INFORMATION TECHNOLOGY SPECIALIST
+Summary
+Highly skilled and results-oriented IT specialistÂ with extensive experience in Software Development, Software Configuration Management,
+Project Management, System Planning & Specification Development, CMMI5, Quality Assurance and Testing.Â 
+Highlights
+Process improvement
+Quality assurance and control
+Results-oriented
+Relationship building
+Productivity improvement
+Project development and lifecycle
+Detail-oriented
+Work flow planning
+Experience
+Information Technology Specialist
+ 
+August 2006
+ 
+to 
+Current
+ 
+Company Name
+Track and control over 150 change requests per month.
+Manage the repository for Software and Customer Requirements Documents, Agreements and Governance Specifications.
+Document and communicate defects and problems with stakeholders and developers.
+Develop and report critical metrics related to CRSMB change request activity.
+Ensure that all activities involved in the software design, coding and testing of the application software have been successfully completed
+before releasing software for independent testing and deployment into the production environment.
+Deploy application software to the Test and Production environments using code management tools.
+Manage logging change requests into the tracking system and assigning work activities to members of the branch.
+Evaluate the adequacy of current CM processes and procedures and make recommendations for CM process improvement.
+Coordinate and communicate with developers, subject matter personnel, stakeholders, database management support and project
+managers.
+Performed platform testing and performance testing during the migration to the Serena Business Management (SBM) system.
+Collaborated in the design of the Serena Business Manager (SBM) Workflow.
+Administrator for the Serena Business Manager (SBM) System.
+Proficiency in working with Serena Version Manager as a software repository, WinSCP and Reflections for the migration and staging of
+application software to the testing and production LINUX environment.
+Maintain the Branch's SharePoint Site, ensuring current documentation and resources are available to the Division.
+Document CM procedures and provide training to new CM staff members, and members of the Division.
+Execute test scripts as needed in the implementation and deployment of software related Test and Production project development.
+Assure that software releases are performed in compliance with established CMMI guidelines.
+Solve technology related issues by researching potential problems and offer a solution in the deployment of software and change request
+tracking.
+Ensure that each CM change request has passed regulated security checks.
+Maintain a well established, well defined, documented, and repeatable processes within standards of Capability Maturity Model Integration
+(CMMI)
+Computer Specialist
+ 
+August 1996
+ 
+to 
+August 2006
+ 
+Company Name
+Detailed and refined requirements, wrote algorithms, developed programs and command procedures.
+Developed solutions to improve software performance.
+Enhanced testing procedures.
+Performed software testing, debugging, and validation using internally developed test scripts, test plans, and results criteria.
+Developed and delivered software products.
+Communicated with IT staff and subject matter on project requirements
+Conducted program demonstrations with team members prior to the release of software.
+Performed extensive database testing, automated testing and data validation in support of the MAF/TIGER database's migration to Oracle.
+Developed database test scenarios and supporting software in Pro C and Oracle to validate the migration to the Oracle platform.
+Worked extensively in PL/SQL, SQL, Shell scripting in LINUX, JavaScript, SAS, and Visual Basic.
+Attended meetings with DivisionÂ managers Â to review project status and proposed changes.
+Created status reports and posted to the GEO website for management review.
+Designed and maintained branch website.
+Â 
+Computer Specialist
+ 
+July 1994
+ 
+to 
+August 1996
+ 
+Company NameÂ 
+Designed and developed electronic questionnaires, "instruments", for Computer Assisted Survey Information Collection (CASIC) activities.
+Led meetings withÂ subject matter staff to review 
+project status and proposed changes.
+Met with the subject matter staff and the sponsor on the details and development of the programming specifications, design and testing of
+the CAI.
+Delivered status reports to stakeholders for budgeting and planning purposes.
+Collaborated with program sponsor to draft project schedules and plans.
+Served as the single point of contact for project scheduling and changes.
+Program Manager of the Survey of Inmates of Local Jails.
+Mathematical Statistician
+ 
+February 1988
+ 
+to 
+July 1994
+ 
+Company Name
+Â 
+Worked in the Research & Methodology Branch of the Industry Division.
+Worked with team on the statistical methodology for designing a ratio estimation procedure.
+Developed estimation and variance methodologies.
+Developed the sampling frame, and independent probability proportional-to-size sampling (PPS) maintenance of surveys.
+Designedcomputer algorithms for assigning the sampling weights, the nonresponse sample weight adjustment, and calculation of the
+estimates, variances, and relative standard sampling errors.
+Developed computer software needed for survey sample selection.
+Provided programming expertise, assisted subject matter analysts with software and instruments for aiding in data reviews for the many
+annual and monthly surveys.
+Education
+Applied Probabilty and Statistics
+ 
+University of Maryland
+Survey Theory
+ 
+USDA Graduate School
+Master of Science
+ 
+: 
+Urban Regional Planning
+ 
+Indiana University of Pennsylvania
+Bachelor of Arts
+ 
+: 
+Physical Geography
+ 
+Indiana University of Pennsylvania
+Professional Development Training
+Serena Business Manager Composer
+Serena Business Manager Administrator
+Configuration and Release Management Training
+Unix Programming
+Oracle 10G Programming
+Oracle JDeveloper
+Java Programming
+Object Oriented Programming
+Intro to UNIX Systems
+Advanced UNIX
+Learning PERL
+Advanced C Language Programming
+Advanced PL/SQL Programming
+Fundamentals of SAS
+SQL Processing with SAS
+SAS Programing
+Table Processing with SAS
+Output Delivery Systems
+Utilizing VAX/VMS
+Demand Terminal Language
+Package References
+Objects and Modules
+Skills
+Configuration Management, Process Development, Process Improvement, Database Management, Software Development, Software Testing,
+Serena Version Manager, Serena Business Manager, Serena Business Administrator, Reflections, WinSCP, JavaScript, LINUX, Microsoft
+Access, Office, SharePoint, Enterprise, Oracle, PL/SQL, Oracle SQL, C, SAS, LINUX, Visual Basic

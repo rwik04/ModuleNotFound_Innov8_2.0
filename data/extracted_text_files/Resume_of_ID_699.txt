@@ -1,0 +1,166 @@
+SENIOR ANALYST - BUSINESS INTELLIGENCE AND ANALYTICS - HEALTHCARE
+Summary
+My 9 years of experience working in Retail, Analytics, and Reporting have given me a strong understanding of both business objectives and
+technical capabilities. I have worked on Data Visualization, Data Analysis, Analytical Reporting, Retail Reporting, Retail Forecasting, Retail
+Inventory Management, and Retail Product Management, as well as capabilities consulting on broader initiatives. The knowledge I have developed
+through this work and my strengths in problem solving, critical thinking, and effective communication allow me to develop creative solutions to
+complicated problems and clearly communicate with both development teams and end users.
+Highlights
+Collaborative worker
+Creative problem solver
+Critical thinker
+Mentor and leader
+Requirements gathering
+User acceptance testing
+Experience
+Senior Analyst - Business Intelligence and Analytics - Healthcare
+ 
+05/2013
+ 
+to 
+Current
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Prioritize and scope a large portion (over 40%) of the new analytics requests coming through our team by engaging the clients on
+prioritization and keeping them updated through regular communications
+Led a cross functional team to review the repeatable reports being delivered to our clients resulting in a 22% reduction in the number of
+reports our team created on a regular basis
+Gathered business requirements and created use cases to support the building of a self-serve tool for our clients to access pharmacy sales
+data
+Work with clients to determine goals and requirements and help them understand what capabilities our team can provide
+Work with development teams to discuss goals and requirements of clients and determine a solution that will fit their needs
+Consult on various Healthcare initiatives (including loyalty programs, diabetic growth, and vaccination growth) to provide input on how our
+team can assist
+Mentor younger Analysts and Interns including writing and delivering performance reviews for interns
+Use SAS Enterprise Guide, SAS OLAP Cube Studio, SAS Information Map Studio, SAS Web Report Studio, Excel, SQL, and Tableau
+for data analysis, insight gathering, and report generation
+Analyst - Business Intelligence and Analytics - Strategic Pricing
+ 
+02/2012
+ 
+to 
+05/2013
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Consulted with our clients to clearly define metric calculations and aggregations that would provide the most consistent, clear view of what
+the online competitive landscape looks like for Target
+Managed communication and resources for the creation of a Strategic Pricing foundational data set in SAS using information from a third
+party provider
+Partnered with clients to develop various levels of reporting that would drive discussions with merchants and vendors on Target's current
+position in regards to online competitors
+Prioritized and scoped new analytics requests and delivered robust solutions to drive growth
+Merchandise Reporting Manager
+ 
+05/2011
+ 
+to 
+02/2012
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Worked with vendors and various areas of the company to determine where improvements could be made or efficiencies added to our
+current planning and reporting processes
+Partnered with vendors to develop software solutions that met our business needs
+Coordinated the testing of new planning and reporting software between various areas of the company prior to implementation to ensure it
+met our business needs
+Various tasks to assist with implementation of solutions including template creation, security setup, training, and user support
+Managed the Pricing and Promotions team - in charge of pricing and promotions for all ads and in store specials
+Oversaw Executive, Merchant, and Planning team reporting functions
+Merchandise Reporting Analyst
+ 
+06/2009
+ 
+to 
+05/2011
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Developed reports from MicroStrategy, both on the front end (GUI) and through the back end using SQL
+Utilized Access/SQL to query information from various databases (sales/inventory, item attribute, transactional, etc) both within Access and
+on the network servers
+Supported the Executive, Merchant, and Planning teams with reporting of key performance indicators on a weekly, monthly, quarterly, and
+yearly basis
+Developed and managed yearly planning templates utilizing macros and VBA to make the process more efficient
+Developed new reports/recaps for specific business needs as they arose from the Executive or Merchant teams
+Pulled ad hoc/special request reports for teams on information that they could not access
+Utilized Excel Macros and VBA to streamline current processes
+Recapped and analyzed performance of coupons and promotions for the Marketing team
+Analyzed store selling to determine proper orders to fill stock requests and meet sales demand
+Allocated orders to stores based on selling trends lowering inventory by 11% and keeping sales flat
+Worked with vendors to track orders and adjust when necessary reducing receipts by 6%Teamed up with stores to develop promotional purchases based on selling strengths of stores
+Efficiently managed inventory requests from stores ensuring key items were readily available for customers
+Merchandise Assistant
+ 
+06/2008
+ 
+to 
+05/2009
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Analyzed store selling to determine proper orders to fill stock requests and meet sales demand
+Allocated orders to stores based on selling trends lowering inventory by 11% and keeping sales flat
+Worked with vendors to track orders and adjust when necessary reducing receipts by 6%
+Teamed up with stores to develop promotional purchases based on selling strengths of stores
+Efficiently managed inventory requests from stores ensuring key items were readily available for customers
+Business Analyst/Assistant Buyer II
+ 
+06/2006
+ 
+to 
+05/2008
+ 
+Company Name
+ 
+City
+ 
+, 
+State
+Worked with Buyer to manage $14+ million per year business
+Developed plans/budgets for upcoming seasons
+Forecasted markdowns and receipts in season, managed markdowns and receipts to within +/- 1%
+Analyzed and recapped selling to determine future buys
+Worked with vendors to ensure product arrived on time and to negotiate terms/discounts
+Negotiated over $30,000 at cost in discounts for late product in 2007 fiscal year
+Education
+MBA
+ 
+: 
+Strategic Management
+ 
+2014
+ 
+Carlson School of Management, University of Minnesota
+Bachelor of Science
+ 
+: 
+Marketing and Advertising
+ 
+2006
+ 
+Carlson School of Management/School of Journalism and Mass Communication,
+University of Minnesota
+Skills
+Program knowledge

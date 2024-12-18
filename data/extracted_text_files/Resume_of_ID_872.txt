@@ -1,0 +1,176 @@
+INFORMATION TECHNOLOGY PROJECT MANAGER
+Summary
+SUMMARY Skilled IT professional with 7 years of proven success in developing and leading cross-functional technical teams to execute and
+deliver major technology initiatives using the Agile methodology and Scaled Agile Framework (SAFe). Well-versed in managing projects with co-
+located and off-site teams. Expertise in gathering and translating requirements, leading scrum teams, and release management, including owning the
+release management lifecycle for multiple applications across different environments.
+Skills
+Agile methodology
+Project management
+SAFe Program Increment (PI) Planning
+Scrum / Kanban / Scrumban
+Aptitude for resolving challenging problems
+Client relations
+Team building
+Release management
+Scrum master / Business analyst
+Atlassian suite (JIRA, Confluence, Trello)
+Public Trust Clearance Level 4
+Agile
+Approach
+Budget
+Business analyst
+Concept
+Client
+Client relations
+Features
+Functional
+Team building
+Managing
+Meetings
+Procurement
+Project Management
+Project plans
+Real-time
+Risk-assessment
+SCADA
+Supervisory Control and Data Acquisition
+Fluent in Spanish
+Upgrade
+Experience
+Company Name
+ 
+| 
+City
+ 
+, 
+State
+ 
+INFORMATION TECHNOLOGY PROJECT MANAGER
+ 
+03/2019
+ 
+- 
+Current
+Support Design-Build Supervisory Control and Data Acquisition (SCADA) Upgrade Project using project management expertise.
+Identify and implement technology tools to facilitate resource planning for multiple projects, identify interdivisional dependencies, encourage
+real-time team collaboration, and develop streamlined workflows to expedite project submittal reviews.
+Introduced the concept of SAFe to lead planning event to prioritize fiscal year acquisition and procurement needs based on project
+criticality and available internal resources.
+Developed annual planning process to support capital improvement planning activities such as project identification and prioritization.
+Company Name
+ 
+| 
+City
+ 
+, 
+State
+ 
+AGILE PROJECT MANAGER
+ 
+10/2014
+ 
+- 
+03/2019
+Led transition of risk-assessment tools from downloadable software to web-based platform, including EPA's Vulnerability Self Assessment
+Tool, Climate Resilience Evaluation and Awareness Tool (CREAT), and the Workshop Planner for Climate Change and Extreme Events
+Adaptation tool.
+Developed project plans and cost estimates with well-defined milestones in collaboration with project team and subcontractors for each
+contract period of performance.
+Tracked project level-of-effort and budget expenditures to enable the team to deliver work products while managing changes to scope,
+schedule, and budget.
+Provided cost projections using labor rates to manage specific project tasks from project inception to completion.
+Tracked resource availability and allocate staff according to client priorities for the project goals and timeline.
+Managed communication of project status, including risks, within the project team and external to the project team.
+Gathered and communicated performance metrics and develop performance reports.
+Identified and managed project risks, defined opportunities for improvement, and worked with the project team and senior leaders to
+establish corrective actions.
+Worked with team members to participate in the quarterly SAFe PI planning events to develop realistic work plans and release timelines for
+client-prioritized workstreams.
+Company Name
+ 
+| 
+City
+ 
+, 
+State
+ 
+RELEASE MANAGER
+ 
+10/2014
+ 
+- 
+03/2019
+Negotiated, planned, and managed all release activities identifying risks and corresponding solutions to maintain the release schedule.
+Established deployment needs and ensured compatible architecture and configuration of final deliverable.
+Facilitated production readiness reviews and release retrospective meetings with the project team.
+Served as the primary point of contact with IT partners in deployment planning activities using a Scrumban (Agile and Kanban) approach.
+Identified ways to optimize platform capabilities and maximize efficiencies.
+Identified issues and performed root-cause analysis.
+Ensured all changes met readiness criteria prior to deployment.
+Worked with developers to resolve deployment issues and system outages.
+Tracked release metrics to identify process improvements.Conducted functional configuration audits and physical configuration audits to meet CMMI standards.
+Company Name
+ 
+| 
+City
+ 
+, 
+State
+ 
+BUSINESS ANALYST / SCRUM MASTER
+ 
+10/2014
+ 
+- 
+03/2019
+Facilitated requirements meetings and grooming sessions with the development team and the client to identify desired features and
+functionality.
+Facilitated daily scrums, sprint reviews, sprint retrospectives, and sprint planning with the project team.
+Captured and translated requirements to the development team via Jira, Confluence, and during daily scrums.
+Tested the application across desired platforms in the development, staging, and production environments to ensure proper implementation
+of requirements.
+Education and Training
+Scaled Agile Framework (SAFe) 4 Agilist certification
+2019
+Project Management Professional (PMP)
+ 
+2018
+American University
+ 
+| 
+State
+ 
+Master of Arts
+ 
+in 
+International Affairs
+ 
+2011
+American University
+ 
+| 
+State
+ 
+Master of Arts
+ 
+in 
+Natural Resources
+ 
+2011
+Clemson University
+ 
+| 
+City
+ 
+, 
+State
+ 
+Bachelor of Arts
+ 
+in 
+Biological Sciences
+ 
+2008
+Languages
+Fluent in Spanish

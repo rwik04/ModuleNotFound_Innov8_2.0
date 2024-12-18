@@ -1,0 +1,149 @@
+DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER)
+Summary
+Software Engineer with 2 years in Web Developer specializing in front end development. Proficient in Software Development Life Cycle (SDLC)
+and SCRUM AGILE methodologies of development process to produce software solutions by team. Involved in designing, planning, developing
+and implementing Microsoft .Net based solutions that meet quality and code standards. 
+Developed web based applications using C#, ASP.Net,
+JavaScript, jQuery, CSS, Bootstrap CSS, HTML, XML and AJAX. Strong experience in data retrieval and manipulation using ADO.Net data
+objects such as Dataset, Data Reader, Data list, Data Adaptor, Entity Frame work. Good experience in writing Class Library using C# , LINQ to
+SQL queries in Database Access layer to interface with SQL Database. Worked extensively with .Net Server Controls, Web User Controls, Data
+Grid, Web Control, Form Validation Controls and created Custom controls. Worked on creating and modifying Table Definitions, stored
+procedures in SQL Database. Modified and written web services using C# to interact with the other applications so data can be served. Used Red
+Gate SQL Compare to deploy database from one server to another server (Dev -> Test/QA).Worked on .NET security features such as Form-
+Based Authentication and Role-Based Authorization. Involved in bug fixes and production support. Worked closely with Scrum Master for
+backlog catalogs, feature catalogs and prioritized the tasks Participated in daily scrums and weekly meetings with the project sponsors to meet
+expectations and deadlines Interact with QA to ensure the defects are properly cleared to attain the quality standards Providing demos to the QA
+team at the end of the sprint to push for its final stage. Worked with cross-functional teams to meet project.
+Highlights
+ASP.Net, C#, 
+JavaScript, jQuery, VB.Net, C, C++, Java
+Net Technologies: 
+.Net Framework 4.0/4.5, ASP.Net, ASP.NET MVC, VB.Net, ADO.Net, Entity Framework, AJAX, Web Service,
+LINQ, 
+Entity Framework, LINQ queries. ASP.Net, HTML, CSS, JavaScript, JQuery, Bootstrap CSS.
+IDE: 
+Visual Studio, Eclipse, NetBeans, Dreamweaver
+Database: 
+SQL, MySql
+Operating System: 
+Windows
+Version Controls : 
+Tortoise SVN, GitHub
+Others: 
+Microsoft Word, Excel, Access, Power point
+Professional Experience
+Database Programmer/Analyst (.NET Developer)
+ 
+Jun 2014
+ 
+to 
+Feb 2016
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Worked as Graduate Research Assistant performing the duties of Database Programmer/Analyst at Application Development Network
+(ADN), DoIT which supports University of Missouri System faculty and students through agile and rapid creation of new applications.
+Projects: Atlas: Description: This project is all about requesting, scheduling the tutoring sessions.
+There are three roles tied to application they are Tutee, Tutor, and Scheduler.
+A tutee requests for tutoring for the classes that he/she enrolled and gives availability apart from the class timing through Availability Grid and
+Tutor submits availability.
+A scheduler will go through those availabilities and schedule time and location for tutoring.
+Also, there are some set of rules for dropping the tutoring sessions which are incorporated in this project.
+The other piece of this project is automated emails through Scheduled task which runs every day.
+Responsibilities: Created a Availability Calendar Grid.
+In grid each cell represents time (1 hour span) and day of the week.
+Clicking on the cell toggles the availability.
+Automatically populated the course schedule which comes from different database(Worked with data warehouse team in order to get that
+data) Developed C# Console Application for Scheduled email task.
+Got rid of data tables and table adapters in the main project as they are tightly coupled.
+Created Class libraries out of the main project to access the database which can be used by both Console Application for Schedule task
+and web application.
+Integrated Open Source HTML text editor CKEditor into the website.
+Used jQuery for filtering, sorting and search the listview, JavaScript for clientside validations.
+Used role based authorization for various pages.
+The goal of the project to refractor the old application with new templates and replace the assemblies.
+Adding functionalities to upload pdf files.
+Responsilities: Created separate Login page for Administrator and Students.
+Used Active Directory (AD Group) to restrict other department Students.
+Developed a web interface for Administrators to upload the pdf files into database which can be viewed by students.
+Updated the entire application by using new Visual Studio 2013 template which make use of Bootstrap CSS by changing the master pages.
+Modified the structure of database to login.
+Used Redgate SQL Compare to copy the data from database from dev server to test sever.
+Replaced the old ADN Utilities assemblies with new DoIT Utilities assemblies.
+AppInventory: Description: The goal of the project to allow the admins, managers, scrum masters of the organization to keep track various
+applications which includes their developed, ongoing and future projects.
+For every application there are application parameters which includes App Structure, Remedy group, User Departments etc.
+and each application has different version.
+For each version the parameters are Prod, QA, test URL, DCL, Database, platforms, framework used to develop application, UAT datesetc.
+Scrum Masters can estimate the length and cost to build the application (Project Estimator) based on number of developers, Sprint length,
+weeks of UAT etc which they can share with clients.
+After starting the project they can keep track of current progress by budget, sprint burndown charts.
+Responsibilities: Entity Framework was used using Database first approach.
+LINQ was used in the DAL (Data Access Layer) to interact with the Database Consumed ADO.Net Entity Frame Work for Entity Data
+Model, Entities, Relationship Mapping, and Querying Data.
+Console Application to import the data from CSV files to populate them into the system.
+Automatic logout when user is idle for a specified time by using session parameters and JavaScript.
+Used client side validations, onbeforeunload and onunload events in Javascript.
+Worked on agile environment.
+Participated in daily scrum meetings to discuss the status of development, planning and estimating the points and UAT.
+GoAdmin: Description: GoMizzou is the University of Missouri flagship mobile application, designed to provide services to all possible users
+of the university.
+The goal of this project is to allow GoMizzou Staff to edit the master tables involved with the GoMizzou webservices.
+These master tables are the starting point for all window services (which feed the web services).
+Production URL: https://appsprod.missouri.edu/GoAdmin Responsibilities: Developed Application using AJAX controls like modal popup,
+ASP.Net server controls like listview, formview, worked on Clientside and Server side Validations and created Master Pages.
+Filtering of the data of listview based on the role.
+Used n-Tier Architecture, Created the Business Logic Layer by using Class Libraries to interact with database.
+Modified the existing webservices like SocialSpirit, News webservices, Events web and windows services.
+Created ASP.Net User Controls to reduce the complexity of user interface design Created dynamic queries, stored procedures, Views and
+triggers in SQL server for the database manipulation.
+Mizzou Checkout: The goal of the project is to develop a web application for Checkout process similar to shopping cart for various
+departments who met the certain rules.
+Responsibilities: Used Smpt server to send emails Developed C# Class Library to import the data from the CSV file to system LIM Service
+for late fee assessment Access to page based on the role (Role based authentication) Personalized Email for Outlook: The goal of the
+project to give students to customize their outlook email.
+Education
+Master of Science
+ 
+, 
+Computer Engineering
+ 
+Present
+ 
+University of Missouri
+ 
+ï¼​ 
+State
+ 
+GPA: 
+GPA: 3.7
+ 
+Computer Engineering GPA: 3.7
+Bachelor of Technology
+ 
+, 
+Electrical and Electronics Engineering
+ 
+May 2013
+ 
+Jawaharlal Nehru Technological University
+ 
+India
+ 
+GPA: 
+GPA: 3.65
+Electrical and Electronics Engineering GPA: 3.65
+Skills
+ASP.NET, VB.Net, Active Directory, ADO.Net, Dreamweaver, 
+Web Development, AGILE, AJAX, 
+HTML, IDE, Java, JavaScript, JQuery,
+Analyst, Application Development, approach, budget, C, C++, catalogs, charts, CSS, Checkout process, client, clients, data warehouse,
+Database, DCL, Eclipse, edit, editor, Email, estimating, features, Frame, functional, , Logic, meetings, Access, C#, Excel, Outlook, Power point,
+Windows, window, Microsoft Word, Network, Operating System, page, pdf, Programmer, Programming, progress, quality, QA, Research,
+scheduling, Scrum, SDLC, Software Development, sorting, SQL, SQL server, tables, tutoring, user interface design, Utilities, validation, Visual
+Studio, website

@@ -1,0 +1,211 @@
+IT DIRECTOR
+Accomplishments
+CXA- 206-1 | Citrix XenApp 6.5 Basic Administration; IT Security Essentials; Spiceworks 101: Foundations & Lab Introduction to SQL
+Military UA Army, Ukraine 
+Senior Sergeant.
+Experience
+IT Director
+ 
+August 2015
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Formulate and deploy long-term strategic plans for acquiring and enabling efficient and cost effective information processing and
+communication technologies.
+Manage IT department operational and strategic planning, including business requirements, project planning, and organizing and negotiating
+the allocation of resources Operational Management Where necessary, reengineer applications support to ensure it aligns with business
+processes, tactical planning, and strategic vision.
+Define and communicate project milestones, service level agreements, and resource allocation to executive team, department leads, support
+staff, and end users.
+Develop and review budgets for and from IT department divisions and ensure they comply with stated goals, guidelines, and objectives.
+Review performance of IT systems to determine operating costs, productivity levels, and upgrade requirements.
+Benchmark, analyze report on, and make recommendations for the improvement of the IT infrastructure and IT systems.
+Develop bid requirements for all hardware and software upgrades, reviews submitted bids for compliance with stated requirements, and
+makes the appropriate award.
+Authorize and oversee the deployment, monitoring, maintenance, development, and support of all hardware and software based on
+department needs.
+Develop business case justifications and cost/benefit analyses for IT spending and initiatives.
+Direct research on potential technology solutions and implementations in support of new initiatives, opportunities, and procurement efforts.
+Oversee provision of end user services, including help desk and technical support services.
+Develop and implement all IT policies and procedures, including those for architecture, security, disaster recovery, standards, purchasing,
+and service provision.
+Oversee negotiation and administration of vendor, outsourcer, and service agreements.
+Business Application Specialist
+ 
+August 2013
+ 
+to 
+August 2015
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Support major components of distributed business applications: 
+Pivotal CRM, Sage MAS100/200, MoveTrack, EMC, Crystal Reporting,
+Scribe, Salesforce PaaS Improve standards and techniques used to provide security in client/server environment Diagram components at
+each tier of client/server environment for Disaster Recovery Create and maintain product and training documentation Conduct technology
+and application training assessments to ensure staff preparation 
+Provide field application support and respond to technical inquiries,
+Coordinate with Project Team resources for timely delivery , implementation of support tasks Investigate options and ways to improve
+products and services 
+Lead tech for application implementation, development, testing, and enhancements Conduct Data Analysis, Mapping,
+Extraction, Conversion and Migration Performance monitoring, analysis and bottleneck detection for Microsoft SQL Databases.
+Information Technology Specialist
+ 
+February 2011
+ 
+to 
+August 2013
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Completive experience of VMware vSphere environment: 
+Install, Configure, Manage 
+Provide expertise and support for Citrix
+Infrastructure, XenApp, 
+Access Gateway and NetScaler Perform support and administrative tasks pertaining to end-user environment
+Manage backups and restores using EMC Avamar and Arkeia backup solution Adjust DHCP DNS and Internet Protocol settings to
+access the network and the Internet Deploy and support Microsoft Exchange 2007/2010, and Office365 
+Administer the installation and
+support for all enterprise hardware, software, and applications Maintain network, firewalls, Windows/Linux servers/computer system
+security to ensure optimal performance Train users on the proper use of hardware and software Respond to and resolve technical issues in a
+timely matter Administrate and maintain Mitel 5000 IP PBX and MultiTech FaxFinder faxing system 
+Maintain â€œhow-toâ€​ documentation
+for resolving network, phone, and mobile issues Oversee multi-function printer/copier configurations and network connectivity Utilize Help
+Desk management tools to create and resolve end-user support tickets.
+Information Technology Specialist I
+ 
+October 2010
+ 
+to 
+January 2011
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Information Technology Specialist I 
+Experience in imaging machines using Norton Ghost, Macrium Reflect, Acronis, FOG, Clonezilla
+Hands-on resolution at the desktop level, including installing, configuring and upgrading software, systems and applications Utilize Microsoft
+Management Console to administrate computers and user accounts 
+Define security policies for user and computers compliance 
+Adhere to
+â€œbest practices" when administrating user password controls and management Upgrade standalone servers to roles of domain controllers
+using Active Directory tools Manage Active Directory based user, security and group membership accounts 
+Maintain campus-wide
+Intranet, LAN, and Wi-Fi hardware Organize physical cabling of computer server rooms and infrastructure Provide policies and procedures
+training and information to scholars and staff 
+Develop, document, and maintain hardware inventory processes for 2 campuses.
+Network Assistant
+ February 2010
+ 
+to 
+July 2010
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Work-study 
+Assess network performance 
+Set up and observe network system recommends, upgrades, or improvements Support
+development of technical standards and application uses Resolve network problems and offer technical assistance to users.
+General Manager
+ 
+July 2004
+ 
+to 
+January 2006
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Trained and coordinated 25 office personnel 
+Provided supervision; supported and motivated employees Organized maintenance features,
+inventory control and ordered necessary materials 
+Formulated daily sales reports Participated in development of company advertisement.
+Education
+Associate of Applied Science
+ 
+: 
+Network Administration
+ 
+, 
+2010
+ 
+Hennepin Technical College
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Network Administration &ndash
+Applied Science
+AAS
+ 
+GPA: 
+GPA: 3.71/4.0
+ 
+GPA: 3.71/4.0
+Business Management
+ 
+, 
+2006
+ 
+IT Security Essentials - CertificateBuchach University of Business and Management
+ 
+ï¼​ 
+City
+ 
+, 
+Ukraine
+Bachelor of Science
+ 
+: 
+Elementary Teacher
+ 
+, 
+1999
+ 
+Zaporizhzhya Pedagogical College
+ 
+ï¼​ 
+City
+ 
+, 
+Ukraine
+Skills
+Active Directory, DHCP, DNS, WINS, GPO, backups, budgeting,Â  Citrix, XenApp, VMware, Hyper V, Dynamic CRM, DynamicÂ  GP,
+ERP, Crystal, Data Analysis, Databases,Â  Disaster Recovery, documentation, Financial Management, firewalls, imaging, inventory control,LAN,
+WAN, Linux, Microsoft Exchange, Office365, Office, Microsoft SQL, Windows, Migration, negotiating, enterprise, network,Â  PBX, printer,
+processes, procurement, improve products, project planning, project management, purchasing, Reporting, research, Sage, sales reports, servers,
+strategic plans, strategic planning, supervision, technical support, cloud, Azure

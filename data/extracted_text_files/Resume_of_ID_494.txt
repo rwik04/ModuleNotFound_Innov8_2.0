@@ -1,0 +1,187 @@
+INFORMATION TECHNOLOGY MANAGER
+Summary
+Experienced Information Technology Manager committed to maintaining innovative technical skills and up-to-date industry knowledge. My
+excellent problem solving skills, diagnostic ability and communication skills are assets that allow me to excel and adapt to virtually any situation.
+Experience
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Information Technology Manager
+ 
+01/2007
+ 
+to 
+Current
+Responsible for maintaining budget and implementing all new technologies within the firm.
+Integral part of technology team responsible for implementing and migrating Accounting and Billing system upgrade Managed firewall,
+network monitoring and server monitoring both on- and off-site.
+Recommended architectural improvements, design solutions and integration solutions.
+Trained members of IT team regarding network security and troubleshooting of data circuits.
+Ensured network, system and data availability and integrity through preventative maintenance and upgrades.
+Managed Migration from Exchange 2003 to Exchange 2010 Manged Migration from Windows XP and Office 2003 to Windows 7 and
+Office 2010 Managed and deployed Office 2010 to Office 2013 upgrade Managed migration from Physical Servers to VMWare ESXi
+Virtual Server environment Responsible for managing all IT related vendor and telecommunication contracts Manage all IT Vendor
+relationships Provided documentation on start-up, shut down and first level troubleshooting of processes to help desk staff.
+Implemented company policies, technical procedures and standards for preserving the integrity and security of data, reports and access.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Technical Project Lead
+ 
+11/2005
+ 
+to 
+01/2007
+Responsible for Maintaining Client relationships and Technical Integrity of the Infrastructure Responsible for Managing Engineers assigned to
+Client projects, Including time management, time approval and resource scheduling Successfully migrated a Novell 6.0 Cluster with
+Groupwise to a Novell 6.5 Cluster Responsible for ensuring timely completion of projects Responsible for Managing IT Department at
+specific client sites,including Helpdesk management.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Systems Engineer
+ 
+01/2004
+ 
+to 
+11/2005
+Install, Support and maintain Novell, Windows NT 4.0, Windows 2000,Windows 2003 servers.
+Maintain and Patch over 800 servers in the current environment.
+Manage implementation of new infrastructure from the Server Side, and co-ordinate with various teams to ensure deadlines are met.
+Assisted in stabilizing Novell Groupwise 6.5 installation.
+Implemented and maintained a SQL Cluster in a Microsoft 2003 Server environment.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Network Analyst
+ 
+10/2001
+ 
+to 
+10/2003
+Managed and supported Novell 4.x and 5.x Servers, Windows NT 4.0 and Windows 2000 Servers, Citrix.
+MetaFrame XPa, GroupWise 5.x.
+Second level support for all PC and Network related issues.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Night Desk Supervisor
+ 
+07/2000
+ 
+to 
+04/2001
+Supervise two additional employees and responsible for all issue escalations and follow up.
+Manage all projects and ensure on-time completion.
+Manage client relationships.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Senior Network Engineer
+ 
+08/1999
+ 
+to 
+07/2000
+Responsible for all LAN/WAN Infrastructure.
+Evaluate, purchase, implement and maintain all Novell and Windows NT Servers.
+Manage Cisco Switches and Routers and all WAN T1 Connections.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Network Analyst
+ 
+04/1997
+ 
+to 
+06/1999
+Support 130+ Novell Servers and NDS Directory Structure.
+Responsible for upgrading and maintaining.
+servers as well as all workstation clients.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Network Support Specialist
+ 
+11/1993
+ 
+to 
+04/1997
+Responsible for All Software, hardware, Network, phone system and voicemail installation and support.
+Planned move of company to include all Network and electrical wiring as well as Phone system.
+move/upgrade.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Service Manager
+ 
+09/1988
+ 
+to 
+11/1993
+Install and maintain all customer systems, network installations and rollouts of all new computer systesm.
+Supervised 3 additionaltechnicians.Education
+Associate of Science
+ 
+:
+ 
+Business Administration
+ 
+1996
+ 
+McHenry County College
+ 
+, 
+City
+ 
+, 
+State
+ 
+Business Administration
+Interests
+Algonquin Argonauts Football Board of Directors, Secretary Algonquin Argonauts Football, Assistant Coach/Offensive Coordinator
+Additional Information
+AFFILIATIONS Algonquin Argonauts Football Board of Directors, Secretary Algonquin Argonauts Football, Assistant Coach/Offensive
+Coordinator
+Skills
+Accounting, backup, Billing system, budget, Citrix MetaFrame, Excellent communication, hardware, contracts, Client, clients, documentation,
+electrical wiring, firewall, Groupwise, Novell Groupwise 6.5, GroupWise 5.x, help desk, LAN, Managing, access, Exchange, Windows 7 and
+Office, Office, Windows, Windows 2000, Windows NT, Windows NT 4.0, Windows XP, Migration, NDS, network security, Network, Novell
+6.0, Novell 6.5, Novell, Novell 4.x, Novell Servers, Phone system, policies, problem-solving, processes, Routers, scheduling, Servers, SQL,
+Cisco Switches, T1, telecommunication, time management, troubleshooting, upgrades, upgrading, upgrade, WAN

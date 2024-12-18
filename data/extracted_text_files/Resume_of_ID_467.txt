@@ -1,0 +1,154 @@
+INFORMATION TECHNOLOGY SPECIALIST
+Professional Profile
+Quality-driven and practical Systems Administrator with [Number] years aligning business systems with business policies and guidelines. Looking
+to bring strong analytical and problem-solving skills to an industry-leading software company.
+Qualifications
+CompTIA Security + CE SY0-401
+Certified
+Refined system debugging and
+diagnostic skills
+Excellent analytical, interpersonal,
+communication and organizational skills
+System administration
+UNIX system performance monitoring
+Team player and self-starter with the
+ability to operate without detailed work
+direction
+Working knowledge of application servers, J2EE, Oracle, Unix O/S, Linux, LDAP,
+Database, Service Oriented Architecture and physical architectures, Mainframe, Remedy,
+Virtual Machine
+High proficiency level in MS Office (Word, PowerPoint, Excel, Outlook)
+Relevant Experience
+Automated repeatable tasks where possible to increase efficiency.Consistently received a 100% rate of customer satisfaction.Performed root
+cause analysis to identify system errors and improve accuracy by 15%.Awarded with the Tech of the quarter for contributions to mission.
+Experience
+Information Technology Specialist
+ 
+Sep 2013
+ 
+to 
+Dec 2015
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+5 years of experience in the maintenance and troubleshooting of complex infrastructure.
+Provide Help Desk Services first level of troubleshooting to all customers on multiple systems.
+Use internally developed maintenance provider plans, procedures and tools to identify, troubleshoot, and diagnose failures and restore
+system capability to operations.
+Analyze, diagnose and isolate failures to hardware Line-Replaceable units (LRU).
+Directly replace or coordinate replacement of failed hardware LRU's with the maintenance provider or the vendor.
+Collect data describing the environment at the time of the failure to provide root cause analysis is necessary or escalation to the engineering
+point-of-contact.
+Provide required support of engineer maintenance provider Discrepancy Report (DR) investigations and resolution efforts if necessary.
+Perform network management services to include: Monitoring networks device health and status, monitoring of network performance and
+utilization optimization (tuning) tasks.
+Perform operating system monitoring, Commercial off the Shelf (COTS) software monitoring, custom software monitoring, resource
+memory allocation; modifications to authorized user lists and user profiles; file system maintenance to include (deletion of log files no longer
+needed and monitoring of storage space, ensuring backups have completed appropriately, awareness that appropriate system processes are
+up and running at all times).
+Support software promotes by performing system reboots, monthly and daily preventive maintenance, process bounces per documentation.
+Provide accurate and timely documentation of system problems and request in shift turnover log and assign units tickets in accordance unit
+policy.
+Analyzed customer and stakeholder needs, generated requirements, perform functional analysis and implemented Requirements
+Management Plans.
+Made recommendations to improve technical practices.Collected, analyzed, and reported program metrics, including product technical
+performance measures and key performance parameters.
+Systems Engineer
+ 
+May 2010
+ 
+to 
+Sep 2013
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Obtained all mission related certification required for the application services provider, within the 24x7 technical support tier.
+Trained current and new team members on existing and new application services procedure and Commercial off the Shelf 
+(COTS)
+software.
+Performed system health analysis to identify, analyze, collect preliminary data, and recommend effective solution to anomalies.
+Coordinated and conducted low-level system testing, problem analysis for servers, desktops and IT infrastructure work.
+Analyzed all levels of total system product to include; concept, design, fabrication, test installation, operation, maintenance and disposal.
+Performed technical planning, system integration, verification and validation, supportability and effective analysis for multiple systems.
+Performed functional analysis, timeline analysis, detail trade studies, requirements allocation and interface definition studies to translate
+customer requirements into hardware and software policies.
+Coordinated with systems partners to finalize designs and confirm requirements are met.
+Provided continued maintenance and development of bug fixes and patch sets for existing web applications.
+Diagnosed UNIX and Windows processing problems and execute appropriate solutions.Ensured network, system and data availability and integrity through preventative maintenance.
+Provided documentation on start-up, shut down and first level troubleshooting of processes to help desk staff.
+Implemented company/customer policies, technical procedures and standards for preserving the integrity and security of data, reports and
+access.
+Consistently met deadlines and requirements for all production work orders.
+Monitored network performance and provide network performance statistical reports for both real-time and historical measurements.
+Managed network monitoring and server monitoring both on- and off-site.
+Recommend architectural improvements, design solutions and integration solutions.
+Systems Engineer Associate
+ 
+Feb 2009
+ 
+to 
+May 2010
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Coordinated all NEAS weekly brown-bag seminar for the VA-95 Technical Resource Center.
+Formatted and delivered training specific to the intended party and purpose for company standards.
+Updated, composed and created content in electronic format assuring accuracy and proper display for the VA-95 TRC Technical Library.
+Served as Windows Subject Matter Expert (SME) to research, create procedures and recommended COTS product to enable Closed
+Caption video content for support of the National Center for Missing and Exploited Children (NCMEC).
+Reviewed, and routed resumes to appropriate Managers as an Account Representative on the Resource Planning Team (RPT).
+Maintain a spreadsheet of employees with key contact information, skills, and resumes.
+Communicated the duties, compensation, benefits and working conditions to all potential candidates.
+Researched and recommended new sources for candidate recruiting.
+Reviewed human resource paperwork for accuracy and completeness by verifying, collecting and correcting additional data.
+Education
+Bachelors of Science
+ 
+, 
+Computer Engineering Technology
+ 
+Spring 2008
+ 
+Prairie View A&M University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+GPA: 
+GPA: 3.048/4.0
+Computer Engineering Technology GPA: 3.048/4.0
+Personal Information
+Active 
+TS/SCI w Poly (last update, 05/2010)
+Additional Information
+Security Clearance: 
+Active 
+TS/SCI w Poly (last update, 05/2010)
+Ability to adapt to changing technology, learning and applying new methods for achieving the goals of the organization
+TAC/ABET accredited , Dean's List 2005-2007, Honor Roll 2006-2007
+Engineering Technology Association; Vice President 2005-2007
+Tau Beta Pi Engineering Honor Society; Vice President 2007-2008
+Skills
+interpersonal, hardware, concept, content, clients, customer satisfaction, Database, debugging, desktops, direction, documentation, engineer,
+functional, Help Desk, human resource, J2EE, LDAP, Linux, Mainframe, memory, access, Excel, MS Office, Outlook, PowerPoint, Windows,
+Word, network management, network, networks, operating system, optimization, Oracle, organizational skills, policies, problem analysis,
+processes, real-time, research, self-starter, servers, spreadsheet, system integration, Team player, technical support, troubleshoot, troubleshooting,
+UNIX, validation, video, web applications

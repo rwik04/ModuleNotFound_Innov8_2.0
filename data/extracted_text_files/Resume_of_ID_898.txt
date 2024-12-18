@@ -1,0 +1,239 @@
+INFORMATION TECHNOLOGY SPECIALIST INFORMATION SECURITY OFFICER
+Profile
+blah, blah
+Core Qualifications
+Oracle Certified Professional (OCP), versions 8.0, 8i, 9i, 10g, 11g
+Certified Information Systems Security Professional (CISSP) (ISC)2
+Certified Information Security Manager (CISM) ISACA
+UNIX/LINUX
+Strong collaborative skills
+Patch management
+Database servers
+Professional Experience
+Information Technology Specialist Information Security Officer
+ 
+October 2010
+ 
+to 
+July 2015
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Installing and configuring Oracle software versions 10g-12c.
+Scripting maintenance and monitoring tools.
+Creating Risk Assessment template based on NIST 800-30R1 to facilitate and evaluate secure software development practice.
+Building automated database risk/security models for quantifying degrees of database risk and enabling the standardization and prioritization
+of remediation efforts.
+Managing/mentoring support staff and participating in 24X7 production support and security monitoring rotation for large scale, mission
+critical applications.
+Developing, implementing and supporting enterprise backup and recovery, change control, security and audit procedures.
+Performing database, server and application performance and security monitoring and tuning.
+Implementing vendor and customized database auditing and analysis packages.
+Develop pattern recognition triggers for Anti-Money laundering systems.
+Working closely with Corporate Security to ensure that application and database server procedures and controls support all government
+regulations and corporate policies.
+Designing and implementing least-privilege database administration model and application development templates.
+Providing support and guidance for the modeling, development and testing of enterprise applications to ensure that applications are secure,
+highly available and fully meet the needs of our end user communities.
+Develop ITS Enterprise Database installation, configuration, monitoring and security standards and procedures.
+Train other Database Administrators in security best practices, change control, monitoring, account management and role-based user
+administration.
+Create and configure security templates for Oracle Enterprise Manager.
+Act as bureau security liaison and represented database security at conferences and meetings.
+Develop and implement database security policies and procedures.
+Create comprehensive and cross-referenced database security benchmark utilizing the CIS Oracle Security Benchmark, NIST and DoD.
+Managed IBM engagement for Guardium from proof of concept to procurement.
+Provide remediation roadmap for database and application security issues.
+Identify and analyze data access rights that violate state law and memoranda of understanding.
+Replace manual terminal service audit reports with secure self-service, repeatable and audited process using PL/SQL and COGNOS.
+Vice President
+ 
+April 2002
+ 
+to 
+September 2010
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Perform database penetration testing and regular server and database scanning for security vulnerabilities and compromised passwords.
+Technical lead for database consolidation, backup software replacement, PeopleSoft upgrade and Anti-Money Laundering projects.
+Responsible for operational aspects of Oracle database administration activities including capacity planning, installation and configuration of
+the Oracle RDBMS, Grid Control and ASM software, patches and supporting products, backup & recovery, database tuning, monitoring
+and troubleshooting utilizing TKPROF, OEM, STATSPACK, DBArtisan, Tivoli and custom SQL, PL/SQL and UNIX shell scripts.
+Plan and manage multi-location disaster recovery exercises.
+Provide operational 24X7 support of all corporate Oracle systems (341 databases, 65 servers, 5 versions of Oracle and 5 operating
+systems).
+Developed and implemented procedures that reduced in-house database problem tickets by 60%, job failures by 80% and on-call support
+issues by 80%.
+Created enterprise wide capacity planning, troubleshooting and performance monitoring models.
+Coordinated and supported application development, testing and performance improvement efforts including data model revisions, SQL
+tuning and client configurations.
+Instituted a series of workshops, classes and training programs for developers to expand their knowledge and understanding of SQL,
+Oracle and data security.
+This group is now self-sufficient.
+Performed block-level data recovery that Oracle Corporation said was not possible, saving critical business data and minimizing impact to
+business functions.
+Database Manager
+ February 2000
+ 
+to 
+April 2002
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Created and supported multi-instance spatial environments for internet startup company.
+Gathered user requirements and designed and built logical and physical database structures.
+Managed Unix server farm to ensure proper sizing, organization, and recoverability.
+Wrote PL/SQL, SQLLoader and custom routines to load and integrate data from various outside sources and to enforce data security,
+reliability and integrity.
+Monitored shared system resources and recommend improvements to application development staff.
+Wrote database-monitoring scripts used to page DBA in the event of database problems.
+Automated DBA functions for table restructuring, statistics, space management and backup.
+Senior Database Administrator
+ 
+January 1999
+ 
+to 
+February 2000
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Technical liaison and support manager for international leasing company.
+Traveled abroad as needed.
+Participated in due diligence audits of takeover candidate companies.
+Wrote Oracle installation and configuration standards for Windows NT and UNIX.
+Created DBA practice lab and developed practice lab exercises for other DBA staff to learn backup and recovery software.
+Worked closely with various vendors and development groups to improve application reliability and performance.
+Developed a Capability Maturity Model and created CMM training program for database administration.
+Provided 24X7support of international commercial leasing applications.
+System Staff Specialist/Database Administrator
+ 
+December 1997
+ 
+to 
+January 1999
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+DBA for telesales, signature verification, and electronic payment systems.
+Participated in off-site disaster recovery exercises.
+Reviewed schema, tuned queries and managed change control process.
+Developed Cost Based SQL Standards and trained development staff on SQL tuning.
+Provided database design consultation to other projects.
+Developed database installation and administration guidelines.
+Senior Database Administrator
+ 
+June 1997
+ 
+to 
+December 1997
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Converted document management system from Sybase to Oracle.
+Mentored and trained Oracle database administrators at client sites.
+Monitored and tuned Oracle system and applications to prevent resource shortages and shorten the execution time of long-running queries.
+Conducted training in database concepts and SQL.
+Database Administrator
+ 
+September 1996
+ 
+to 
+June 1997
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Implemented and maintained critical high volume online and Internet server Oracle databases in UNIX environment.
+Performed performance monitoring, capacity planning and application tuning.
+Worked closely with engineering consulting firm to trouble shoot database and applications, optimize system performance, ensure data
+integrity and increase system reliability.
+Wrote extensive SQL and PL/SQL programs to manage data and create ad hoc reports.
+Developed, implemented and enforced Oracle design and usage standards.
+Associate Computer Programmer/Analyst
+ 
+June 1991
+ 
+to 
+September 1996
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Technical lead responsible for Pavement and Bridge Management Systems development and production Oracle databases operating in
+client/server environment.
+Prepared EDP sections of consulting contracts and budgets.
+Managing analyst for Pavement and Bridge Maintenance Systems jointly developed by Rensselaer Polytechnic Institute and the Thruway
+Authority.
+Developed and maintained data standards and agency data dictionary system.
+Education
+Master of Science
+ 
+: 
+Management
+ 
+College of Saint Rose
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Management
+Bachelor of Arts
+ 
+: 
+Music History
+ 
+City
+ 
+, 
+State
+ 
+Music History
+Skills
+account management, ad, analyst, application development, ASM, agency, audit reports, auditing, backup, budgets, c, Capability Maturity Model,
+CMM, capacity planning, client/server, COGNOS, concept, conferences, consultation, consulting, contracts, client, data dictionary system,database and applications, database administration, DBA, databases, Database, database design, Designing, disaster recovery, document
+management, due diligence, government regulations, IBM, Information Security, Information Systems, law, Managing, meetings, mentoring, access,
+Money, Windows NT, modeling, Enterprise, operating systems, Oracle Enterprise Manager, Oracle, Oracle database, PL/SQL, page,
+PeopleSoft, policies, procurement, Oracle RDBMS, Risk Assessment, scanning, servers, scripts, Scripting, software development, SQL,
+SQLLoader, statistics, Sybase, Systems development, Tivoli, training programs, troubleshooting, UNIX, UNIX shell scripts, upgrade, workshops

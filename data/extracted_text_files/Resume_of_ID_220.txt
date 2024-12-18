@@ -1,0 +1,166 @@
+DIRECTOR OF INFORMATION TECHNOLOGY AND ANALYTICS
+Summary
+Accomplished senior manager with over 15 years of experience leading complex projects and managing resources to optimize enterprise
+technology and support business objectives. 
+Committed to quality and service excellence with aptitude for launching new technology platforms.
+Subject matter expert in Information Security Risk Management. Excellent communicator adept at identifying business needs and bridging the gap
+between functional groups and technology to foster targeted and innovative solutions.
+Highlights
+OS/Platforms: 
+Microsoft Windows Server 2008/2012, Exchange 2010, IIS, Active Directory, DNS
+Networking: 
+Cisco LAN/WAN (ASA/switching), TCP/IP, VPN, VoIP, SIP, MPLS, VNC, VLAN Segregation
+Hardware: 
+SAN/FIBER technology, Enterprise Servers, Switches, Routers, Workstations, Laptops, Mobile Devices
+(iPad/iPhone/Blackberry),
+Telephony Systems: 
+Cisco CUCM
+Tools: 
+JIRA, Veritas Netbackup, Backup Exec, PCAnywhere, Symantec Antivirus, Ghost, SharePoint, Visio, Microsoft Office Suite
+Experience
+Director of Information Technology and Analytics
+ 
+January 2005
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Market-leading global credit asset management firm with $4 Billion AUM and over 120 employees worldwide.
+Directed the firm's word-wide Information Technology strategy.
+Established and instituted policies, procedures and technology to mitigate corporate security risk and position ZAIS for Sarbanes-Oxley act
+compliance.
+Identified process improvement opportunities and recommended solutions and budget requirements to management committee.
+Managed team of 6 resources responsible for technology management and support operations encompassing all aspects of IT infrastructure
+including workstations, server platforms, IP telephony, L3 network infrastructure, network security, disaster recovery, Storage Area
+Networks and videoconferencing.
+Directed project teams through all lifecycle phases handling technical escalation events.
+Evaluated and deployed DLP solution.
+Chairman of the firm's cybersecurity committee responsible for advancing the firm's security posture.
+Selected Accomplishments Developed and led a technology strategy for the firm that supports strong business alignments, increases
+profitability and provides a sound, flexible and reliable foundation for the future.
+Enabled revenue growth by leading the timely deployment of high-performance virtual computing environment to support new models
+created by internal development teams.
+Created Incident Response Policies and Procedures rooted firmly on the NIST framework.
+Developed and lead breach rehearsal scenarios both for executive roundtable tests and technical response team practices.
+Designed Data Governance and Classification Policies particularly in regards to Personally Identifiable Information (PII).
+Evaluated and deployed Data Loss Prevention system (Symantec) and created escalation procedures to comply with the firm's Data
+Governance Policy.
+Managed all security vendor relationships through the contract negotiation lifecycle and Service Level Agreement reviews.
+Developed associates to their fullest potential by providing challenging opportunities that enhanced associate's career growth.
+Recruited and developed appropriate talent pool to insure adequate bench strength and succession planning.
+Managed logistics, procurement and deployment of IT infrastructure in Dallas, Baton Rouge, Shanghai, Dublin, London, Singapore and
+Tokyo locations inclusive of establishing a sustainable model for support.
+Established a viable Disaster Recovery strategy with a physical to virtual solution and liaison with all business units to generate the firm's
+Business Continuity plan.
+Spearheaded the analog to VOIP conversion of ZAIS IPT and video infrastructures (Cisco CUCM environment).
+Transformed IT support and organizational interaction practices, fostering strong, collaborative work environment.
+while developing robust help desk systems and processes for improved trouble ticket initiation and visibility.
+Led the firm's Cybersecurity enhancement effort by managing the design, implementation and maintenance of the 
+Advanced Threat
+Protection system, Next Generation Firewalls and Mobile Computing Security.
+Developed the firms Cybersecurity Policy and Incident Response Team firmly rooted on the NIST framework.
+Responded to audit requests from potential and current investors, met with them to discuss finding, and guided them through the due
+diligence process.
+Responded to external auditors and lead remediation efforts if needed.
+Reported all audits to the executive board.
+Fostered a culture of security awareness in the firm by obtaining executive level support for Cybersecurity initiatives and enabling
+acceptance of security measures through user education.
+Information Technology Manager
+ 
+January 2002
+ 
+to 
+January 2005
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Manufacturing firm with over 100 year history and 170 employees.
+Directed hardware and software configuration, installation, troubleshooting, and support activities.
+Oversaw administration of network infrastructure, business systems, cabling and circuits, and telecommunications platforms.Established and managed relationships with technology vendors and service providers.
+Monitored and tracked call volumes, service requests, and performance metrics.
+Led work order documentation and change request management.
+Selected Accomplishments Designed and led Windows 2003 migration team.
+Administered CISCO multi-VLAN layer 3 switched LAN\WAN.
+Designed and administered CISCO VPN solution.
+Led the procurement, configuration and administration of all infrastructure projects.
+Engineered and deployed Microsoft Exchange 2003 solution including web access/spam protection/security.
+Planned and implemented Enterprise Resource Planning project.
+Responsible for disaster recovery plan/execution.
+Supervised IT staff and coordinated all consultants.
+Systems Administrator
+ 
+January 2000
+ 
+to 
+January 2002
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Consulting firm providing portal technology to enterprise customers.
+Administered and supported 250 client node Windows NT environment.
+Planned, configured and administered the upgrade of Windows NT to Windows 2000.
+Maintained DNS, WINS and DHCP in multi-site environment.
+Maintained 85 node development server environment.
+Engineered and deployed System Management Server 2.0 infrastructure.
+Designed Workstation and Server imaging system using Symantec Ghost.
+Performed daily network monitoring tasks including backups (Veritas) and log checks.
+Data/Systems Administrator
+ 
+January 1998
+ 
+to 
+January 2000
+ 
+Company Name
+ 
+ï¼​ 
+State
+Global provider of information technology products and services (3 Billion in revenue) Oversee and modify the daily download of data from
+several distributors.
+Uploaded data to appropriate SQL databases.
+Maintained and perform hardware/software upgrades on Windows FTP servers.
+Education
+Bachelor of Science
+ 
+: 
+Psychology/History
+ 
+, 
+1998
+ 
+Rutgers University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Psychology/History
+Skills
+Active Directory, Antivirus, asset management, Backup Exec, budget, business systems, cabling, CISCO, Competitive, Hardware, Consulting,
+contract negotiation, conversion, credit, client, databases, DHCP, Disaster Recovery, documentation, DNS, due diligence, Enterprise Resource
+Planning, Firewalls, FTP, Ghost, help desk, IIS, imaging, Information Technology, IP, IT support, LAN, Laptops, Team Leadership, logistics,
+Loss Prevention, managing, Market, Mentoring, access, Exchange, Microsoft Exchange 2003, Microsoft Office Suite, SharePoint, Microsoft
+Windows, Windows, Windows 2000, Windows NT, word, migration, Enterprise, network security, network, Networking, Networks, Next, OS,
+organizational, PCAnywhere, Policies, Problem Resolution, processes, process improvement, procurement, Project Management, Proposal
+Development, Requirements Analysis, Routers, SAN, Sarbanes-Oxley, Servers, Service Level Agreement, sound, SQL, strategy, Strategic
+Planning, Switches, Symantec, TCP/IP, telecommunications, Telephony, troubleshooting, upgrades, upgrade, Veritas, Veritas Netbackup, video,
+VPN, Visio, VOIP, WAN

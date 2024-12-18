@@ -1,0 +1,225 @@
+VICE PRESIDENT, INFORMATION TECHNOLOGY
+Executive Profile
+Performance-driven IT executive experienced in building technology organizations that make IT a strategic partner of the company. Creates IT
+competitive advantages in capability and scale by leveraging best-in-class infrastructures. Highly experienced in building, improving, and turning
+around IT organizations.
+Skill Highlights
+IT Strategy
+IT Management
+Project management
+Business Intelligence
+Cloud computing
+SOX, HIPAA, GLBA
+Team building
+Enterprise platforms
+Business continuity
+Disaster recovery
+Budgeting/Cost control
+IT Infrastructure
+Professional Experience
+Vice President, Information Technology
+ 
+November 2012
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Represent Information Technology as a member of the senior leadership team with oversight of all tactical and strategic aspects of corporate
+IT systems.
+Manage and lead six-person team that oversees all IT Infrastructure and Business Intelligence operations at one of the largest United Ways
+in the nation ($38M Revenue).
+Responsible for $1M annual IT budget including staffing, operations, purchasing, and vendor management with an emphasis on cost savings
+and value-based solutions.
+Engineered strategic evolution of Salesforce CRM with the implementation of email marketing, event registration, credit card purchasing,
+and volunteer management systems.
+Designed and executed IT portion of corporate headquarters move to a new 64,000 sq. ft. building with zero downtime.
+Oversaw the creation of a dedicated, IT business intelligence group and structured development environment in strategic support of CRM,
+data warehouse, and financial reporting systems.
+Technology engineering and support of 2-1-1 call center that processes 100,000 to 150,000 calls per year (50% of Colorado's statewide
+2-1-1 calls).
+Recovered tens of thousands of dollars per year by consolidating and renegotiating IT contracts, implementing infrastructure lifecycle
+management, standardizing PC and server O/S images, utilizing refurbished equipment, and implementing virtualization technologies.
+Implemented company's first comprehensive monitoring and metrics of application, network and server availability/performance.
+Responsible for mission critical support of all computer, network, and telecom infrastructure including 175 Windows 7/8 workstations and
+35 Windows 2008/2012 servers.
+Team maintains over 99.9% uptime for all mission critical hardware and software platforms.
+Director, IT Infrastructure
+ 
+March 2008
+ 
+to 
+November 2012
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Directly responsible for mission critical support of all computer, network, and telecom infrastructure including 800 Windows XP/Windows 7
+workstations and 160 Windows 2003/2008 servers at 28 treatment centers, five operations offices, and two co-location facilities.
+As the strategic and technical IT lead, built, manage, and backup eight person team including Network Engineer, System Administrator,
+Help Desk Manager and IT Support Specialists.
+Responsible for all new hire and terminate activities, staff scheduling, mentoring, and reviews.
+Consistent record of delivering major IT projects on time and under budget including: integrations of newly acquired treatment centers, new
+treatment center builds, treatment center moves, co-location deployment, and co-location relocation.
+Maintain over 99.9% uptime for network infrastructure using an MPLS WAN with VPN over Internet redundancy.
+Maintain over 99.9% uptime for server infrastructure using high availability software (Citrix and Double-Take) and hardware (RAID, UPS,
+and hot spares) to support company treatment planning systems, record and verify systems, email, and all infrastructure servers.
+Designed, deployed, and tested company's first Business Continuity/Disaster Recovery infrastructure for core billing, financial and
+infrastructure systems.
+Implemented company's first comprehensive IT monitoring of network, server, power and temperature health using APC, HP, SolarWinds
+monitoring tools.
+Responsible for $2M OpEx and $2M CapEx IT budgets including staffing, hardware and software purchasing, telecom, BC/DR, and travel.
+Responsible for IT compliance with HIPAA and PCI regulations and have designed infrastructure to be complaint with SOX regulations for
+the future.
+Recovered up to $100,000/yr by consolidating billing and vendors, renegotiating IT contracts, implementing infrastructure lifecycle
+management, standardizing PC and server O/S images, and modeling VMWare-based virtualization.
+Coordinate and manage all communications between business operations and corporate IT.
+Developed first standardized IT project templates for treatment center integrations and new treatment center builds.
+Team responsible for closing 800+ IT support tickets per month.
+Manager, IT Operations - Windows
+ October 2006
+ 
+to 
+March 2008
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Managed eleven person team of Help Desk Technicians, System Administrators, System Engineers, and System Architects.
+Responsible for all new hire and terminate activities, staff scheduling, mentoring, and reviews.
+Directly responsible for mission critical support of all Windows-based computer infrastructure including 625+ Windows XP/2000
+workstations and 80+ Windows 2003/2000 servers.
+Maintained over 99.9% uptime for entire Windows server infrastructure including satellite control systems, imagery production systems,
+email, and communications servers, and all file and document management servers.
+Consistent record of major IT-dependent projects delivered on time and under budget including: mission critical satellite control systems,
+imagery production systems, and office moves.
+Responsible for Windows IT budget planning including staffing, hardware and software purchasing, infrastructure, and travel.
+Ensured a stable environment by standardizing processes and procedures and maintaining detailed documentation for all systems.
+Coordinated all communications between business operations and corporate IT for Windows IT projects.
+Member of IT Management Team responsible for the strategic direction of corporate IT initiatives.
+Team responsible for closing 500+ IT support tickets per month.
+IT Manager - Networking, Systems, & Support
+ 
+September 1999
+ 
+to 
+October 2006
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Managed eight person team of Help Desk Engineers, Network Administrators, Network Engineers, and Telecommunications
+Administrators.
+Directly responsible for mission critical support of WAN, LAN, 300+ Windows 2000/XP workstations, and 85 Windows 2000/2003
+servers.
+Maintained over 99.9% uptime for entire network and communications systems including real-time trading systems, wire systems, and
+numerous financial systems.
+Responsible for $1.5M annual IT budget including staffing, purchasing, infrastructure, DR/BC, telecommunications, and co-location.
+Primary decision-maker in all corporate hardware and software standards.
+Direct backup, upgrade, and maintenance policies/procedures.
+Coordinate associated IT vendor management.
+Consistent record of major, IT-dependent projects delivered on time and under budget including: office moves, subsidiary acquisition and
+divestiture, network redesign, and software deployment.
+Decreased annual IT budget by at least $50K each year from 2003-2006.
+Versed in IT compliance with Sarbanes-Oxley and Gramm-Leach-Bliley Act.
+Hands-on experience in all aspects of Disaster Recovery/Business Continuity Planning including design, documentation, and testing.
+System Administrator
+ 
+March 1996
+ 
+to 
+September 1999
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Solely responsible for mission critical support of 400+ Windows 95/98 workstations and 30 Windows NT 4.0 servers for multi-million
+dollar mortgage broker with offices in 3 states.
+Engineer of frame relay-based WAN, TCP/IP-based Ethernet LANs, Motorola and Adtran CSU/DSUs, and Xyplex and Ascend routers
+Experience also included RAS, Seagate Backup Exec, and disaster recovery.
+Administrator of corporate Internet email server (Microsoft Exchange), corporate Internet and Intranet sites (Microsoft IIS), and thin client
+host server (Citrix).
+Taught corporate training classes on Microsoft Office, Microsoft Windows, and Internet usage to new employees.
+Developed software training manuals and end-user support materials.
+Designed, from ground up, scaleable Windows NT domain, corporate websites, and Intranet site.
+Developed and implemented turnkey rollout plan for onsite hardware and software installations in new franchise offices.
+Inside Sales Representative
+ 
+June 1994
+ 
+to 
+March 1996
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Education
+M.B.A
+ 
+: 
+Dec. 2007
+ 
+University of Massachusetts
+ 
+ï¼​ 
+City
+ 
+, 
+State
+B.S
+ 
+: 
+Real Estate
+ 
+, 
+May 1994
+ 
+Arizona State University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Certifications and Training
+Denver Peak Academy - Lean Process Improvement (Black Belt)
+Harvard ManageMentor Leadership and Management (12 Courses)
+Microsoft Certified Systems Engineer (MCSE)
+Microsoft Certified Systems Administrator (MCSA)
+Cisco Certified Network Associate (CCNA)
+Citrix Certified Administrator (CCA)
+Technical SkillsSoftware: Active Directory, Microsoft Exchange, HP Insight Manager, EMC Avamar, Symantec Ghost, LanGuard Network Security
+Scanner, Voltage Email Encryption, Websense, Quest Archive Manager, MS Project, Symantec Backup Exec, Microsoft IIS, SharePoint,
+CA ArcServe, Barracuda Spam Firewall, Blackberry Enterprise Server, 
+Sophos Anti-virus, Trend Micro Anti-Virus, Bradford Networks
+Network Sentry, VMWare, Hyper-V, Barracuda Backup, Barracuda Web Filter, Cisco Call Manager, Cisco UCCX, Exact Target,
+Cvent.
+Hardware and Networking: Cisco firewalls, Cisco routers, Cisco 
+switches, Checkpoint firewalls, HP Procurve switches, Meraki Wi-Fi,
+Cisco Wi-Fi, HP Proliant, Dell PowerEdge.

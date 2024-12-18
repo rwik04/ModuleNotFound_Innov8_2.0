@@ -1,0 +1,171 @@
+VICE PRESIDENT INFORMATION TECHNOLOGY INFRASTRUCTURE OPERATIONS
+Summary
+Results-driven IT executive management professional with 20 years of experience in diverse industries, including healthcare and marketing.
+Expertise includes team leadership, technical architecture, training and development, disaster recovery planning, and information protection
+analysis. Dynamic, resourceful, and extremely driven individual with a deep passion for creating and delivering programs and solutions that
+empower a team, company, and customer to meet and exceed desired expectations
+Skills
+â€¢Infrastructure ManagementÂ  â€¢Data Center Operations 
+â€¢Project ManagementÂ  â€¢Team Building/CoachingÂ  â€¢Vendor
+Management and NegotiationÂ  â€¢Budget ManagementÂ  â€¢Policy/Program Development Â  â€¢LAN/WAN, SAN, Firewalls and
+RoutersÂ â€¢
+Experience
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Vice President Information Technology Infrastructure Operations
+ 
+06/2008
+ 
+to 
+Current
+Reduced overall network bandwidth costs over 15%, through ISP consolidation and management.
+Manages cloud based phone system (8x8) in multiple remote locations as well as on-premise phone systems.
+Responsible for Infrastructure Operations annual budget, including purchasing new equipment, software licenses, and network equipment.
+Led, mentored and developed a team of infrastructure engineers, architects, and administrators across multiple geographic locations.
+Manages multiple datacenters, on premise network and server, and Cloud presence.
+Responsible for vendor relationships, contracts, negotiating and change management.
+Successfully migrated over 700 users from three different domain On-Premise Exchange servers to MS Exchange online under single
+domain.
+Planning, and executing migration of all on-prem SaaS servers and application to a cloud based solution.
+Lead, manage, and support all design, development, implementation of infrastructure hardware, software, and network components as well
+as all disaster recovery and business continuity practices.
+Currently managing infrastructure and IT Operations in an offshore delivery center.
+Document and Execute IT policies company wide.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Director of Network Operations
+ 
+07/2006
+ 
+to 
+06/2008
+Maintains Nortel BCM telephony servers, including both analog and VoIP phones.
+Provide technical support to designers, marketing and sales departments, suppliers, engineers and other team members throughout the
+product development and implementation process.
+Monitor functioning of equipment and make necessary modifications to ensure system operates in conformance with specifications.
+Build, test, and modify product prototypes using working models or theoretical models constructed with computer simulation.
+Store, retrieve, and manipulate data for analysis of system capabilities and requirements.
+Setup, maintained, and monitored over 90 remote branch office locations.Â  Each with internet access and tied back to Chicago office
+through IPsec tunnel to Cisco ASA.
+Responsible for Entrapass Security system allowing access to suite doors utilizing ID badge.
+Setup, configured and supports multiple CRM and ERP Systems (Sage MAS500 and CRM Dynamics), as well as converting QuickBooks
+DB to Sage MAS 500.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Information Operations Specialist
+ 
+02/2005
+ 
+to 
+07/2006
+Responsible for administering Microsoft 2000/2003 environment, consisting of 50 primarily Proliant servers, including patch management,
+account maintenance, and other general system administration duties.
+Maintains Cisco Call Manager Application and Unity Server, providing VOIP services to user community.
+Built new PC deployment image using Symantec Ghost and Intrinsic Swimage, responsible for creating silent install packages for all third
+party applications.
+Implemented new backup procedures using Legato Networker tape backup systems and a Qualstar Jukebox, bringing the hospital within
+HIPAA standards compliance.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Customer Care Representative - Help Desk Technician supporting
+ 
+09/2003
+ 
+to 
+02/2005
+Primarily supported LawInContext, BakerMaks, and Client Matter Intake System (CMIS).
+Active team member providing regression testing of various software builds of a proprietary law document management solution.
+Administering a Linux based system to host an internal Knowledge Base Portal assisting other help desk agents with daily troubleshooting.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+System Administrator
+ 
+10/1998
+ 
+to 
+12/2001
+Administered several enterprise servers running a mixed environment including Sun Solaris, Red Hat Linux, FreeBSD, SCO Unix, and
+Windows NT/2000.
+Developed and maintained UNIX shell scripts, used to automate daily help desk agent tasks.
+Selected to attend a 15 week IBM Emerging Leaders workshop that included training in breakthrough thinking, team building, team
+performance, and managing multiple priorities.
+Designed and developed UNIX login reauthorization program using C, Shell Scripting, Oracle, and web development resulting inapproximately 40,000 unused or unauthorized UNIX logins to be cleared from servers.
+Company Name
+ 
+City
+ 
+, 
+State
+ 
+Healthcare Systems Specialist
+ 
+02/1993
+ 
+to 
+11/1998
+Maintain records of goods ordered and received.
+Review, evaluate, and approve specifications for issuing and awarding bids.
+Control purchasing department budgets.
+Maintain and administer computer networks and related computing environments including computer hardware, systems software,
+applications software, and all configurations.
+Perform data backups and disaster recovery operations.
+Design, configure, and test computer hardware, networking software and operating system software.
+Attended Air Force Airman Leadership School, graduating as the honor graduate.
+Education and Training
+Bachelor of Science
+ 
+:
+ 
+Computer Science
+ 
+TROY STATE UNIVERSITY
+ 
+, 
+City
+ 
+, 
+State
+ 
+, 
+Montgomery
+Associate of Science
+ 
+:
+ 
+Healthcare Systems
+ 
+Community College of the Air Force
+ 
+, 
+City
+ 
+, 
+State
+ 
+, 
+Montgomery

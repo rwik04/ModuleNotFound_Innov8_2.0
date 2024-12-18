@@ -1,0 +1,144 @@
+VZW CUSTOMER TECH ADVOCATE
+Overview
+Flexible, independent, self motivated and effective leading contributor of the FOA/FSA Team, customer focused with high understanding of
+external customer needs. 
+Strong planning, organizing, decision making capability with good leadership skills, motivating others in achieving high
+quality results on time as required. 
+Shares opinion and ideas freely, and willing to support other team members in succeeding. 
+Good technical skills
+with understanding of network wireless technical concepts. 
+Eager in learning new concepts quickly. 
+Friendly demeanor that is easy to work with
+and approachable. 
+Excellent communication and negotiation skills. 
+Ability to work with key personnel across multiple organizations
+Core Qualifications
+Over 18 years wireless experience. 
+3 years of RF Optimization and 8 years of CDMA Cell FOA (First Office Application), working on
+multiple customer assignments. 
+1.5 years of Network Level Testing. 
+Over 3 years of experience as an LTE FSA engineer.
+Over 2 years VzW Customer Tech Advocate working with Verizon Headquarter and NOKIA support team. 
+Over 3 years of experience
+as an LTE FSA engineer, 1.5 years of LTE Network Level Testing, 3 years of RF Optimization and 8 years of CDMA Cell FOA (First
+Office Application), working on multiple customer assignments.
+Central point of contact for the customer on technical issues, coordinating the determination of root causes and implementing corrective
+action plans. 
+Team with NOKIA Account Teams, Program Managers, and other Customer Technical Advocates to understand and
+facilitate customer-supplier management processes.
+Led numerous major CDMA and 1xEVDO cell software releases for FOA. 
+Led Sprint 4.0 and 5.0; VzW FSA for LR13.1 software
+release.
+Contributed to the successful completion of several critical milestones for Alcatel-Lucent such as SBEVM, SBEVMm, 3G-1X, Modcells
+1.0 - 4.0, 1XEV-DO Rev-0 Rev-A, Intelligent Antenna, SUA, BTS 8440 (4.0B Macrocell product with MCPA), 3-Carrier DO,
+CPRI/RF Head Development for PCS and AWS Microsoft Office Suites, LDat, MapInfo, UNIX, SPO (System Performance
+Optimization Tool), Transcend, Qualcomm Data collection software (CAIT, Friendly Viewer, QXDM, QPST, QCAT),
+Watchmark/Prospect, and COOL.
+PROFESSIONAL EXPERIENCE
+VzW Customer Tech Advocate
+ 
+February 1964
+ 
+to 
+February 1964
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Responsible for providing technical consultations for VzW HQ team, and interfacing into the ALU Development communities, advocating
+VzW requirements and new feature requests.
+Facilitate ALU team issues, projects, and communications with customer Verizon Wireless as it relates to the LTE program Assume
+responsibility in Pre Deployment, Deployment, Post Deployment, and Common Support Processes Partner with FSA and PM team on
+testing and deployment activities Advocate customer interests within Alcatel-Lucent; foster understanding of customer initiatives within
+Alcatel-Lucent; lead technical meetings with the customer; own resolution on behalf of customer of key technical issues Use understanding
+of customer's entire network and their solution to make recommendations; support customer in user group meetings.
+Cell First Office Application Engineer FOA Engineer
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Team led for FOA cell software release for CDMA and EVDO for R16.11, R17.12, R19.0, R21.0, R23.0, R25.0, R26.01, R27.0,
+R27.05, R28.04, 31.0 and 31.10.
+Lead duties consist of: As the primary interface between the customer, the project team, and any internal/external partners participating in
+the project.
+Introduction of new cell software releases and features into a live market, product management, analyzing customer network prior to FOA
+execution, and verification of new software load compatibility for a commercial system.
+Project managed all activities in preparation of the FOA and during FOA.
+Maintain schedule and staffing to ensure exit criterions are achieved on time and with high quality.
+Work in partnership with cross functional internal Alcatel-Lucent team in documenting, and identifying issues prior to the introduction of the
+new products into a live network.
+Collaborate with various FOA teams, and customer team to share information, and coordinate weekly sites schedules.
+Work with Alcatel-Lucent development and test team in reviewing requirements, documenting problems found during field execution,
+solving field issues such as software and hardware problems, as well as reviewing validation results, and verifying field problem fixes.
+Negotiate mutually beneficial resolutions to FOA found issues within internal (ALU) and external (customer) project meetings.
+Work directly with customer documentation teams to develop high quality customer documentation.
+Construct daily project status reports shared with senior management and the customer.
+In lab testing of validation plan prior to FOA execution to obtain the technical expertise required to demonstrate the new functionality in a
+live customer network.
+Develop field test plan and strategies for OA&M and call processing scenarios for new feature functionality to meet system requirements
+and customer expectations, live customer on site implementation of validation plan, and documentation of validation results.
+Collaborate with product management in the planning and implementation of the FOA deployment.
+Provide on site test support to multiple customers, isolate and debug FOA problems, and perform HW/SW system upgrade as necessary.
+Support multiple internal teams for optimization & troubleshooting of field issues.
+Continuously utilizing RF Optimization skills by using identical software in validating new features similar to RF Optimization.
+RF Optimization Engineer
+ 
+September 1997
+ 
+to 
+May 2000
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+StateLed project planning to attain exit criteria goals for CAT/TAC (Communications Authority of Thailand/ Total Access Communications) in
+Bangkok; Phil Tel, Philippines; TelCel, Caracas, Valencia & Maracay, Seven Cities, Nine Cities and Second Carrier Project in Venezuela
+customers for newly deployed mobile base stations.
+Lead duties included planning control routes and supervising and scheduling five teams for drive testing to gather RF data.
+Executed RF Optimization duties such as collecting, plotting, and analyzing data collected from Qualcomm MDM which resulted in updating
+database properties and the base station, such as orientation and downtilt, to attain better network performance.
+Achievements Above and beyond award for FOA Project: 
+This award was presented for taking on the responsibility of being the lead on
+the FOA despite having only been in the group for a short time.
+Received Shining Star Award for Caracas, Valencia and Maracay deployment project and for IFR/Easy Span Spectrum Analyzer
+Development Interface.
+Received an acknowledgment of active participation and dedication to completingthe CDMA project with CAT/TAC award.
+Diversity Day 1999 Hands Across the World Certificate of appreciation award.
+Education
+Bachelor of Science
+ 
+: 
+Electrical Engineering
+ 
+, 
+November 1997
+ 
+Milwaukee School of Engineering
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Electrical Engineering
+Professional Affiliations
+CDMA Systems, 3G 1x-EVDO Rev-0 and Rev-A, UNIX, WiMax (802.16) Multi-media Class, Agilent Seminar - WiMAX/OFDM in Wireless
+Networking, OMC-RAN Hands-On Training and OA&M Hands-On training, LTE bootcamp Languages Fluent in speaking Tagalog (Filipino
+Language) and Bisaya (Filipino Dialect)
+Skills
+3G, BTS, Central point of contact, hardware, data collection, database, documentation, engineer, senior management, features, FSA, functional,
+lab testing, lab test, leadership, MapInfo, market, meetings, Access, Office, Microsoft Office Suites, works, Network, networks, Optimization,
+Processes, product management, project planning, quality, Radio, scheduling, Spectrum Analyzer, staffing, supervising, supplier management, team
+player, telecom, troubleshooting, type, UNIX, upgrade, validation

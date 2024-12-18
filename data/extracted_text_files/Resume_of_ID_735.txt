@@ -1,0 +1,139 @@
+DIRECTOR OF INFORMATION TECHNOLOGY
+Professional Profile
+Senior Project Management Position Senior Project Manager with over 25 years of diverse experience including health care, private sector, local
+and state government and aerospace/defense contracting. Successful management of fast-paced private sector projects as well as large multi-
+departmental/multi-agency government projects. Provided mentoring and professional quality training to hundreds of project managers. Proven
+competence in leadership, communication, project planning, budgeting, design, change control, execution, implementation and support.
+Experience
+Director of Information Technology
+ 
+, 
+10/2013
+ 
+to 
+Current
+ 
+Company Name
+Member of the Health Care Executive team responsible for the delivery of technology to two hospitals, 40 clinics, Public Health, Behavioral
+Health, Medical Examiner and the County's Health Insurance plan.
+Implemented Service Now, ITIL Active Directory and Office 365 for the agency.
+Responsible for the agency's Informatics organization.
+Oversaw the outsourcing of the agency's Cerner EHR system, implemented two major Cerner upgrades and developed the technology plan
+to implement the agency's new hospital.
+Developed and managed the County's Project Leadership Academy.
+The Academy trains and mentors project managers from various agencies using PMI /PMP grade training materials and examples.
+Senior Project Manager/Architect/Business Analyst
+ 
+, 
+04/2001
+ 
+to 
+10/2013
+ 
+Company Name
+Health Care Agency - Electronic Health Record System Managed the implementation of a $50 million Cerner system across two hospitals,
+40 clinics and Public Health in 14 months, The system included 56 solutions including registration, scheduling, patient care, and billing.
+It included interfaces to PACS, Pyxis, and other outside entities.
+Land Management Providing Project Management Office (PMO) oversight and mentoring to project managers on a major upgrade ($4.5
+million) to the County's Land Management and Permitting System.
+Includes executive status presentations, multiagency coordination and mentoring/supervision of 2 junior project managers.
+Fire Department Enterprise Architecture Initialization, analysis and estimating for a $6 million upgrade of the Fire Department's IT systems
+including the development of a data warehouse and executive dashboards.
+Property Tax Led a team of analysts to develop a comprehensive requirements document for a replacement property tax system.
+This document was then used in a Request For Proposal for the new system.
+The system will serve five County organizations consisting of 
+approximately 400 employees as well as thousands of taxpayers.
+Managed the requirements definition, design, development and implementation of a number of large Law Enforcement / 
+Public Safety
+systems.
+This included an Inmate Management System, Records Management System (RMS), Mobile Field Reporting System, Mobile Computer
+Aided Dispatch (CAD) System, Wants/Warrants System and Investigative Case Management System.
+Most of these systems share a common data architecture and serve over 900 members of the Sheriff's Department.
+Projects were between $500K and $1million in size.
+Project teams varied between 5 and 15 people.
+County Telecommunications Managed the implementation of a Cisco based data network and VoIP telephone system at all the County's
+main campuses.
+The scope of the $4 million project included 4000 phones and 180 switches/routers.
+Stepped in and managed a Countywide Microwave project that was already underway and in trouble.
+This $12 million project used Harris equipment at 18 sites.
+Five of these required new construction including towers, generators and shelters.
+County IT Services Implemented the Service-Now package for the IT department.
+This included implementation of ITIL processes.
+Provided several new project management concepts to other county development teams.
+Established new tracking and reporting standards.
+Mentored other project managers.
+Principal Consultant/Senior Project Manager Principal consultant
+ 
+, 
+03/1997
+ 
+to 
+04/2001
+ 
+Company Name
+for the company's CRM practice.
+Acted in roles including Project Management, Architect and Lead Designer on the below listed projects.
+RR Donnelley - Managed the design and development of a customer B2B portal for RR Donnelley's Book Division to provide secure
+access to customer's proprietary reports using data aggregated from disparate databases within numerous Publishing Services facilities.
+Portal was developed with BroadVision One-to-One Enterprise for all major functions.
+Advest - Managed the design and development of a Web-based workflow enabled electronic new account form system.
+System was a custom application to implement online account data collection, real-time compliance, workflow processing and interface to
+Advest's ADP back office system.
+Franciscan Winery - Developed a CRM and Decision Support solution across several departments and vendors based on Epiphany
+technology.
+Project included the design of both an Epiphany data mart and a separate customer data warehouse.
+A new set of applications was designed to load, maintain and access the customer's data warehouse.
+Mattel - Designed and marketed proof of concept for an Internet marketing solution.
+Solution included leading edge integration between Epiphany and Annuncio products.Royal Alliance Associates - Developed a fully integrated front office/back office new accounts system.
+System took information from representative's desktop, loaded it into the back office new accounts system, performed compliance tests,
+interfaced to Royal's clearing vendor and supported customer support for representatives and clients.
+Senior Project Manager
+ 
+, 
+03/1992
+ 
+to 
+03/1997
+ 
+Company Name
+Major Projects Rearchitect of Altris' product suite Implemented Customer Support Desk, introduction and implementation of Project
+Management 
+processes.
+Arco Alaska - Managed the implementation of a custom engineering drawing change solution, which reduced engineering change cycle time.
+Bell Helicopter - Managed a project to implement capture of high volumes of purchase orders and supporting documents for later access
+and distribution across Bell's vast campus and off site offices.
+MCA/Universal - Managed the implementation of a solution to load and track contracts for MCA's clients and vendors (actors, etc).
+System required a custom implementation of a full text search engine integrated with the Altris document management technology.
+Caterpillar - Managed the implementation of a distributed database imaging solution that provided drawings to the shop floor at several
+major utilities.
+Created and developed multiple system delivery organizations: A quality assurance group; Test and development labs; Engineering product
+release group; Product packaging group; Installation teams; Training centers; Customer support.
+Led several process re-engineering efforts that combined with the individual group's focus to substantially improve overall customer
+satisfaction.
+Implemented several new project management concepts in the IT industry.
+Developed and taught project management classes and have acted as mentor to over 100 project managers in the last 15 years.
+Ventura County Sheriff's Department.
+Graduated in 2009 with the honors of Class President, Top Academic Award and Top Cadet award for Leadership.
+Education
+MBA
+ 
+Pepperdine University
+BS
+ 
+:
+ 
+Biology Computer Science
+ 
+Loyola Marymount University
+ 
+Biology Computer Science
+Numerous classes in Project Management and virtually all facets of IT Systems
+Skills
+Academic, Active Directory, ADP, apple, Architect, Agency, B2B, Behavioral Health, billing, Book, BroadVision, CAD, Case Management,
+Cisco, concept, contracts, Ventura, CRM, clients, customer satisfaction, Customer Support, data collection, data warehouse, databases,
+database, Decision Support, delivery, document management, edge, estimating, focus, front office, drawing, imaging, Insurance, Internet
+marketing, ITIL, Law Enforcement, Leadership, leadership skills, mentor, mentoring, access, Office, MS Project, Microwave, Enterprise,
+network, new construction, packaging, PACS, patient care, PeopleSoft, Permitting, presentations, process re-engineering, processes, Project
+Management, Project Leadership, Proposal, Public Health, Public Safety, quality assurance, real-time, reporting, requirements definition, RMS,
+routers, SAP, scheduling, SQL, supervision, switches, Tax, Telecommunications, telephone, phones, training materials, upgrades, upgrade, utilities,
+VoIP, Warrants, web development, workflow

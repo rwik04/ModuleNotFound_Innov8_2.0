@@ -1,0 +1,128 @@
+INFORMATION TECHNOLOGY MANAGER
+Experience
+Information Technology Manager
+ 
+April 2007
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Annual budget planning for department, network administration, implementation of new technology, developed company applications, daily
+backups and technical support for 80 users.
+Administration of security firewall, spam firewall and web filter.
+VLAN's and VPN setup and administration.
+Windows Server 2008 R2 administration, Microsoft Active Directory administration with 100 PCs on Windows 7 and Windows XP.
+Microsoft DFS, DHCP, DNS and WSUS Services administration.
+FTP server implementation and administration.
+Microsoft Exchange Server 2010 Administration, creation of new users, distribution groups and daily backup.
+Servers and desktop backup with Symantec BackupExec 2012.
+Administration, maintenance and daily backup for Sybase SQL Anywhere 11.0 databases.
+Administration of Mac editing rooms on OS X 10.8 - 10.9 with SAN storage (Apple XSAN 30 TB Array administration on Promise
+VTrak Ex10 Series).
+Software installation and setup for editing rooms with Final Cut, Adobe Products, Cinema 4D etc; Hardware installation and configuration
+for video capture with Aja, Kona and Black Magic video capture devices.
+iNews (News Room Management System), Wide Orbit (Traffic, Sales and Revenue Software).
+Knowledge of Florical Systems (Software for Television Automation), Omneon video server, Streambox (Mobile Broadcast Streaming
+Video) and some Miranda products.
+Responsible for research, quote, acquisition and configuration of all new network technology in the company.
+Repair, installation and updates of Software and Hardware for PCs and Mac Computers.
+Information Technology Manager
+ 
+July 2001
+ 
+to 
+March 2007
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Develop, maintain and support in-house applications.
+Responsibilities include software licensing, updating operating system for desktop computers and servers and technical support for 25 users.
+Supervised two employees for the department.
+In 2004 developed a program to track inventory of all hardware being distributed to 300 branch offices as well as a user manual for the in
+house application detailing procedures and processes.
+Network Administration for a LAN with 30 desktop PCs and 5 Windows 2003 Standard Edition, Active Directory Service, DHCP and
+DNS Server administration.
+Implementation of FTP Server for large file transfer.
+Implementation of Distributed File System (DFS) to share files in each department.
+Microsoft Exchange Server 2003 Administration, creation of new users, groups and policy groups, daily backup.
+Installation and maintenance of Certification Authority in Windows Server 2003 for web application.
+Administration, maintenance and daily backup for a database Sybase SQL Anywhere 9.0.
+Maintenance and Creation of desktop applications (Power Builder 6.5, Power Builder 9.0).
+Technical support for 300 branch offices.
+New installation and updates of Software and Hardware.
+Information Systems Administrator
+ 
+January 2001
+ 
+to 
+July 2001
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Technical support for 10 network users and 100 branch offices.
+Implemented Terminal Service to be able to connect to five new branches in Colombia.
+Daily backup for Sybase SQL Anywhere 7.0 Database, Microsoft SQL Server 2000 Database, QuickBooks Pro Database and in house
+program.
+Network Administration, implementation of FTP service for 100 branches connections, creation of uses and security access.
+Windows 2000 Server Administration, Active Directory Service administration and maintenance.
+Microsoft SQL Server 2000 administration.
+Technical Support for branch offices.
+Installation and updates of Software and Hardware.
+Education
+BS
+ 
+: 
+Computer System Engineer
+ 
+, 
+January 29 2000
+ 
+Fundacion Universidad Autonoma de Colombia
+ 
+ï¼​ 
+City
+ 
+, 
+Colombia
+ 
+Computer System
+Engineer
+Computer Technician
+ 
+: 
+April 26 1997
+Certification in LAN Network Administration
+ 
+: 
+January 1997
+ 
+Centro Colombiano de Estudios Profesionales Pontificia Universidad Javeriana
+ 
+ï¼​
+City
+ 
+, 
+Colombia
+Skills
+4D, Active Directory, Adobe Products, Apple, Automation, backup, Broadcast, budget planning, Computer Technician, Hardware installation
+and configuration, Hardware, databases, Database, DHCP, DNS, editing, Final Cut, firewall, FTP, inventory, LAN, Mac, Magic, access,Microsoft Exchange Server, Windows 7, Windows, 2000, Windows XP, Network Administration, network, OS, operating system, Power
+Builder 6.5, Power Builder 9.0, processes, QuickBooks Pro, research, Sales, SAN, Servers, Software installation, Microsoft SQL Server,
+Streaming Video, Sybase SQL Anywhere 7.0, Sybase SQL Anywhere 9.0, Sybase SQL Anywhere, Symantec, Technical support, Television,
+video, VPN, Windows Server, Windows 2000 Server

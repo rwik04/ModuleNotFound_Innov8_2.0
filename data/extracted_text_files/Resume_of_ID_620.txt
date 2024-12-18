@@ -1,0 +1,135 @@
+BUSINESS SYSTEMS ANALYST I
+Qualifications
+TECHNICAL SKILLS: Business Applications: SAP Web Intelligence, Informatica Data Explorer, MS Visio, MS Project, Rational Rose,
+Business Objects Languages: SQL, UML,C, C++ , Core Java , Perl Web Development: HTML, XML, PHP Operating Systems: Windows
+XP/Vista/7, Linux Databases: Netezza, MS SQL Server 2005/2008, Oracle 9i/10g
+Accomplishments
+Organized workshops for SQL Server 2005 during the technical fest at Mumbai University Active member of Student Council of Asian
+Students at University of Maryland. Interface with the client and multi-disciplinary teams within Merkle (Business Intelligence, Information
+Technology, Database and Data Warehouse Developers) to support the solution delivery process
+Work closely with clients to understand their marketing goals, design their marketing databases, facilitate optimum segmentation and provide
+platforms and reports to measure their marketing ROI.
+Involved in designing and rolling out global marketing databases (North America, Europe and Middle East, Latin America) and thus well
+versed with Customer Data Integration and international data hygiene and standardization concepts. Enable the client to generate reports for
+Measuring ROI, effective channels , successful campaigns and optimum segments , trend analysis etc using tools like Business Objects
+Sound understanding of a projects life cycle, from demand generation to understanding the customer requirement and converting it into
+technical specifications and finally implementing the project. Jusitn: - Served as subject matter expert on marketing data and database design
+for European and Asia Pacific regions Involved the support of client requests such as adhoc reporting and campaign execution. Also
+responsible for identifying gaps in deployed functionality and building necessary new functionality alongwith correcting issues with current
+solution -data integration,data hygiene, cleansing CDI -created marketing programs based on client's requirements -supported existing
+solution on daily basis for any data or functionality issues -supervised change requests from development to implementation and performed
+QA on deliverables before handoff to client Automated Warranty Renewal Campaign Solution Project involved warranty based CRM
+marketing solution enabling warranty specific campaign execution and reporting Responsibilities: -Support of the deployed CRM database
+solution for Latin America region of Fortune 500 company focusing on Public and Large enterprises -Executed marketing programs on a
+weekly basis
+Work Experience
+Company Name
+ 
+Business Systems Analyst I
+ 
+09/2014
+ 
+to 
+Current
+Acted as lead BSA on client team to drive consistency and support projects spanning multiple regional databases and support teams
+Primary contact for client, client partners and other stakeholders, managing daily responsibilities associated with delivering multi-channel
+database marketing programs.
+Responsibilities include working with client and other stake holders to understand marketing program objectives and business rules that help
+define the metrics for program measurement
+Partner with the client, client partners and other stakeholders to define campaign audience requirements, program specifications and
+business requirements Project: SMB CRM Marketing Database Solution
+Maintaining global marketing data for advanced targeting and segmentation to drive optimal business results - Gathered and analyzed
+business requirements provided by client to draft detailed project specifications and lead developers through development and QA process
+- Managed primary ownership for creating artifacts like Business Requirement Document and Functional Requirement Documents -
+Performed gap analysis and Root Cause analysis for data issues and functionality and ensured client satisfaction Project: Consumer Global
+Marketing Database Solution
+CRM solution for Latin America region of Fortune 500 High Tech company supporting data integration, marketing program execution,
+reporting and analytics - Led change requests within the cross-functional teams using the defined change management process ensuring
+timely deployment - Analyzed complex client data using Merkle's in-house methodologies and provided recommendations to improve
+marketing programs performance - Created automated processes minimizing the run-time and increased efficiency of database update and
+campaign deliveries Manage overall coordination, status reporting and stability of complex and cross-functional project oriented work
+efforts while continuing to evolve the solution delivery lifecycle to encompass multiple methodologies
+Interacted with development and QA teams to ensure timely delivery of project deliverables while managing project timeline and
+communicating adjustments and issues to program management.
+Responsibilities included creating documentation to detail functional requirements, technical solution design, code review, implementation
+and QA deliverables before handoff to client Project: Dell Financial Services Project is a service provided through Dell that provides credit
+line accounts to Dell customers that qualify. integrated database solution that allows us to use their customer data in Consumer marketing
+campaigns - Led project change requests throughout a full solution lifecycle performing requirements gathering, process documentation, data
+analysis and quality control - Lead solution discovery sessions with client stakeholders as a means to illicit solution requirements -Set up
+data load and automated processing of data extracts on a weekly basis -Responsible for process documentation consisting of Business
+requirements and functional requirements - Source to Target mapping and data dictionary -Designed and implemented email marketing
+campaigns for Canada region as per client's specifications -Created email marketing campaign targeting customers based on credit line
+account information - Reported on campaign attribution, performance, key metrics Interface with the client, marketing vendors, and cross-
+functional teams within Merkle on solution delivery and new project development Perform requirements gathering for change requests and
+maintain all documentation Synthesize complex and sometimes contradictory information into concise, readable, unambiguous written
+requirements at multiple levels of detail Support campaign management process to develop business goals, campaign requirements and
+campaign metrics. Build and maintain client reports relating to data quality and campaign measurement Work with Solution and Account
+Lead to define project scope, level of effort and timeline Work closely with the delivery team (including system software engineers, QA,
+regression test teams, and the product manager) ensure that your clients' solution is created with exceptional quality. - Accountable for
+determining and requesting campaign data elements from creative agencies to build accurate segmentations for targeted educational & publicrelations program deployments Provide input to Project Management regarding schedule, level of effort , project scope Manage client
+communication and expectation setting Lead change requests from initiation to delivery Interface with the client and multi-disciplinary teams
+within Merkle to support the solution delivery process Take direction from Project Management regarding schedule, scope, and cost
+tradeoffs Assist with the delivery of the system into production by designing and supporting the formal client acceptance process, according
+to Merkle's defined standards Accurately document requirements and acceptance criteria for a Merkle Marketing solutions Perform analysis
+of new data for inclusion in a marketing database, and ad-hoc analysis of data in the database to support the requirements process
+Company Name
+ 
+IT Analyst Intern
+ 
+05/2011
+ 
+to 
+12/2011
+ 
+Assisted IT Admin for managing user access rights, user groups and documentation
+upload on MS SharePoint Analyzed business applications to determine if changes or upgrades are required by business users or processes
+Gathered business requirements and converted them into detailed technical and functional specifications Served as a technical liaison between end-
+users & application vendors to obtain solutions for application issues using HEAT ticketing system Tested vendor solutions and newly modified
+systems to ensure they meet client specifications Generate customized reports using Business Intelligence tools to meet user requirements
+Company Name
+ 
+IT Support
+ 
+05/2010
+ 
+to 
+07/2010
+ 
+Used Sys-Aid ticketing software for handling service requests from library staff Responsible for
+troubleshooting and maintenance of hardware and software devices Maintained Local Area Network of UM Libraries and performed Ghosting,
+G-Disking processes
+Education and Training
+MS
+ 
+:
+ 
+Information Management
+ 
+University of Maryland
+ 
+MS in Information Management (Dec 2011) University of Maryland GPA 3.67 /4.0
+Relevant Courses: Database Design, Web Enabled Databases (PHP), Information Architecture, Management of Information and Services, Project
+Performance Measurement, System and Software Requirements
+B.E
+ 
+:
+ 
+Computer Engineering
+ 
+Mumbai University
+ 
+B.E in Computer Engineering (May 2009) Mumbai University First Division Specialties:
+Professional Affiliations
+Active member of Student Council of Asian Students at University of Maryland
+Skills
+Database, Marketing, Systems Analyst, Project Management, Business Requirements, Solutions, Metrics, Qa, Documentation, Accountable For,
+Accounts To, Adjustments, And Account, Basis, Campaign Management, Client Communication, Clients, Consumer Marketing, Credit, Data
+Analysis, Data Quality, Financial Services, Mapping, Marketing Analysis, Marketing Campaign, Marketing Research, Process Documentation,
+Product Manager, Program Management, Public Relations, Quality Control, Requirements Gathering, Topo, Databases, Bsa, Business Systems
+Analysis, Change Management, Crm, Crm Marketing, Customer Relationship Management, Data Integration, Database Marketing, Deployment,
+Gap Analysis, Integration, Integrator, Qa Process, Root Cause Analysis, Satisfaction, Segmentation, Access, Business Intelligence, Functional
+Specifications, Liaison, Microsoft Sharepoint, Ms Sharepoint, Sharepoint, User Access, Writing Functional, C++, Data Warehouse, Front End,
+Front End Design, Front-end, Html, Informatica, Java, Lamp, Lamp Stack, Life Cycle, Linux, Microsoft Project, Ms Project, Ms Sql Server, Ms
+Sql Server 2005, Ms Visio, Mysql, Oracle, Perl, Rational, Rational Rose, Roi, Sap, Sorting, Sql, Sql Server, Sql Server 2005, Subject Matter
+Expert, Technical Specifications, Translated, Uml, Visio, Warranty, Windows Xp, Xml, Ghosting, It Support, Maintenance, Architecture,
+Database Design, Information Architecture, Php, Software Requirements

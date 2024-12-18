@@ -1,0 +1,114 @@
+DESKTOP SUPPORT ENGINEER
+Profile
+Dedicated System Center 2012 Administrator/Desktop Support Engineer with nine plus years in providing effective management and support
+process. Administers and implements Global IT change management to forty cities domestically and 10 cities internationally. 
+Effectively prioritizes
+goals and performs under short deadlines to increase productivity without sacrificing quality. 
+Proficient in the day-to-day Administration of System
+Center Configuration Manager 2012 R2 (SCCM 2012). Provide technical support to staff and customers by responding and following-up on
+internal and external customer support problems.
+Core Qualifications
+Windows 7 Image Deploying via SCCM 2012 R2.
+Windows 7 and Windows Server 2008 R2 Patch Management.
+Application Deploying.
+Task Sequence Development.
+Professional Experience
+Desktop Support Engineer
+ 
+August 2012
+ 
+to 
+Current
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Develop, manage and maintain North Highland PC images, building, testing, manage inventory, PCs platform specifications through the
+utilization of System Center Configuration Manager 2012 R2 (SCCM 2012).
+Critical and Required Software and patch management for Windows 7 and some Windows Server 2008 utilizing SCCM2012 R2.
+Operation System Deployment (OSD) and Application creation within SCCM2012 R2.
+Work directly with the customers in order to ensure a quality solution is delivered and all issues are identified, escalated and resolved in a
+proactive manner.
+Review and optimize workflow, procedures, processes, and systems (call center, ticketing, reporting, and remote access) and tools.
+Administer and manage Exchange mailboxes and distribution lists.
+Assist with the migration and troubleshooting of Microsoft Office 365.
+Coordinates and provides evaluations of proper escalation process for Application and network issues.
+Advanced knowledge in repair and software requirements for Dell and Lenovo devices.
+Designates software install and configurations for over a thousand computer systems globally.
+Troubleshoots hardware and software for desktops for six departments domestically, and three internationally.
+Performs upgrades to operating systems simultaneous logging, tracking, and resolving matters pertaining to network connectivity, printers,
+and software application malfunctions.
+Monitors, tracks and communicates the progress of assigned incidents until its closure.
+Create and update trouble tickets as required by standard procedures.
+Responsible for managing, maintaining and monitoring datacenter, server, network, LAN and WAN.
+Responsibilities also include but not limited to providing 2nd and 3rd level support to internal and external users.
+This involves network and server's problem identification and resolution by proactive response to alarms, reactive response to trouble calls
+and coordination of repair activities with internal and external agencies.
+Possess critical thinking and effective troubleshooting skills with ability to quickly and accurately determine the source of a problem, identify
+possible solutions, select the most appropriate solution, and implement the solution in a timely manner.
+Information Technology Technician
+ 
+January 2011
+ 
+to 
+January 2012
+ 
+Company Name
+ 
+ï¼​ 
+State
+Disassembled, troubleshot, and repaired the following PC hardware: 
+Motherboards, processor, hard drive, floppy drive, CD drive, power
+supply, IDE Cables, SATA Cables, fans, NICs, Video cards, sound cards, memory, keyboards, mouse, monitors, speakers.
+Upgraded more than 100 computers with new Operating Systems (Windows 7).
+Configured Computer Images for future deploy utilizing Windows Deployment Services (WDS), configured servers with new Operating
+Systems (Windows Server 2008) and Hard Drive Devices Configured Email and Internet connectivity for end users.
+Created users in Active Directory.
+Aviation Ordinance Supervisor
+ 
+January 1997
+ 
+to 
+January 2009
+ 
+Company Name
+ 
+ï¼​ 
+State
+Supervised over 130 Navy personnel in the buildup, storage, and movement of Navy ammunitions Inspected, maintained and repaired
+aircraft mechanical and electrical armament/ordnance systems Supervised operation of aviation ordnance shops, armories and stowage
+facilities Managed accounting systems, rework of airborne weapons/systems/equipment, and conventional weapons qualification/certification
+programs, afloat and ashore.
+Performed requisition of, received, inspected, stored and issued ammunition; made reports for excesses, shortage or damages; conducted
+inventories; reconciled and posted discrepancies; prepared and maintained Ammunition Transaction Reports or Transaction Item Reports as
+required; inspected compliance with directives and applicable to Notice of Ammunition Reclassification Coordinated and expedited the flow
+of work and materials within or between departments of an establishment according to production schedule.
+Duties included reviewing and distributing production, work, and shipment schedules; conferred with department supervisors to determine
+progress of work and completion dates; and compiled reports on progress of work, inventory levels, costs, and production problems.Supervised the inventory and accountability of Navy Assets.
+Education
+Bachelor of Computer Science
+ 
+: 
+Network Security
+ 
+ECPI University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Network Security
+Certifications
+Microsoft Cerified Profesional
+Skills
+accounting systems, Active Directory, Cables, CD, change management, hardware, critical thinking, Client, Customer Service, customer support,
+Dell, desktops, Email, Hard Drive, IDE, Internet connectivity, inventory, LAN, managing, materials, mechanical, memory, access, Exchange,
+Exchange Server, Microsoft Office, Windows 7, Windows, migration, weapons, Monitors, Motherboards, Navy, Networking I, Network, NICs,
+Operating Systems, PC hardware, personnel, power supply, printers, processes, progress, quality, reporting, Routers, servers, sound cards,
+Switches, technical support, troubleshooting, upgrades, Video cards, WAN, workflow

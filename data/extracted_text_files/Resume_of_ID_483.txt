@@ -1,0 +1,171 @@
+INFORMATION TECHNOLOGY SPECIALIST
+Professional Summary
+Experienced network professional with outstanding success rate at installing and supporting critical, multi-site networks. 
+Proven ability to manage
+all phases of network installation and administration. 
+Adept at analyzing business requirements and crafting technical network solutions. 
+Possess
+excellent written and verbal communication skills and knowledge of the latest advances in technology. Network Administrator talented at resolving
+highly technical issues efficiently to maintain uptime and increase productivity levels.
+Skills
+Remote access support
+Systems analysis
+Preventative maintenance expert
+Data backup and recovery systems
+Wireless Access Point
+Performance testing
+User account creation
+Superb interpersonal skills
+Antivirus and spam blocking
+VPN configurations
+LAN and WAN expertise
+Work History
+Information Technology Specialist
+ 
+, 
+08/2012
+ 
+to 
+Current
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Provides outstanding support to mission partners and other customers.
+Responds to customer calls and touch labor requests.
+Ensures the confidentiality, integrity, and availability of systems and data available on the LAN.
+Troubleshoots hardware and software components and manages the testing, installation and configuration of software.
+Performs daily security inspections of entire DECC facility to include all secured and controlled areas.
+Identifies and mitigates all security vulnerabilities and coordinates with Security manager.
+Coordinates with, and escorts all DECC visitors in secure areas and ensures only authorized personnel and equipment are permitted in
+controlled/ secure areas.
+Enclave LAN administrator for DECC Warner Robins.
+Ensures all administrative LAN and automated data processing equipment used by personnel is maintained and fully operational.
+Plans and coordinates the installation of new software and network infrastructure equipment.
+Monitors network performance and performs diagnostics to identify and resolve connectivity issues.
+Appointed alternate Ticket Manager.
+Assigns and track incident status.
+Ensure all incidents are being worked and are completed within the allotted time.
+Escalates and forward all incidents for further evaluation if needed.
+Implemented and coordinated a complete technology refresh of DECC ADPE.
+Ensuring all staff was properly equipped to support the DECC mission.
+Spearheaded the DECC's migration from the Admin Enclave network over to the DISANet network with minimal impact to DECC
+personnel.
+Provides outstanding support to mission partners and other customers.
+Develops plans and designs for network modifications and enhancements Interfaces with vendors to ensure appropriate resolution during
+network outages or periods of reduced performance.
+Troubleshot and maintained all networking devices and infrastructure across the enterprise including switches, routers and firewalls.
+Troubleshot and maintained all networking devices and infrastructure across the enterprise including switches, routers and firewalls.
+Documented all server and network problems and other unusual events in detail.
+Upgraded and expanded network systems and their components.
+Computer Systems Administrator
+ 
+, 
+12/2007
+ 
+to 
+08/2012
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Deploys computer systems and other hardware throughout the base.
+Performs new and replacement desktop and laptop imaging for users.
+Troubleshoot and correct local desktop firewall issues, and antivirus updating issues.
+Performs upgrades, installation of software and drivers, and essential desktop troubleshooting.
+Team lead on deployment of over 150 SIPRNET workstations.
+Tasked primary administrator for all SIPRNET support in zone.
+Performed security scans on classified systems and collaborated with the Information Assurance team to mitigate vulnerabilities and
+breaches.
+Install and configure hardware/software to meet end-user needs.
+POC for all installs and upgrades of the Cargo Management Operations System.
+Provide desktop support and uses various utilities to trouble-shoot, repair, and check configuration of desktops.
+Install and configure network and pc attached printers to include Brother, Hewlett-Packard and Xerox multifunction printers.
+Troubleshoot/Diagnose end-user network connectivity and bandwidth issues, and DHCP scope issues.
+Diagnose and correct workstation performance issues.
+Maintain network and computer system security and ensure that all systems are operating correctly.Imaged and deployed over 300 laptop and desktops for customers throughout Robins AFB.
+Restored data, operating systems, files, documents and drivers.
+Information Assurance/Network Security
+ 
+, 
+01/2006
+ 
+to 
+12/2007
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+In-depth experience in multiple environments developing, implementing, and maintaining secure networks.
+Duties ranged from installing and maintaining workstations to managing base boundary exception system.
+Distributed, monitored, and maintained Time Compliance Network Orders, threat bulletins, and advisories generated by the AF Computer
+Emergency Response Team.
+Responsibilities/Accomplishments
+Helpdesk Technician
+ 
+, 
+05/2004
+ 
+to 
+01/2006
+ 
+Company Name
+ 
+â€“ 
+City
+ 
+, 
+State
+ 
+Responsibilities included working with end users to resolve issues relating to Operating System issues (Win9x, NT, and Win 2000),
+Network Connectivity, TCP/IP configuration, upgrades, MS Office products and Internet connectivity.
+Responded to customer issues, provided technical support, and monitored Network Control Center system supporting 25,000 customers.
+Created/maintained user accounts, email boxes, distribution lists, and access permissions.
+Installed programs, performed upgrades, and applied security patches as necessary.
+Isolated faults and degradations to determine cause.
+Maintained security and integrity of secure domains from unauthorized access.
+Education
+Bachelor of Science
+ 
+: 
+Computer Information Systems
+ 
+, 
+2002
+ 
+Jacksonville University
+ 
+- 
+City
+ 
+, 
+State
+ 
+Computer Information Systems
+Certifications
+CompTIA A+ CompTIA Security+ STI Certified Help Desk Professional
+Skills
+A+, Active Directory, administrative, antivirus, C, Client and Server, Compaq, Hardware, Client, data processing, Dell servers, desktops, DHCP,
+documentation, drivers, email, firewall, Ghost, Help Desk, Hewlett-Packard, IBM, imaging, Information Systems, Internet connectivity, LAN,
+Team lead, managing, McAfee, access, Microsoft Exchange, MS Office products, Microsoft Office Suite, Windows 7, Win9, Windows 2000,
+2000, Win 2000, Windows 95, 98, NT, Windows NT, migration, Monitors, Enterprise, network administration, network security, Network,
+Networking, networks, Norton Antivirus, operating systems, Operating System, peripherals, personnel, policies, printers, Various printers,
+processes, risk management, routers, switches, Symantec, TCP/IP, technical support, desktop support, Troubleshoot, trouble-shoot,
+troubleshooting, upgrades, Utilities, Vista
+Additional Information
+Security Clearance TSCI - Top Secret Security Clearance

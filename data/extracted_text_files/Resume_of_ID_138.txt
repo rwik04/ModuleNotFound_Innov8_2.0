@@ -1,0 +1,148 @@
+INTERNSHIP
+Professional Overview
+experiences collecting and analyzing data with statistical methods, familiar with R and SAS programing, great knowledge of experiment design,
+sampling techniques and documents management. strong skills in communication, group-working and work-planning.
+Core Qualifications
+Strong knowledge of SAS, R and SSPS programming
+Excellent research skills
+Microsoft Word, Excel, PowerPoint
+Excellent quantitative skills
+Team leadership
+Organizational planning
+Leadership/communication skills
+Customer-oriented
+Education
+University of Missouri
+ 
+2015
+ 
+Master of Science
+ 
+: 
+Statistics
+ 
+City
+ 
+, 
+State
+ 
+, 
+The United States
+President of Chinese students' and scholars' association
+3.7 GPA
+Coursework in practical statistical models, data analysis 1, 2, 3, statistical software and data analysis, introduction of probability theory, statistical
+inference, time series analysis, survival analysis, experimental design, current development in statistics.
+SAS advanced license
+Thesis/Dissertation
+Projects:
+A.
+Time: from 2014 January to 2014 Match
+Title: the relationship between the mathematical grade of the seventh grade and grades from primary school.
+Brief process: use linear model to fit transformed variables from the data after getting rid of useless columns, choose the most significant variables
+to form the final model based on persuasive diagnostic values.
+Achievements from the project:the mathematical grade of the seventh grade is significantly influenced by the reading, counting and logistic ability at
+the first and second grade in the primary school.
+B.
+Time: from 2014 May to 2014 August
+Title:bike rental prediction
+Brief process: construct the regression model use different statistical method, find the most powerful model decided by finding the least error rate,
+and decide which variables significantly enough to build the model.
+Achievements from the project: use Lasso to make the regression, it gives the least error rate and use the almost original data set, it saves a lot of
+time to deal with the original data set.
+C.
+Time:from 2014 September to October
+Title: Classify Song Release Period
+Brief process: construct the classification model to classify a specific song into the year before or after the year 1986 based on 90 attributes of a
+single song and 6480 songs.
+Achievements from the project: use the Multivariate adaptive regression splines to build the model and based on the final classification model, we
+can conclude that if the song is from before or after on 1986 depends mostly on the artists who create them, secondly on properties they tagged by
+famous music website and finally on properties of their track.
+D.
+Time: from 2014 November to 2014 December
+Title: predict the lightening strikes in July based on the records from January to June.Brief process: first cluster the original data based on the lightening strike records and the moisture records with the method of K-mean and
+Hierarchical method. Second use different statistical method like Boosting, Random Forest, Ridge, Lasso, NNET, CART, SVM to find the best
+model to predict the strikes will happen.
+Achievements from the project: we use the K-mean clustering method and based on the moisture data to form the cluster and use the neural
+network is a better way for our prediction to get a smaller MSE, and lightning strike have direct relationship with the soil moisture level and the
+climate indices.
+E.
+Time: from 2014 November to 2014 December
+Title: predict the daily stock price of Netflix Inc. Based on historical daily price records.
+Brief process: use GARCH model to fit the transformed data and finally choose the GARCH plus ARMAR model to make the forecasting.
+Achievements from the project: from the model we can find that there is a up trend in the future about this stock and this is a appropriate time to
+buy this piece of stock.
+Experience
+Company Name
+ 
+May 2014
+ 
+to 
+August 2014
+ 
+internship
+ 
+City
+ 
+, 
+State
+Main tasks of this job:
+ Â 
+1.Collect, enter and analyze stock prices: collect useful data and enter them into the database in a correct classification way, use statistical methods
+to analyze them based on R programming.
+2.Predict the future trend of different stocks and divide them into different category: use time series methods to predict the trend
+3.Write summary report: use statistical methods to analyze data with R and write the performance evaluation report based on quantitative facts.
+4.Customer service: answer the phone call and solve customers' problems and do the reception job at the front table. Also offer the instruction
+about stocks and how to choose them to new clients.
+5.design the questionnaire and the get the feedback
+Company Name
+ 
+May 2013
+ 
+to 
+August 2013
+ 
+internship
+ 
+City
+ 
+, 
+State
+Main tasks about the job:
+ Â 
+1.data collection and entering: collect financial data and classify them into the correct table and items.
+2.Write summary report: use statistical methods to analyze data with R and write the performance evaluation report based on quantitative facts.
+3.Customer service: answer the phone call and solve customers' problems and do the reception job at the front table.
+4.inventory control: keep record of the number of materials and keep track of the way they out and in.
+5.arrangement the business trip: book the hotel, arrange the schedules for each day, keep track of the budget of the business trip.
+Company Name
+ 
+November 2012
+ 
+to 
+March 2013
+ 
+internship
+ 
+City
+ 
+, 
+State
+Main tasks about the job:
+ Â 
+1.data collection and entering: collect financial data and classify them into the correct table and items.
+2.Write summary report: use statistical methods to analyze data with R and write the performance evaluation report based on quantitative facts.
+3.Customer service: answer the phone call and solve customers' problems and do the reception job at the front table.
+4.Meeting preparation: prepare documents need in the meeting, make sure all the participants can come, prepare PowerPoint slides and arrange
+the meeting room.
+5.Introduce production to customers: introduce financial products which the most suitable to the client and persuade them to buy.
+Fellowships and Awards
+1.merit of certificate award for excellent grade which is top 10%Time: the spring semester of 2014
+2.merit of certificate award for excellent performance in the position of the leader of executive department of the Chinese students and scholars
+association in the university of Missouri.
+Time: the Fall semester of 2014
+3.merit of certificate award for excellent performance in the position of vice president of the Chinese students and scholars association in the
+university of Missouri.
+time: the Fall semester of 2014-2015
+4.Merit of certificate award for excellent performance in the position of president of the Chinese students and scholars association in the university
+of Missouri.
+time: the spring semester of 2015

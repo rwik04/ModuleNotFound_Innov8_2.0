@@ -1,0 +1,162 @@
+SOFTWARE ENGINEER
+Qualifications
+C# 3.0, PL/SQL, JavaScript, HTML 4, CSS 2 
+Framework: .NET 3.5 
+Database: SQL Server 2008, Oracle 9i 
+Operating systems: Windows
+98/XP, Windows server 2000/2005, UNIX 
+Tools/Services: TOAD, HP Service Manager, WinSCP, PuTTY, PM Smart, vi text editor, Visual
+SourceSafe and BusinessObjects XI 3.1 Universe Designer, Desktop Intelligence, Central 
+Management Console 
+Domain: Banking
+Work Experience
+Software Engineer
+ 
+July 2010
+ 
+to 
+March 2014
+ 
+Company Name
+3 years and 9 months 
+of experience in the development, support and enhancement of web and 
+windows applications and in the
+implementation of cost effective valueadds 
+Designed and developed webbased tools in 
+ASP .NET 3.5, 
+using the programming and 
+C#
+PL/SQL 
+procedural languages namely 
+and 
+Enhanced EBusiness applications and managed technological issues by analyzing codes and
+providing customizable solutions using SQL and 
+Business Objects XI 3.1 tools 
+Awarded for outstanding performance and ontime delivery
+of projects and as a result helped 
+the team achieve 100% customer satisfaction ( 
+CSAT score 7/7 
+) 
+Theoretical knowledge on the basics of
+Windows Presentation Foundation/Extensible 
+Application Markup Language of .NET Framework 3.5 and AngularJS 
+Basic understanding
+of the strategies involved in moving applications to Cloud, in Microsoft's 
+Windows Azure.
+Manager
+ 
+January 2013
+ 
+to 
+March 2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+1.
+Statement of Work (SOW) Tracker 
+: Webbased tool developed for use by LBG and partners 
+of LBG (e.g HCL) 
+a.
+The tool lets the user create, modify, generate Statement of Work (SOW), online.
+b.
+Project details like team size, team structure and work description are also captured 
+separately for use by managers.
+c.
+Report generation functionality is enabled for privileged users accessing the tool.
+2.
+Service Level Agreement (SLA) Tracker 
+: Online tool for use by IT vendors and LBG for 
+tracking Service Level Agreement (SLA) of all
+projects and generating customized reports.
+a.
+Data captured using this tool can be used by service providers and service users to 
+measure performance of projects.
+b.
+Data are captured for all Service lines Development, Testing and Support 
+c.
+Functionalities have been added to the system to integrate it to HP Service Developed the web based tools using C#, PL/SQL, HTML,
+AJAX Extensions and CSS in 
+Microsoft Visual Studio IDE and SQL Server 
+Source control maintenance done using source control
+package called Visual SourceSafe 
+Hosted application in IIS 7.0 of a dedicated machine 
+Technology/Languages used: ASP.NET 3.5, C#,
+PL/SQL, HTML, JavaScript, CSS 
+Tools used: SQL Server 2008, Visual studio IDE, Visual SourceSafe.
+July 2010
+ 
+to 
+December 2012
+ 
+Company Name
+ 
+ï¼​ 
+City
+Web application in the EBusiness platform used to diarize appointment details 
+between LBG IT personnel and customers 
+2.
+Business Eye 
+: Online EBusiness application used in collecting, consolidating and reporting 
+LBG sales data.
+3.
+TRACX 
+: Online EBusiness application used by LBG employees for recording training and 
+competency information undertaken by their
+colleagues 
+Responsibilities 
+Involved in technical support which included resolving application issues, using the helpdesk 
+software 
+Fixed
+minor backend code issues using SQL, in the form of Change Records 
+Assisted in data analysis, extraction and archival in Oracle database
+according to customers' 
+needs 
+Monitored Application Servers hosted in Central Management Console of Business Objects 
+Enterprise
+Produced reports upon adhoc requests and archived data on a scheduled basis using the 
+Business Objects XI3.1 tools namely Desktop
+Intelligence and Universe Designer 
+Created SQL Server Agent jobs to monitor application's stability on a daily basis 
+Worked on correction
+of erroneous data feeds using basic UNIX Commands in PuTTY 
+Value addition 
+Altered the table structure of the database of TRACX to
+match the input data feed format 
+Assisted in the decommission of Business Eye by creating and implementing methods to 
+archive data from
+its database 
+Technology/Languages used: ASP.NET 2.0, PL/SQL, HTML 
+Tools used: TOAD, HP Service Manager, WinSCP, PuTTY,
+BusinessObjects XI3.1 
+Universe 
+Designer, Desktop Intelligence, Central Management Console, PM Smart, vi text editor.
+Education and Training
+Degree 
+Bachelor of Engineering 
+College 
+Easwari Engineering College 
+Discipline Â​ 
+Electronics/Communication 
+Year of Graduation 
+Â​ 2010
+Training and Certifications 
+Course 
+Period 
+Institution 
+ITIL Â​ ASM Basic 
+Oct 2011 
+RTB Business Academy 
+Windows and Web Application 
+Jan
+2010 
+NIIT Ltd 
+Development using .Net Framework
+Skills
+.NET 3.5, .NET, ASP .NET 3.5, ASP.NET 2.0, ASP.NET 3.5, AJAX, ASM, Banking, Basic, Business Objects, c, CSS, CSS 2, customer
+satisfaction, data analysis, Database, delivery, EBusiness, editor, Electronics, HP, HTML 4, HTML, IDE, IIS 7.0, ITIL, JavaScript, C#, C# 3.0,
+Windows, windows applications, 2000, 3.1, Windows 98, Enterprise, Oct, Operating systems, Oracle 9, Oracle database, PL/SQL, personnel,
+programming, recording, reporting, sales, Servers, Service Level Agreement, SLA, Visual SourceSafe, Visual 
+SourceSafe, SQL, SQL Server,
+technical support, TOAD, UNIX, vi, Microsoft Visual Studio, Visual studio, Windows server

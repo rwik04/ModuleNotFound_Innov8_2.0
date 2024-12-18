@@ -1,0 +1,150 @@
+DIRECTOR OF INFORMATION TECHNOLOGY
+Career Overview
+Seeking a position as a Director of I.T. in a company where I am able to utilize my experience and training in networking, troubleshooting, and
+customer relations.
+Qualifications
+Networking - Nexus 7K, UCS, UCCX, Cisco Call Manager, Cisco Unity, Cisco Attendant Console, Cisco Jabber, Cisco ASA, Cisco
+ISE, Cisco ACS, Cisco Voip, Cisco Routers, Cisco Switches, Cisco Wireless Controllers, Cisco Wireless Access Points, Cisco
+IronPort, Juniper Firewall,
+Operating Systems - Windows Server 2003/2008/2012, SCO Unix, SUSE Linux, Windows XP/Vista/7/10, Cisco IOS
+Hardware - Dell PowerEdge servers, IBM Bladecenter, Dell/HP/Lenovo PC & Laptops, Cisco/Juniper/Fortinet switches,
+Barracuda/Juniper Spam & Web firewall, POS, Label Printers, Barcode Scanners, RF Scanners
+Software - MAS90, Office 2007/2010/2013/2016, VMware, Groupwise, Exchange 2007, Aldon, Remedy, Putty, SecureCRT, VNC,
+WireShark, Snorby, SolarWinds Orion, SQL Database, Epicor (ERP),
+Security - Nexpose (Rapid7), Snort, Snorby, Symantec, Trustwave, PCI Compliance
+ CISCO Certified Network Associate (CCNA)
+Work Experience
+01/2015
+ 
+to 
+Current
+Director of Information Technology
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Serves as the main point of contact on all I.T.
+related matters.
+Located at the corporate headquarters supporting over 60 users locally and 150 users remotely.
+Worked with service providers and vendors cutting IT budget over 45%.
+Implemented new MPLS network and Phone system saving the company 180k a year.
+Oversees all IT financials.
+Established an IT Governance department to focus on managing systems quality assurance, PCI security, and audit change management, IT
+purchasing and administration, IT contracts and vendor management, and IT financial capital and expense management.
+Identifying and providing standards for gathering information for use in trend analysis and reporting information to company leaders.
+01/2013
+ 
+to 
+01/2015
+Network Engineer/I.T. Manager
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Supervised and led IT infrastructure team (including Help Desk).
+Worked with service providers and vendors cutting IT budget over 15%.
+Managed and designed IT security solutions and policies for all locations.
+Oversaw data center operations being hands on in all areas related to infrastructure and security.
+Located at corporate headquarters supporting over 200 users locally and 1500 users remotely.
+Manage local/wide area networks for optimal data and VoIP connectivity to over 300 sites including 3 warehouses, 1 corp office and 1 co-
+location.
+Served as lead network engineer in network (WAN, LAN, VoIP) problems and emergencies.
+Troubleshoot and resolve network production problems.
+Document network problems and resolutions for future reference.
+Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current
+system.
+Manage/troubleshoot Cisco UC systems including third party integration and mobile chat/video clients.
+Worked as lead network engineer with system administrators in setup of hardware/software networking modules for production and
+development environments.
+Maintained/optimized Cisco ASA/IDS/ISE/ACS/Nexus 7K/UCCX/Cisco Call Manager/Cisco Unity/Cisco Attendant Console/Cisco
+Jabber/Cisco Contact Center Express/Cisco Prime/WCS to ensure network stability and maximum uptime.
+Establishes network specifications by conferring with users; analyzing workflow, access, information and security requirements, designing
+router and firewall administration, interface configurations and routing protocols.
+Ensured interoperability between vendor specific hardware/applications for network access/usage.
+VPN/SSL VPN).
+01/2010
+ 
+to 
+01/2013
+Network Administrator/Help Desk Manager
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Served as technical specialist in network problems and emergencies.
+Troubleshoot and resolve network production problems.
+Conduct technical research on network upgrades and components to determine feasibility, cost, time required and compatibility with current
+system.
+Document network problems and resolutions for future reference.
+Manage local/wide area networks for optimal data and VoIP connectivity to over 300 sites including 3 warehouses, 1 corp office and 1 co-
+location.
+Administers/troubleshoot Cisco UC systems including third party integration and mobile chat/video clients.
+Provide data and reporting of KPI's and trends to IT department and others in ad-hoc, weekly, monthly and as needed.Coordinates with system engineers in setup of hardware/software networking modules for production and development environments.
+Ensures interoperability between vendor specific hardware/applications for network access/usage.
+VPN/SSL VPN).
+Assisted in the deployment of Nexus 7.
+01/2010
+Help Desk Analyst
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Provided help desk support for over 7,000 Taco Bell stores.
+Troubleshoot all issues dealing with the P.O.S., TACO computer, and all the connections in the store.
+Log all calls in Remedy(software), follow up on all calls that weren't resolved, and we 
+used Putty(software) to access the back end of their
+computer.
+01/2009
+Help Desk Support/IT Technician/Network Admin
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Provided first level help desk IT support in a 300 user environment spanning over 15 remote sites.
+Troubleshoot hardware, software and connectivity issues for a mixed Windows 2003/2008 Server, mixed Linux , XP desktop environment,
+Cisco routers, and Cisco Switches.
+Installed, repaired, maintained and upgraded desktop/notebook computers; pre-configured cisco routers, cisco switches, network printers
+and troubleshoot printer failures.
+Web filter administrator/Barracuda.
+Education and Training
+B.S
+ 
+: 
+Computer Networking Systems
+ 
+ITT Technical Institute
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+Computer Networking Systems
+Skills
+ad, budget, change management, Cisco IOS, Cisco, Cisco Routers, Hardware, contracts, clients, Database, Dell, Dell PowerEdge servers,
+designing, ERP, financials, financial, Firewall, focus, Groupwise, help desk support, Help Desk, HP, IBM, IDS, IT support, LAN, Laptops,
+notebook computers, Linux, managing, MAS90, Access, Exchange, Office, Windows, Windows XP, network engineer, network printers,
+network, Networking, networks, Operating Systems, PCI, Phone system, policies, POS, Prime, printer, Printers, protocols, purchasing, quality
+assurance, Express, reporting, research, router, routing, Scanners, SCO Unix, SQL, SSL, switches, Cisco Switches, Symantec, trend,
+Troubleshoot, upgrades, vendor management, video, VPN, Vista, VoIP, WAN, Windows Server, workflow

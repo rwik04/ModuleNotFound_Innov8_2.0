@@ -1,0 +1,219 @@
+SYSTEM ADMINISTRATOR
+Experience
+03/2009
+ 
+Company Name
+21674 SKSIT Security and the Wireless Environment 
+11/05/12 18640 SKSIT Securing WLANs 
+10/30/12 27481 SKSIT Building and
+Securing VoIP Networks 
+03/20/12 36542 SKSIT Protecting Windows 7 Against 
+Malware and Vulnerabilities 
+03/13/12 30688 SKSIT
+Physical Security 
+02/03/12 14766 SKSIT FIREWALLS AND VPNS 
+01/23/12 34601 KISAM Service Manager (SM) Overview
+09/27/11 31699 Adding of Assets in KISAM Asset Manager 
+09/26/11 31856 Windows Server 2008 System Administration 
+04/01/11
+28902 STAN - Security Configurations for Windows 2003 Servers 
+01/31/11 28801 "EOps Test Planning Procedures OS, Databases and
+COTS" 
+01/20/11 14763 SKSIT (ANS) ENCRYPTION TECHNOLOGIES 
+04/09/10 23796 SKSIT Intrusion Detection and Response
+in Networked Environments 
+03/22/10 21797 SKSIT Introducing Voice Over IP 
+04/15/09 21674 SKSIT Security and the Wireless
+Environment 
+04/14/09 17090 SKSIT Wireless Communication Basics 
+04/10/09 17623 SKSIT Auditing and Monitoring 
+05/01/08 21597
+SKSIT (ANS) The Fundamentals of Networking 
+04/25/08 18287 SKSIT ITIL: Problem and Change Management 
+04/24/08 18054
+KARTA Introduction to the Certification & Accreditation Process 
+04/12/07 18064 KARTA Information Security Awareness - Beginner
+04/11/07 13085 SKSBS BUILDING RELATIONSHIPS TO GET RESULTS 
+08/03/06 14115 SKSIT INTERNET SECURITY:
+FIREWALL PRINCIPLES 
+08/02/06 14025 SKSIT CISCO ROUTERS, FIREWALLS, AND PERIMETER SECURITY 
+07/31/06
+14780 SKSIT Wireless Security 
+07/31/06 15248 WINDOWS SERVER 2003 ACTIVE DIRECTORY SERVICES 
+04/07/06 17633
+SKSIT Malicious Code 
+03/24/06 18035 KARTA Technical Controls 
+03/23/06 18041 KARTA Risk Management 
+03/22/06 18034
+KARTA Operational Controls 
+03/17/06 18004 KARTA Principles of Operating Systems Security 
+03/17/06 18033 KARTA Management
+Controls 
+03/16/06 17996 KARTA IT Security Awareness - Intermediate 
+03/15/06 18076 KARTA FISMA: Establishing Security Metrics
+03/14/06 18064 KARTA Information Security Awareness - Beginner 
+03/14/06 18060 KARTA Implementing Physical Security 
+03/14/06
+15225 Firewalls and Internet Security 
+12/16/05.
+System Administrator
+ 
+, 
+07/2005
+ 
+to 
+Current
+ 
+Company Name
+Hours per week: 40 + Ogden, UT 84201 
+Series: 2210 Pay Plan: GS Grade: 12 
+Information Technology Computer (This is a federal job)
+Supervisor Peter C Morgan 304-264-5413 
+May Contact Supervisor: Yes As the 12 Computer Systems Administrator the EOps-ECC-
+WSSB-BSS-CIS group, my job function is varied and requires multi-tasking as a standard.
+I have acted as the CIS section supervisor.
+I am a trainer for new employee's coming into the group on details and 4 new permanent employees into the CIS group.
+I am required a basic working understanding of 7 projects and to be able to step in for other SA's at a moment's notice of well over 500
+servers.
+The work involves analyzing customer requirements, developing specifications for new or modified systems, planning and coordinating the
+design, development, testing, installation, and support of new and modified systems, including hardware and software, and serving as the
+primary liaison with customer organizations on all IT-related matters.
+The work may involve developing and presenting training on the operation and maintenance of new systems to the IRS IT staff including IT
+specialists in other specialty areas, to insure that new systems are properly managed.
+The employee may adapt and implement systems diagnostic and maintenance tools to ensure the availability and functionality of systems
+required to support organizational Objectives and evaluate and recommend selection of new systems diagnostic tools.
+This work affects the availability of IRS IT systems needed to meets the mission requirements.
+Regular contacts include employees in the same or related units, employees and managers within IRS and contractors/vendors at several
+levels of the agency (campuses, headquarters or field offices); and individuals or groups from outside the agency, including consultants,
+contractors, vendors, or representatives of professional.
+My main duties are to maintain server's operation, security, and analyze and diagnose system hardware and software components.
+I also write up problem tickets with server's hardware and software and get clearance for vendors to have access to the servers for
+hardware repair as well as scheduling times with local I.R.S.
+personal and vendor to accomplish the repairs.
+I 
+make sure when new server are to be put on the Domain I do all of the appropriate paper work which includes requesting 
+UWR's,
+KISAM asset management to include all of the new servers information from serial numbers, bar code, make, model and location just to
+name few of them.
+I also file out the Server Compliance checklist, software license forms.
+In addition, I image or re-image server with the proper Windows Operating System and software needed to run the server e.g.
+Contact Recording, Contact Analytics, TOS, RTS among other servers.
+I also monitor and respond to KISAM Tickets I also monitor HIDS, Symantec Anti-Virus programs are up to date and operational.
+Insure all Microsoft Windows patches are installed on servers.
+I make sure Altiris is installed and the endpoint is healthy and if not I make the necessary corrections.
+I run Windows Policy Checker to insure the server stays with IRS and Cyber Security Compliance.
+If there are any that is not in compliance, I make the necessary changes to bring them back into compliance.
+I create documents in Word and Power Point in referencing to problems that I have encountered during trouble shooting a situation for
+other's in my group in case they have similar situations or problems and put them in our group shared location on the network for all to read.
+I also have done short training on things that I have encountered or I had more knowledge than others in my group via OSC in sharing on
+my conference calls.
+TPF Operations Server (TOS) I am the main system administrator and my accomplishments that I achieved was to set up a single sign on
+BAG group, single sign on to the IMM, from un-secure 
+IMM Web page to a secure Web page and brought it current with the Big Fix
+patching.
+Installing and maintaining software and hardware, controlling current versions in use and future release of application software, anddocumenting the physical configuration of the system.
+Optimizing the functionality of servers systems using performance tuning tools and techniques.
+Analyze and Diagnosing and recovering failed systems using systems diagnosis tools and fault identification techniques.
+Planning and coordinating the installation of new products or equipment, resolving installation problems, identifying and mitigating security
+vulnerabilities and risks, and maintaining server integrity and availability.
+Initiating corrective or preventive actions, such as increasing disk or memory capacity to improve system performance.
+01/1989
+ 
+to 
+04/2007
+ 
+Company Name
+Hours per week: 40 + Ogden, UT 84201 
+Series:2210 Pay Plan: GS Grade: 
+Information Technology Computer System Administrator (This
+is a federal job) Supervisor Sandy Spiers (801-620-4555) May Contact Supervisor: Yes.
+My responsibilities were to assist public electronic filing programmers by analyzing, diagnosing and making proposals on error in software to
+getting there software to passing the IRS standards for electronic filing.
+I did this by using IRS IRM and thereby have them transmit standard test returns then I would have to print out there transmitted test returns
+and analyses and determine where there programming error's 
+were and call them and 
+communicate to them where the error occurred.
+They would make the correction and it would be accepted as an Electronic Filing Software Program.
+I also work closely with the electronic filing Tax Examiners in assisting the transmitters in problem solving their situation.
+Another responsibility I had was to have all of the data copied to a nine-track tape and processed on the mainframe computer from that
+output then we had to drain the information on to an archival system that allowed the authorized I.R.S 
+employees to access the returns if a
+taxpayer had questions about their returns.
+I also helped my group to maintain our network and desktop computers.
+There were times we would lose connection to the network and we would have to use a network sniffer that would assist us on the type and
+location of the problem that needed to be fixed.
+I also would install updates to the workstations, as they became available to us thru download transmittal.
+Job Related Training:.
+Item Item Description 
+Completion Date.
+Information Technology Specialist
+ 
+, 
+01/2013
+Within my first 7 years I was able to go from a GS 3 Clerk position to the level of Systems Administrator GS -12 I achieved was to set up a
+single sign on BAG group, single sign on to the IMM, from un-secure 
+IMM Web page to a secure Web page and brought it current with the
+Big Fix patching.
+Personal Interests: Riding Motorcycles, Walks, Hiking, riding bicycles, Camping, Spending quality time with family and friends Tracking the
+Stock Market.
+Education
+BS
+ 
+:
+ 
+Sociology and Social Work Psychology
+ 
+,
+ 
+1983
+ 
+Weber State University
+ 
+Sociology and Social Work Psychology My education background
+has provided me with several abilities that has allowed for an easy transition to any job that I
+Cultural Competence and Effective Communication 
+04/06/16 27931 "SKSIT Monitoring, Backups, and Recovery in Windows Server 2008"
+03/02/16 31818 SKSIT Software Updates and Compliance Management in 
+Microsoft Windows Server 2008
+ 
+:
+ 
+02/17/16
+SKSIT Patch Management and Securing and Monitoring Servers in Windows Server 2008 
+12/18/15 36545 SKSBS IT Project Management
+Essentials: Monitoring and Controlling IT Projects 
+12/11/15 36544 SKSBS IT Project Management Essentials: Executing IT Projects 
+12/11/15
+36543 SKSBS IT Project Management Essentials: Initiating and Planning IT Projects 12/11/15 36546 SKSBS IT Project Management
+Essentials: Managing Risks in an IT Project 12/11/15 36541 SKSBS IT Project Management Essentials: Introduction to IT Project Management
+12/10/15 27225 SKSBS Troubleshooting and Closing the Project 
+12/10/15 60476 SKS-LLPKG PM Lite - A Blended Approach 
+12/10/15
+27236 SKSBS Managing a Project 
+12/09/15 27234 SKSBS Transitioning into a Project Management Role 
+11/27/15 27233 SKSBS Project
+Management Fundamentals 
+11/13/15 27235 SKSBS Initiating and Planning a Project 
+11/12/15 31813 SKSIT Windows Server 2008 Backup
+and Recovery 
+11/10/15 31586 SKSIT Setting up and Securing Windows 7 
+01/14/15 57785 PSTR - FISMA Continuous Monitoring - ASCA
+Training 
+01/07/15 43943 SKSIT SSCP Domain: Malicious Code 
+10/16/14 23279 Configuration Management (CM) Overview (CBT) 
+01/07/14
+43161 Change Management Process Overview 
+01/07/14 31813 SKSIT Windows Server 2008 Backup and Recovery 
+12/10/13 53407 SKSIT
+Cisco IINS 2.0: VPN Technologies and Public Key Infrastructure 
+12/06/13 23796 SKSIT Intrusion Detection and Response in Networked
+Environments 
+12/05/13 23464 SKSIT 3G Communication Systems 
+11/23/12
+Skills
+Computers trouble shooting Microsoft Access Microsoft Excel Microsoft PowerPoint Microsoft Word Computer Security Anti Hacking 
+HIDS
+Microsoft Event logging Adobe
+Additional Information
+Awards or recognitions Performance Award August 2013 Performance Award August 2012 Performance Award August 2011
+Performance Award August 2010 Performance Award August 2009 Performance Award August 2008 Special Act award April 2008

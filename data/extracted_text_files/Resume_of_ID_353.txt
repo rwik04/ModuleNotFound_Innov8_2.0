@@ -1,0 +1,134 @@
+DIRECTOR OF INFORMATION TECHNOLOGY
+Profile
+SUMMAR Y Applying technology and workflow solutions to business challenges is exciting for me because I love to learn and apply new lessons
+and approaches to support and enhance the organization to achieve its goals and mission.
+Core Qualifications
+C# 
+Oracle SQL 
+Oracle
+Information Management 
+SQL Server 
+SQL*Plus
+TFS 
+SharePoint 
+SharePoint Designer
+Database Design 
+Database Administration 
+Data Management
+ASP.NET 
+Team Leadership 
+IIS
+PL/SQL 
+ADO.NET 
+Tactical Planning
+Application Development 
+Web Applications 
+IT Strategy
+Microsoft SQL Server 
+Software Development 
+Agile Methodologies
+Requirements Analysis 
+SDLC 
+XML
+Information Technology 
+SQL 
+Software Project Management
+Project Management 
+Analysis 
+Business Intelligence
+Leadership
+Professional Experience
+Director of Information Technology
+ 
+11/2012
+ 
+to 
+08/2015
+ 
+Company Name
+Provided application and network support services for the MSBA.
+The MSBA is a small quasi-public state authority who financially assists school districts in their school building projects.
+My group maintains a rackspace hosted asp.net solution tied to SQL Server.
+I had all the hardware and software refreshed as well as bringing the development group up to sql server, tfs, and VS 2012.
+I personally rewrote their utility and security library from VB.NET to C# and added many more classes to support more static helper
+functions.
+I also developed an architecture based on object modeling for a middle tier.
+I was the the login account administrator for the authority which utilized Santander Banking Services.
+I wore many hats with my team - developer, manager, network administration and help desk.
+I served as the project manager for all current projects and provided business analysis to work out business workflows for my team.
+I recommended Tableau as the authority's visualization business intelligence tool.
+We just started developing the infrastructure around the new business intelligence tool.
+We finished bringing in DSCI for data and phone lines and we are ready to have our phone system hosted in their data center.
+Team Leader
+ 
+05/2005
+ 
+to 
+11/2012
+ 
+Company Name
+Lead clinical and research programming development and application support for applications developed by my group for the
+Cardiovascular Program.
+I had three teams under my leadership.
+I had the CAS and later the EMERIS group and I project managed the effort to replace a number of legacy systems with modern C#
+applications.
+The second group maintained professional and clinical billing for the cardiology department.
+The third group developed and maintained research applications for the cardiology's research department.
+I was the logical Oracle DBA who puts objects into production and I maintained our central job scheduler and placed those jobs into
+production as well.
+Chief Information Officer
+ 
+07/2000
+ 
+to 
+02/2005
+ 
+Company Name
+Provide network, application and help desk support for the largest agency in the Commonwealth of Massachusetts, The Department of
+Mental Retardation.
+The agency is now called the Department of Developmental Services and at that time my network team of 5 managed the the entire state of
+Massachusetts office: 30 field office and 5 state school facilities.
+We upgraded to Zen 5.0 of Novell and remotely managed our desktops.
+We also developed client server model applications and the electronic service delivery model which was hosted in our facility with ITD's
+assistance.
+Our development platform was classic asp with vb.net and the back end was sql server.
+Director of Applications Development
+ 
+02/1996
+ 
+to 
+06/2000
+ 
+Company Name
+Provided application development and support services to the Department of Youth Services.
+I lead the Year 2000.
+project to convert our Natural/Adabas mainframe system to a ASP web based application YSIS.
+I also helped out as a.
+banyan administrator to our Network Administrator.Education
+Master of Business Administration (MBA)
+ 
+: 
+Management Information Systems, General Delta Mu Delta
+ 
+Suffolk University - Sawyer School of
+Management
+ 
+City
+ 
+Management Information Systems, General Delta Mu Delta
+Bachelor of Arts (BA)
+ 
+: 
+Economics
+ 
+GPA: 
+Omicron Delta Epsilon
+ 
+Economics Omicron Delta Epsilon
+Skills
+.NET, asp.net, VB.NET, Adabas, ADO, Agile, Application Development, ASP, agency, Banking, banyan, billing, business analysis, Business
+Intelligence, cardiology, client server, hardware, Data Management, Database Administration, Database Design, delivery, desktops, XML, help
+desk support, help desk, IIS, Information Technology, IT Strategy, Leadership, Team Leadership, mainframe, C#, office, SharePoint, Natural,
+Network Administrator, network administration, network support, network, Novell, object modeling, Oracle, Oracle DBA, developer, PL/SQL,
+Oracle SQL, phone system, programming, Project Management, Requirements Analysis, research, SDLC, Software Development, Microsoft
+SQL Server, SQL, sql server, Tableau, phone, Web Applications, Year 2000

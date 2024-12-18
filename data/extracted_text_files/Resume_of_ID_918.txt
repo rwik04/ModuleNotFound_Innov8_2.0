@@ -1,0 +1,167 @@
+ADJUNCT INSTRUCTOR
+Skill Highlights
+Quality Engineering Process Improvement Acceptance Testing Strategic Planning Organizational Development Requirement Assessment
+Coaching & Mentoring Business Intelligence SDLC People Management Team Building Data Analysis Oracle SQL/MS Access Progress RDB
+Power Point Data Warehousing HP Quality Center MS Test Rational software QA and PM templates MS Word/Excel MS Project Visio
+Clarity Software
+Professional Experience
+Adjunct Instructor
+ 
+January 1999
+ 
+to 
+November 2014
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Planning and Strategy 01/2014 - 11/2014 Oversaw and facilitated development, QA and production of monthly metric dashboard
+packages across AIT that illustrates the organization's collective value and overall contribution for senior level reporting and review.
+Successfully led installation of the 1st service request tool for the Planning and Strategy team automating work order processing. Project
+managed Communication, Quality, Risk and Implementation Management following SDLC, QA and Project Management Life Cycles.
+(AIT) Leadership Development Rotation Program 2012 to 2013 Leadership Development Program rotation across Annuities organizational
+and functional departments, focused on hands-on and real scenario exposure to various executive leadership approaches and styles.
+Delivered Quality and cost effective projects utilizing leadership agility, enhanced ability to read organizations and honed skills in strategy
+execution.
+Project managed design, QA, training and implementation of Resource Capacity Management tool for Annuities Marketing Service group
+20 resources. Created, socialized and implemented project charters, project and communication plans and QA artifacts to Business
+Analyst, Developers and stakeholders.
+Designed and developed the process to collect and track $29M in IT-Sourcing Business Case Multi Year Savings. Piloted and socialized
+data collection process and procedures to obtain five Organizational Units executives sign off without issues. The tool and process enabled
+timely, accurate and effective decision senior leadership decisions for strategic planning.
+Designed and project managed the development, QA strategies and implementation of Portfolio Management Database application leading
+four offshore and two onshore resources in planning, execution & monitoring, and project implementation following established SDLC, QA
+and Project Management Lifecycles best practices. This tool captures and reports progress and status of all Annuities Services active
+projects.
+Led acquisition of two Commercial off the Shelf software for AIT, 50% below whole sale by successful negotiation and package order
+reconfiguration. Vendor Management lead for the enterprise procurement of HP's Requirement Management Tool (RMT) and APPTIO
+(Financial SAAS application) by developing and implementing Request for Proposals (RFPs), Master Service Agreements (MSA) and
+Statement of Work (SOW) in collaboration with Prudential Legal and Business and Senior Stakeholders.
+Developed and successfully implemented project charter and project plans for software customization and implementation of APPTIO by
+using approved PM tools including peer reviews and socialization to project stakeholders. Project charter was used to drive technical
+requirements for collaborative work effort between APPTIO and Prudential Annuities.
+Developed traceability matrices and risk based test strategies for reliable analysis with optimized test coverage and prioritized execution.
+Led QA project deliveries and adherence to all Annuities Quality Assurance standards and procedure. Led test efforts on project initiatives,
+working closely with project stakeholders to ensure high Quality deliverables to Annuities Technology Business Partners.
+Collaborated and negotiated development of QA testing infrastructure for Information Management and Business Intelligence (IMBI) QA
+cluster through research, development and incorporation of Business Intelligence Testing Methodology and established QA guidelines for
+Data Warehouse, Data Marts, and ETL (Extract, Transform and Load) projects in line with industry practices. Socialized new IMBI QA
+methodology to business clients and AIT's analysis and development teams. This process became the foundation of testing procedure for
+AIT QA department.
+Developed and governed QA project milestones, QA test strategies, scope test plans, resource allocations and project planning for AIT's
+Information Management and Business Intelligence by design process participation, peer and Quality Control reviews. Oversaw
+development of QA strategies, test plans and test cases to migrate Prudential's Annuity system to newly established Data Warehouse, Mart
+with Cognos as reporting front-end.
+Managed QA validation execution, tracking and governance of Annuities Information Factory data warehouse, the foundation of AIT's
+Business Intelligence infrastructure in QA Organization by leading two onshore and six offshore, from India and Ireland, in design, creation
+and execution of test strategies and test plans in alignment with SDLC and Project Life Cycle.
+Bridged QA SME single point-of-failure gap by developing succession plans and approach though knowledge transfers, documentations
+and trainings.
+Monitored and reported relevant QA metrics for test performance to senior management for though use of charts and graphs for trend and
+analysis. Managed prioritization of production defect resolution, validation and on-time production deployments. Defined, developed and
+standardized production defect resolution infrastructure and processes for the newly formed QA Production Support team.
+Coordinated QA test region management including data refresh and test region trouble shooting though project planning and scheduling,
+working knowledge of test environments, capabilities and user needs. This process improvement resulted to a single point of contact and
+multiple call reduction.
+Engineered and streamlined QA region refresh procedures resulting into a repeatable process implemented in AIT QA department. This
+process reduced test region set-up to 5 days from its usual 9 days set up. Employed automation, batch processing, collaboration and
+negotiations with IT partners to drive success.
+Directed the validation 15 small projects ($50K or less) within 12 months leveraging onshore and offshore staffs following full QA Testing
+Lifecycle.
+QA project led American Skandia and All State data acquisitions and conversions by creating and implementing QA test strategies and
+plans to 12 onshore and 10 offshore consultants, communicating project status through QA metrics. Established and matured AnnuitiesInformation Technology's automation infrastructure and processes. Developed regression test bed to reduce manual testing effort of
+repeatable process.
+Collaborated in the establishment of the QA Automation infrastructure through proof of concepts, benefits and impact analysis with
+Pramerica offshore team. Established the 1st automation infrastructure using Rational Software and base line regression test bed for
+Prudential's Annuities Technology line of business.
+Reduced database table seeding QA validation by 75% in QA, UAT and Production environment by developing and implementing excel
+macro comparison tools to validate data accuracy.
+Built a Cyclic Redundancy Check automated script that save 4 person hours on each execution by launching 100 application screens that
+executed initiation modules.
+Software Developer
+ 
+January 1996
+ 
+to 
+January 1998
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Software Developer/QA Project Lead, PRODIGY
+ 
+January 1988
+ 
+to 
+January 1996
+ 
+Company Name
+ 
+ï¼​ 
+City
+ 
+, 
+State
+Education
+MS
+ 
+: 
+Computer Science
+ 
+, 
+1992
+ 
+University of New Haven
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+, 
+US
+ 
+MS in Computer Science University of New Haven - New Haven,
+CT 1992
+BS
+ 
+: 
+Computer Science
+ 
+, 
+1985
+ 
+Fairleigh Dickinson University
+ 
+ï¼​ 
+City
+ 
+, 
+State
+ 
+, 
+US
+ 
+BS in Computer Science Fairleigh Dickinson University -
+Teaneck, NJ 1985 LINKS http://www.linkedin.com/in/josephmueller201
+Certifications
+AIT
+Skills
+Qa, Offshore, Annuities, Testing, Team Lead, Database, Qa Validation, Sdlc, Metrics, Project Planning, Qa Test, Qa Testing, Benefits, Excel,
+Production Environment, Rational, Uat, Leadership Development, Project Management, Best Practices, Business Case, Capacity Management,
+Collection, Data Collection, Marketing, Portfolio Management, Procurement, Progress, Project Plans, Proposals, Saas, Software As A Service,
+Sow, Statement Of Work, Strategic Planning, Technical Requirements, Training, Vendor Management, Business Intelligence, Cases, Clients,
+Coda, Cognos, Data Warehouse, Etl, Extract, Transform, And Load, Front End, Front End Design, Front-end, Governance, Ibm Cognos, Life
+Cycle, Qa Methodology, Quality Assurance, Quality Assurance Standards, Quality Control, Sme, Subject Matter Expert, Test Lead, Test Plans,
+Batch Processing, Its, Process Improvement, Scheduling, Instructor, Order Processing, Acceptance Testing, Access, Coaching, Data Analysis,
+Data Warehousing, Ibm Rational Software, Marketing Analysis, Mentoring, Microsoft Project, Ms Access, Ms Project, Ms Word, Oracle, Org
+Development, Organizational Development, Rational Software, Rdb, Software Qa, Sql, Team Building, User Acceptance, Visio, Word
